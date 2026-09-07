@@ -1,5 +1,5 @@
 {
-  "current_total": 532,
+  "current_total": 534,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -140,9 +140,20 @@
         "https://querorango.com/receitas/cafe-da-manha/ovos-benedict-com-molho-holandes-caseiro-caseiro-classico/",
         "https://querorango.com/receitas/air-fryer/mandioca-frita-crocante-por-fora-e-macia-tradicional-da-vovo/"
       ]
+    },
+    {
+      "timestamp": "2026-09-07 21:59:02",
+      "count": 2,
+      "errors": 0,
+      "new_total": 534,
+      "queue_remaining": 1766,
+      "urls": [
+        "https://querorango.com/receitas/almoco/picadinho-carioca-com-banana-da-terra-e-ovo-tradicional-da-vovo/",
+        "https://querorango.com/receitas/rapidas/frittata-rapida-de-espinafre-com-ricota-tradicional-da-vovo/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-09-07 18:42:35",
+  "last_run": "2026-09-07 21:59:02",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
