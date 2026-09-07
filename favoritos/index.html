@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="pt-BR" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Minhas Receitas Favoritas Salvas | Quero Rango ❤️</title>
+  <meta name="description" content="Acesse rapidamente as receitas que você salvou no Quero Rango. Disponível até mesmo offline no seu celular.">
+  <link rel="canonical" href="https://querorango.com/favoritos/">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="theme-color" content="#FF6B35">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,700;1,400&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="site-header">
+    <div class="scroll-progress"></div>
+    <nav class="nav container">
+      <a href="/" class="nav-logo">
+        <span class="nav-logo-accent">Quero</span> Rango
+      </a>
+      <div class="nav-links">
+        <a href="/" class="nav-link">Início</a>
+        <a href="/receitas/boteco/" class="nav-link nav-highlight">🍺 Comida de Boteco</a>
+
+        <!-- Dropdown com Todas as Categorias -->
+        <div class="nav-dropdown">
+          <button class="nav-dropdown-btn" type="button" aria-haspopup="true" aria-expanded="false">
+            Categorias ▾
+          </button>
+          <div class="nav-dropdown-menu">
+            <div class="dropdown-group">
+              <div class="dropdown-group-title">Petiscos & Rápidas</div>
+              <a href="/receitas/boteco/" class="dropdown-item">
+                <span class="item-name">🍺 Comida de Boteco</span>
+                <span class="item-count">300+</span>
+              </a>
+              <a href="/receitas/air-fryer/" class="dropdown-item">
+                <span class="item-name">⚡ Air Fryer</span>
+                <span class="item-count">Crocante</span>
+              </a>
+              <a href="/receitas/rapidas/" class="dropdown-item">
+                <span class="item-name">⏱️ Rápidas (15 min)</span>
+                <span class="item-count">Práticas</span>
+              </a>
+              <a href="/receitas/lanches/" class="dropdown-item">
+                <span class="item-name">🥪 Lanches & Petiscos</span>
+                <span class="item-count">Sanduíches</span>
+              </a>
+              <a href="/receitas/pressao/" class="dropdown-item">
+                <span class="item-name">🍲 Panela de Pressão</span>
+                <span class="item-count">Carnes & Caldos</span>
+              </a>
+              <a href="/receitas/economicas/" class="dropdown-item">
+                <span class="item-name">💰 Econômicas</span>
+                <span class="item-count">Fim de mês</span>
+              </a>
+            </div>
+
+            <div class="dropdown-group">
+              <div class="dropdown-group-title">Almoço, Jantar & Carnes</div>
+              <a href="/receitas/almoco/" class="dropdown-item">
+                <span class="item-name">🍽️ Almoço & Jantar</span>
+                <span class="item-count">Completas</span>
+              </a>
+              <a href="/receitas/frango/" class="dropdown-item">
+                <span class="item-name">🍗 Frango & Aves</span>
+                <span class="item-count">Assados</span>
+              </a>
+              <a href="/receitas/massas/" class="dropdown-item">
+                <span class="item-name">🍝 Massas & Lasanhas</span>
+                <span class="item-count">Molhos</span>
+              </a>
+              <a href="/receitas/carne-moida/" class="dropdown-item">
+                <span class="item-name">🥩 Carne Moída</span>
+                <span class="item-count">Versátil</span>
+              </a>
+              <a href="/receitas/peixes/" class="dropdown-item">
+                <span class="item-name">🐟 Peixes & Frutos do Mar</span>
+                <span class="item-count">Frescos</span>
+              </a>
+              <a href="/receitas/regional/" class="dropdown-item">
+                <span class="item-name">🇧🇷 Culinária Regional</span>
+                <span class="item-count">Tradição</span>
+              </a>
+            </div>
+
+            <div class="dropdown-group">
+              <div class="dropdown-group-title">Doces & Confeitaria</div>
+              <a href="/receitas/bolos/" class="dropdown-item">
+                <span class="item-name">🎂 Bolos Caseiros</span>
+                <span class="item-count">Fofinhos</span>
+              </a>
+              <a href="/receitas/sobremesas/" class="dropdown-item">
+                <span class="item-name">🍮 Sobremesas & Pudins</span>
+                <span class="item-count">Doces</span>
+              </a>
+              <a href="/receitas/paes/" class="dropdown-item">
+                <span class="item-name">🍞 Pães & Padaria</span>
+                <span class="item-count">Massas</span>
+              </a>
+              <a href="/receitas/virais/" class="dropdown-item">
+                <span class="item-name">✨ Doces Virais</span>
+                <span class="item-count">Tendências</span>
+              </a>
+              <a href="/receitas/cafe-da-manha/" class="dropdown-item">
+                <span class="item-name">☕ Café & Brunch</span>
+                <span class="item-count">Manhã</span>
+              </a>
+            </div>
+
+            <div class="dropdown-group">
+              <div class="dropdown-group-title">Saudável & Especial</div>
+              <a href="/receitas/saudavel/" class="dropdown-item">
+                <span class="item-name">🥗 Saudável & Fit</span>
+                <span class="item-count">Proteína</span>
+              </a>
+              <a href="/receitas/marmitas/" class="dropdown-item">
+                <span class="item-name">🍱 Marmitas & Meal Prep</span>
+                <span class="item-count">Semanal</span>
+              </a>
+              <a href="/receitas/sopas/" class="dropdown-item">
+                <span class="item-name">🥣 Sopas & Caldos</span>
+                <span class="item-count">Conforto</span>
+              </a>
+              <a href="/receitas/vegetarianas/" class="dropdown-item">
+                <span class="item-name">🌱 Vegetarianas & Veganas</span>
+                <span class="item-count">Vegetais</span>
+              </a>
+              <a href="/receitas/sem-gluten/" class="dropdown-item">
+                <span class="item-name">🌾 Sem Glúten & Lactose</span>
+                <span class="item-count">Leve</span>
+              </a>
+              <a href="/receitas/" class="dropdown-item" style="border-top: 1px dashed var(--border); margin-top: 0.25rem; font-weight: 700; color: var(--primary);">
+                <span class="item-name">📖 Ver Todas as Receitas</span>
+                <span class="item-count">→</span>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <a href="/receitas/air-fryer/" class="nav-link">Air Fryer</a>
+        <a href="/receitas/rapidas/" class="nav-link">Rápidas</a>
+        <a href="/busca/" class="nav-link">Na Geladeira 🔍</a>
+      </div>
+      <div class="nav-actions">
+        <button class="btn-icon notif-toggle-btn" onclick="window.toggleNotifications()" title="Notificações" aria-label="Notificações">🔔</button>
+        <button class="btn-icon" id="theme-toggle" title="Alternar tema" aria-label="Modo escuro">🌙</button>
+        <button class="nav-hamburger" aria-label="Menu" aria-expanded="false">☰</button>
+      </div>
+    </nav>
+    <nav class="mobile-menu" aria-label="Menu mobile">
+      <a href="/" class="nav-link">🏠 Início</a>
+      <a href="/receitas/boteco/" class="nav-link nav-highlight">🍺 Especial Comida de Boteco (300)</a>
+      <a href="/receitas/" class="nav-link">📖 Todas as Receitas (500+)</a>
+      <a href="/busca/" class="nav-link">🔍 O que tem na geladeira?</a>
+
+      <div style="font-size: 0.8rem; font-weight: 700; text-transform: uppercase; color: var(--primary); margin: 0.75rem 0 0.25rem 0.5rem;">
+        Todas as Categorias
+      </div>
+      <div class="mobile-categories-grid">
+        <a href="/receitas/boteco/" class="mobile-category-link">🍺 Boteco</a>
+        <a href="/receitas/air-fryer/" class="mobile-category-link">⚡ Air Fryer</a>
+        <a href="/receitas/rapidas/" class="mobile-category-link">⏱️ Rápidas</a>
+        <a href="/receitas/almoco/" class="mobile-category-link">🍽️ Almoço</a>
+        <a href="/receitas/bolos/" class="mobile-category-link">🎂 Bolos</a>
+        <a href="/receitas/sobremesas/" class="mobile-category-link">🍮 Sobremesas</a>
+        <a href="/receitas/frango/" class="mobile-category-link">🍗 Frango</a>
+        <a href="/receitas/massas/" class="mobile-category-link">🍝 Massas</a>
+        <a href="/receitas/carne-moida/" class="mobile-category-link">🥩 Carne Moída</a>
+        <a href="/receitas/saudavel/" class="mobile-category-link">🥗 Saudável</a>
+        <a href="/receitas/marmitas/" class="mobile-category-link">🍱 Marmitas</a>
+        <a href="/receitas/paes/" class="mobile-category-link">🍞 Pães</a>
+        <a href="/receitas/peixes/" class="mobile-category-link">🐟 Peixes</a>
+        <a href="/receitas/pressao/" class="mobile-category-link">🍲 Pressão</a>
+        <a href="/receitas/lanches/" class="mobile-category-link">🥪 Lanches</a>
+        <a href="/receitas/sopas/" class="mobile-category-link">🥣 Sopas</a>
+        <a href="/receitas/economicas/" class="mobile-category-link">💰 Econômicas</a>
+        <a href="/receitas/virais/" class="mobile-category-link">✨ Virais</a>
+        <a href="/receitas/regional/" class="mobile-category-link">🇧🇷 Regional</a>
+        <a href="/receitas/cafe-da-manha/" class="mobile-category-link">☕ Café</a>
+        <a href="/receitas/sem-gluten/" class="mobile-category-link">🌾 Sem Glúten</a>
+        <a href="/receitas/vegetarianas/" class="mobile-category-link">🌱 Veganas</a>
+      </div>
+
+      <a href="/sobre/" class="nav-link">ℹ️ Sobre o Quero Rango</a>
+    </nav>
+  </header>
+
+  <main class="container section">
+    <nav class="breadcrumb">
+      <a href="/">Início</a><span class="breadcrumb-sep">/</span>
+      <span class="breadcrumb-current">Favoritos</span>
+    </nav>
+
+    <div class="section-header">
+      <div>
+        <h1 class="section-title">❤️ Meu Caderno de Receitas</h1>
+        <p class="section-subtitle">As delícias que você guardou para preparar</p>
+      </div>
+      <button id="clear-all-favs" class="btn btn-ghost btn-sm" style="display: none;">Limpar Tudo</button>
+    </div>
+
+    <!-- Container Dinâmico via JS -->
+    <div id="fav-list" class="grid-3"></div>
+
+    <!-- Empty State -->
+    <div id="empty-state" style="text-align: center; padding: 4rem 1rem; display: none;">
+      <span style="font-size: 4rem;">📖</span>
+      <h2 class="mt-1">Nenhuma receita salva ainda!</h2>
+      <p class="text-muted" style="max-width: 480px; margin: 0.5rem auto 1.5rem auto;">
+        Enquanto navega pelas receitas, clique no botão <strong>🤍 Salvar</strong> para guardar as suas preferidas aqui e acessá-las rapidamente a qualquer hora!
+      </p>
+      <a href="/receitas/" class="btn btn-primary">Explorar Receitas Agora</a>
+    </div>
+
+  </main>
+
+  <footer class="site-footer">
+    <div class="container text-center">
+      <p>© 2026 Quero Rango (querorango.com) — Salve no celular e cozinhe sempre que quiser ❤️</p>
+    </div>
+  </footer>
+
+  <script src="/js/main.js"></script>
+  <script>
+    function renderFavs() {
+      const favs = window.getFavorites ? window.getFavorites() : [];
+      const listEl = document.getElementById('fav-list');
+      const emptyEl = document.getElementById('empty-state');
+      const clearBtn = document.getElementById('clear-all-favs');
+
+      if (!favs || favs.length === 0) {
+        listEl.innerHTML = '';
+        emptyEl.style.display = 'block';
+        clearBtn.style.display = 'none';
+        return;
+      }
+
+      emptyEl.style.display = 'none';
+      clearBtn.style.display = 'inline-flex';
+      listEl.innerHTML = favs.map(f => `
+        <article class="card">
+          <a href="${f.url}">
+            <img class="card-img" src="${f.img || 'https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=500&q=80'}" alt="${f.title}">
+          </a>
+          <div class="card-body">
+            <h3 class="card-title"><a href="${f.url}">${f.title}</a></h3>
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 1rem;">
+              <a href="${f.url}" class="btn btn-primary btn-sm">Abrir Receita</a>
+              <button onclick="removeFav('${f.id}')" class="btn btn-ghost btn-sm" style="color: #e05520;">Remover</button>
+            </div>
+          </div>
+        </article>
+      `).join('');
+    }
+
+    function removeFav(id) {
+      window.toggleFavorite(id, '', '', '');
+      renderFavs();
+    }
+
+    document.getElementById('clear-all-favs').addEventListener('click', () => {
+      if (confirm('Deseja realmente apagar todas as receitas salvas?')) {
+        localStorage.removeItem('qr-favorites');
+        renderFavs();
+      }
+    });
+
+    renderFavs();
+  </script>
+</body>
+</html>

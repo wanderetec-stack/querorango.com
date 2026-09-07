@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="128" fill="#FF6B35"/>
+  <circle cx="256" cy="280" r="160" fill="#FF8C5A"/>
+  <ellipse cx="256" cy="280" rx="140" ry="140" fill="#FFA57A" opacity="0.3"/>
+  <!-- Folha verde -->
+  <path d="M256 120 C280 60, 360 80, 370 120 C320 160, 270 140, 256 120 Z" fill="#6B7F4A"/>
+  <!-- Cabinho -->
+  <path d="M256 120 Q240 80, 210 90" stroke="#4A3728" stroke-width="12" stroke-linecap="round" fill="none"/>
+  <!-- Letra ou carinha -->
+  <text x="256" y="330" font-family="Arial, sans-serif" font-size="160" font-weight="bold" fill="#FFFFFF" text-anchor="middle">🍊</text>
+</svg>

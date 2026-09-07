@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+scheduler.log
+.DS_Store
+Thumbs.db
+.env
+.wrangler/

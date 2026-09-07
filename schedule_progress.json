@@ -1,0 +1,137 @@
+{
+  "current_total": 530,
+  "goal": 2000,
+  "daily_batch_size": 10,
+  "published_batches": [
+    {
+      "timestamp": "2026-09-05 18:13:08",
+      "count": 10,
+      "new_total": 210,
+      "urls": [
+        "https://querorango.com/receitas/air-fryer/coxa-de-frango-crocante-na-air-fryer-com-marinada-de-mostarda/",
+        "https://querorango.com/receitas/air-fryer/mandioca-frita-na-air-fryer-macia-por-dentro-e-crocante-por-fora/",
+        "https://querorango.com/receitas/air-fryer/chips-de-abobrinha-na-air-fryer-super-sequinhas-com-parmesao/",
+        "https://querorango.com/receitas/air-fryer/almondegas-recheadas-com-queijo-na-air-fryer-sem-ressecar/",
+        "https://querorango.com/receitas/air-fryer/banana-assada-na-air-fryer-com-canela-e-pasta-de-amendoim/",
+        "https://querorango.com/receitas/rapidas/macarrao-alho-e-oleo-com-tomatinhos-cereja-e-manjericao-fresco/",
+        "https://querorango.com/receitas/rapidas/frittata-de-espinafre-com-ricota-de-frigideira/",
+        "https://querorango.com/receitas/rapidas/sanduiche-natural-de-frango-com-cenoura-e-iogurte/",
+        "https://querorango.com/receitas/rapidas/quesadilla-rapida-de-queijo-e-milho-na-frigideira/",
+        "https://querorango.com/receitas/rapidas/bowl-rapido-de-atum-com-arroz-branco-e-abacate/"
+      ]
+    },
+    {
+      "timestamp": "2026-09-05 19:24:30",
+      "count": 2,
+      "errors": 0,
+      "new_total": 212,
+      "queue_remaining": 1788,
+      "urls": [
+        "https://querorango.com/receitas/air-fryer/coxinhas-da-asa-douradas-com-alho-e-ervas-caseiro-classico/",
+        "https://querorango.com/receitas/almoco/file-mignon-suino-com-geleia-de-pimenta-caseiro-classico/"
+      ]
+    },
+    {
+      "timestamp": "2026-09-05 19:47:13",
+      "count": 2,
+      "errors": 0,
+      "new_total": 214,
+      "queue_remaining": 1786,
+      "urls": [
+        "https://querorango.com/receitas/rapidas/macarrao-alho-e-oleo-com-tomates-confitados-caseiro-classico/",
+        "https://querorango.com/receitas/marmitas/iscas-de-carne-aceboladas-com-pimentao-caseiro-classico/"
+      ]
+    },
+    {
+      "timestamp": "2026-09-05 20:15:55",
+      "count": 2,
+      "errors": 0,
+      "new_total": 216,
+      "queue_remaining": 1784,
+      "urls": [
+        "https://querorango.com/receitas/saudavel/panqueca-proteica-de-claras-com-cacau-e-banana-caseiro-classico/",
+        "https://querorango.com/receitas/economicas/farofa-de-pao-amanhecido-com-alho-e-salsa-caseiro-classico/"
+      ]
+    },
+    {
+      "timestamp": "2026-09-05 21:45:03",
+      "count": 2,
+      "errors": 0,
+      "new_total": 218,
+      "queue_remaining": 1782,
+      "urls": [
+        "https://querorango.com/receitas/bolos/bolo-toalha-felpuda-molhadinho-de-coco-caseiro-classico/",
+        "https://querorango.com/receitas/sobremesas/manjar-branco-de-coco-com-calda-de-ameixa-caseiro-classico/"
+      ]
+    },
+    {
+      "timestamp": "2026-09-06 11:27:28",
+      "count": 2,
+      "errors": 0,
+      "new_total": 520,
+      "queue_remaining": 1780,
+      "urls": [
+        "https://querorango.com/receitas/paes/pao-australiano-escuro-com-mel-e-cacau-caseiro-classico/",
+        "https://querorango.com/receitas/virais/batata-frita-tornado-em-espiral-com-queijo-caseiro-classico/"
+      ]
+    },
+    {
+      "timestamp": "2026-09-06 11:38:27",
+      "count": 2,
+      "errors": 0,
+      "new_total": 522,
+      "queue_remaining": 1778,
+      "urls": [
+        "https://querorango.com/receitas/frango/frango-tikka-masala-com-molho-cremoso-caseiro-classico/",
+        "https://querorango.com/receitas/massas/talharim-ao-pesto-genoves-com-castanhas-caseiro-classico/"
+      ]
+    },
+    {
+      "timestamp": "2026-09-06 12:26:39",
+      "count": 2,
+      "errors": 0,
+      "new_total": 524,
+      "queue_remaining": 1776,
+      "urls": [
+        "https://querorango.com/receitas/carne-moida/polpetone-recheado-com-queijo-gratinado-caseiro-classico/",
+        "https://querorango.com/receitas/pressao/musculo-com-mandioca-e-molho-ferrugem-caseiro-classico/"
+      ]
+    },
+    {
+      "timestamp": "2026-09-07 08:27:25",
+      "count": 2,
+      "errors": 0,
+      "new_total": 526,
+      "queue_remaining": 1774,
+      "urls": [
+        "https://querorango.com/receitas/peixes/postas-de-robalo-grelhadas-com-ervas-caseiro-classico/",
+        "https://querorango.com/receitas/regional/vatapa-baiano-com-camarao-seco-e-castanhas-caseiro-classico/"
+      ]
+    },
+    {
+      "timestamp": "2026-09-07 09:26:51",
+      "count": 2,
+      "errors": 0,
+      "new_total": 528,
+      "queue_remaining": 1772,
+      "urls": [
+        "https://querorango.com/receitas/lanches/x-salada-especial-com-hamburguer-artesanal-caseiro-classico/",
+        "https://querorango.com/receitas/sopas/sopa-eslava-de-carne-com-batatas-e-paprica-caseiro-classico/"
+      ]
+    },
+    {
+      "timestamp": "2026-09-07 10:27:10",
+      "count": 2,
+      "errors": 0,
+      "new_total": 530,
+      "queue_remaining": 1770,
+      "urls": [
+        "https://querorango.com/receitas/sem-gluten/pao-de-forma-sem-gluten-com-farinha-de-arroz-caseiro-classico/",
+        "https://querorango.com/receitas/vegetarianas/curry-de-grao-de-bico-com-leite-de-coco-caseiro-classico/"
+      ]
+    }
+  ],
+  "last_index_published": 10,
+  "last_run": "2026-09-07 10:27:10",
+  "last_boteco_batch": "2026-09-05 22:23:41"
+}

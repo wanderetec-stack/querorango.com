@@ -1,0 +1,945 @@
+<!DOCTYPE html>
+<html lang="pt-BR" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Todas as Receitas | Quero Rango (210 Receitas Testadas)</title>
+  <meta name="description" content="Explore o acervo completo de receitas do Quero Rango. Filtre por categorias como Air Fryer, Almoço & Jantar, Rápidas, Marmitas, Sobremesas, Sopas e muito mais.">
+  <link rel="canonical" href="https://querorango.com/receitas/">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="theme-color" content="#FF6B35">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,700;1,400&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    .filter-pills-container {
+      display: flex;
+      gap: 0.5rem;
+      overflow-x: auto;
+      padding-bottom: 0.75rem;
+      margin-bottom: 2rem;
+      scrollbar-width: thin;
+    }
+    .filter-pill {
+      white-space: nowrap;
+      padding: 0.5rem 1rem;
+      border-radius: 50px;
+      border: 1px solid var(--border);
+      background: var(--bg-card);
+      color: var(--text);
+      font-size: 0.85rem;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+    .filter-pill:hover, .filter-pill.active {
+      background: var(--primary);
+      color: white;
+      border-color: var(--primary);
+    }
+  </style>
+</head>
+<body>
+    <header class="site-header">
+    <div class="scroll-progress"></div>
+    <nav class="nav container">
+      <a href="/" class="nav-logo">
+        <span class="nav-logo-accent">Quero</span> Rango
+      </a>
+      <div class="nav-links">
+        <a href="/" class="nav-link">Início</a>
+        <a href="/receitas/boteco/" class="nav-link nav-highlight">🍺 Comida de Boteco</a>
+
+        <!-- Dropdown com Todas as Categorias -->
+        <div class="nav-dropdown">
+          <button class="nav-dropdown-btn" type="button" aria-haspopup="true" aria-expanded="false">
+            Categorias ▾
+          </button>
+          <div class="nav-dropdown-menu">
+            <div class="dropdown-group">
+              <div class="dropdown-group-title">Petiscos & Rápidas</div>
+              <a href="/receitas/boteco/" class="dropdown-item">
+                <span class="item-name">🍺 Comida de Boteco</span>
+                <span class="item-count">300+</span>
+              </a>
+              <a href="/receitas/air-fryer/" class="dropdown-item">
+                <span class="item-name">⚡ Air Fryer</span>
+                <span class="item-count">Crocante</span>
+              </a>
+              <a href="/receitas/rapidas/" class="dropdown-item">
+                <span class="item-name">⏱️ Rápidas (15 min)</span>
+                <span class="item-count">Práticas</span>
+              </a>
+              <a href="/receitas/lanches/" class="dropdown-item">
+                <span class="item-name">🥪 Lanches & Petiscos</span>
+                <span class="item-count">Sanduíches</span>
+              </a>
+              <a href="/receitas/pressao/" class="dropdown-item">
+                <span class="item-name">🍲 Panela de Pressão</span>
+                <span class="item-count">Carnes & Caldos</span>
+              </a>
+              <a href="/receitas/economicas/" class="dropdown-item">
+                <span class="item-name">💰 Econômicas</span>
+                <span class="item-count">Fim de mês</span>
+              </a>
+            </div>
+
+            <div class="dropdown-group">
+              <div class="dropdown-group-title">Almoço, Jantar & Carnes</div>
+              <a href="/receitas/almoco/" class="dropdown-item">
+                <span class="item-name">🍽️ Almoço & Jantar</span>
+                <span class="item-count">Completas</span>
+              </a>
+              <a href="/receitas/frango/" class="dropdown-item">
+                <span class="item-name">🍗 Frango & Aves</span>
+                <span class="item-count">Assados</span>
+              </a>
+              <a href="/receitas/massas/" class="dropdown-item">
+                <span class="item-name">🍝 Massas & Lasanhas</span>
+                <span class="item-count">Molhos</span>
+              </a>
+              <a href="/receitas/carne-moida/" class="dropdown-item">
+                <span class="item-name">🥩 Carne Moída</span>
+                <span class="item-count">Versátil</span>
+              </a>
+              <a href="/receitas/peixes/" class="dropdown-item">
+                <span class="item-name">🐟 Peixes & Frutos do Mar</span>
+                <span class="item-count">Frescos</span>
+              </a>
+              <a href="/receitas/regional/" class="dropdown-item">
+                <span class="item-name">🇧🇷 Culinária Regional</span>
+                <span class="item-count">Tradição</span>
+              </a>
+            </div>
+
+            <div class="dropdown-group">
+              <div class="dropdown-group-title">Doces & Confeitaria</div>
+              <a href="/receitas/bolos/" class="dropdown-item">
+                <span class="item-name">🎂 Bolos Caseiros</span>
+                <span class="item-count">Fofinhos</span>
+              </a>
+              <a href="/receitas/sobremesas/" class="dropdown-item">
+                <span class="item-name">🍮 Sobremesas & Pudins</span>
+                <span class="item-count">Doces</span>
+              </a>
+              <a href="/receitas/paes/" class="dropdown-item">
+                <span class="item-name">🍞 Pães & Padaria</span>
+                <span class="item-count">Massas</span>
+              </a>
+              <a href="/receitas/virais/" class="dropdown-item">
+                <span class="item-name">✨ Doces Virais</span>
+                <span class="item-count">Tendências</span>
+              </a>
+              <a href="/receitas/cafe-da-manha/" class="dropdown-item">
+                <span class="item-name">☕ Café & Brunch</span>
+                <span class="item-count">Manhã</span>
+              </a>
+            </div>
+
+            <div class="dropdown-group">
+              <div class="dropdown-group-title">Saudável & Especial</div>
+              <a href="/receitas/saudavel/" class="dropdown-item">
+                <span class="item-name">🥗 Saudável & Fit</span>
+                <span class="item-count">Proteína</span>
+              </a>
+              <a href="/receitas/marmitas/" class="dropdown-item">
+                <span class="item-name">🍱 Marmitas & Meal Prep</span>
+                <span class="item-count">Semanal</span>
+              </a>
+              <a href="/receitas/sopas/" class="dropdown-item">
+                <span class="item-name">🥣 Sopas & Caldos</span>
+                <span class="item-count">Conforto</span>
+              </a>
+              <a href="/receitas/vegetarianas/" class="dropdown-item">
+                <span class="item-name">🌱 Vegetarianas & Veganas</span>
+                <span class="item-count">Vegetais</span>
+              </a>
+              <a href="/receitas/sem-gluten/" class="dropdown-item">
+                <span class="item-name">🌾 Sem Glúten & Lactose</span>
+                <span class="item-count">Leve</span>
+              </a>
+              <a href="/receitas/" class="dropdown-item" style="border-top: 1px dashed var(--border); margin-top: 0.25rem; font-weight: 700; color: var(--primary);">
+                <span class="item-name">📖 Ver Todas as Receitas</span>
+                <span class="item-count">→</span>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <a href="/receitas/air-fryer/" class="nav-link">Air Fryer</a>
+        <a href="/receitas/rapidas/" class="nav-link">Rápidas</a>
+        <a href="/busca/" class="nav-link">Na Geladeira 🔍</a>
+      </div>
+      <div class="nav-actions">
+        <button class="btn-icon notif-toggle-btn" onclick="window.toggleNotifications()" title="Notificações" aria-label="Notificações">🔔</button>
+        <button class="btn-icon" id="theme-toggle" title="Alternar tema" aria-label="Modo escuro">🌙</button>
+        <button class="nav-hamburger" aria-label="Menu" aria-expanded="false">☰</button>
+      </div>
+    </nav>
+    <nav class="mobile-menu" aria-label="Menu mobile">
+      <a href="/" class="nav-link">🏠 Início</a>
+      <a href="/receitas/boteco/" class="nav-link nav-highlight">🍺 Especial Comida de Boteco (300)</a>
+      <a href="/receitas/" class="nav-link">📖 Todas as Receitas (500+)</a>
+      <a href="/busca/" class="nav-link">🔍 O que tem na geladeira?</a>
+
+      <div style="font-size: 0.8rem; font-weight: 700; text-transform: uppercase; color: var(--primary); margin: 0.75rem 0 0.25rem 0.5rem;">
+        Todas as Categorias
+      </div>
+      <div class="mobile-categories-grid">
+        <a href="/receitas/boteco/" class="mobile-category-link">🍺 Boteco</a>
+        <a href="/receitas/air-fryer/" class="mobile-category-link">⚡ Air Fryer</a>
+        <a href="/receitas/rapidas/" class="mobile-category-link">⏱️ Rápidas</a>
+        <a href="/receitas/almoco/" class="mobile-category-link">🍽️ Almoço</a>
+        <a href="/receitas/bolos/" class="mobile-category-link">🎂 Bolos</a>
+        <a href="/receitas/sobremesas/" class="mobile-category-link">🍮 Sobremesas</a>
+        <a href="/receitas/frango/" class="mobile-category-link">🍗 Frango</a>
+        <a href="/receitas/massas/" class="mobile-category-link">🍝 Massas</a>
+        <a href="/receitas/carne-moida/" class="mobile-category-link">🥩 Carne Moída</a>
+        <a href="/receitas/saudavel/" class="mobile-category-link">🥗 Saudável</a>
+        <a href="/receitas/marmitas/" class="mobile-category-link">🍱 Marmitas</a>
+        <a href="/receitas/paes/" class="mobile-category-link">🍞 Pães</a>
+        <a href="/receitas/peixes/" class="mobile-category-link">🐟 Peixes</a>
+        <a href="/receitas/pressao/" class="mobile-category-link">🍲 Pressão</a>
+        <a href="/receitas/lanches/" class="mobile-category-link">🥪 Lanches</a>
+        <a href="/receitas/sopas/" class="mobile-category-link">🥣 Sopas</a>
+        <a href="/receitas/economicas/" class="mobile-category-link">💰 Econômicas</a>
+        <a href="/receitas/virais/" class="mobile-category-link">✨ Virais</a>
+        <a href="/receitas/regional/" class="mobile-category-link">🇧🇷 Regional</a>
+        <a href="/receitas/cafe-da-manha/" class="mobile-category-link">☕ Café</a>
+        <a href="/receitas/sem-gluten/" class="mobile-category-link">🌾 Sem Glúten</a>
+        <a href="/receitas/vegetarianas/" class="mobile-category-link">🌱 Veganas</a>
+      </div>
+
+      <a href="/sobre/" class="nav-link">ℹ️ Sobre o Quero Rango</a>
+    </nav>
+  </header>
+
+  <main class="container section">
+    <nav class="breadcrumb">
+      <a href="/">Início</a><span class="breadcrumb-sep">/</span>
+      <span class="breadcrumb-current">Todas as Receitas</span>
+    </nav>
+
+    <div class="section-header">
+      <div>
+        <h1 class="section-title">Catálogo Completo de Receitas 🍳</h1>
+        <p class="section-subtitle">Mais de 200 receitas testadas e aprovadas com checklist e timers digitais</p>
+      </div>
+      <div>
+        <input type="text" id="recipe-search-input" placeholder="Filtrar receitas nesta página..." class="form-input" style="max-width: 280px;" oninput="applyFilters()">
+      </div>
+    </div>
+
+    <!-- Barra de Filtros das 20 Categorias -->
+    <div class="filter-pills-container">
+      <button class="filter-pill active" onclick="filterCategory('all', this)">🔥 Todas (210 receitas)</button>
+      <button class="filter-pill" onclick="filterCategory('air-fryer', this)">Air Fryer</button>
+      <button class="filter-pill" onclick="filterCategory('almoco', this)">Almoço & Jantar</button>
+      <button class="filter-pill" onclick="filterCategory('rapidas', this)">Rápidas (15 a 20 min)</button>
+      <button class="filter-pill" onclick="filterCategory('marmitas', this)">Marmitas & Meal Prep</button>
+      <button class="filter-pill" onclick="filterCategory('saudavel', this)">Saudável & High Protein</button>
+      <button class="filter-pill" onclick="filterCategory('economicas', this)">Econômicas & Fim de Mês</button>
+      <button class="filter-pill" onclick="filterCategory('bolos', this)">Bolos Caseiros</button>
+      <button class="filter-pill" onclick="filterCategory('sobremesas', this)">Doces & Sobremesas</button>
+      <button class="filter-pill" onclick="filterCategory('paes', this)">Pães & Massas</button>
+      <button class="filter-pill" onclick="filterCategory('virais', this)">Doces Virais das Redes</button>
+      <button class="filter-pill" onclick="filterCategory('frango', this)">Frango & Aves</button>
+      <button class="filter-pill" onclick="filterCategory('massas', this)">Massas & Lasanhas</button>
+      <button class="filter-pill" onclick="filterCategory('carne-moida', this)">Carne Moída</button>
+      <button class="filter-pill" onclick="filterCategory('pressao', this)">Panela de Pressão</button>
+      <button class="filter-pill" onclick="filterCategory('peixes', this)">Peixes & Frutos do Mar</button>
+      <button class="filter-pill" onclick="filterCategory('regional', this)">Culinária Regional</button>
+      <button class="filter-pill" onclick="filterCategory('lanches', this)">Lanches & Petiscos</button>
+      <button class="filter-pill" onclick="filterCategory('sopas', this)">Sopas & Caldos</button>
+      <button class="filter-pill" onclick="filterCategory('sem-gluten', this)">Sem Glúten & Sem Lactose</button>
+      <button class="filter-pill" onclick="filterCategory('vegetarianas', this)">Vegetarianas & Veganas</button>
+      <button class="filter-pill" onclick="filterCategory('cafe-da-manha', this)">Café da Manhã & Brunch</button>
+    </div>
+
+    <!-- Grid de Receitas -->
+    <div class="grid-3" id="recipes-grid">
+      <article class="card recipe-filter-item" data-category="air-fryer" data-title="frango crocante na air fryer com casquinha dourada e suculência máxima">
+        <a href="/receitas/air-fryer/frango-crocante-air-fryer/">
+          <img class="card-img" src="/assets/recipes/frango-passarinho.jpg" alt="Frango Crocante na Air Fryer com Casquinha Dourada e Suculência Máxima" loading="lazy" width="400" height="260">
+        </a>
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="tag tag-primary">Air Fryer</span>
+            <span>⏱ 25 min</span>
+            <span>👥 4 porções</span>
+          </div>
+          <h3 class="card-title"><a href="/receitas/air-fryer/frango-crocante-air-fryer/">Frango Crocante na Air Fryer com Casquinha Dourada e Suculência Máxima</a></h3>
+          <p class="card-desc">Sobrecoxas douradas com casquinha crocante e carne suculenta sem usar uma gota de óleo.</p>
+          <div class="stars-meta"><span class="stars">⭐⭐⭐⭐⭐</span><span>4.9 (300+)</span></div>
+        </div>
+      </article>
+      <article class="card recipe-filter-item" data-category="air-fryer" data-title="batata frita perfeita na air fryer sequinha por fora e macia por dentro">
+        <a href="/receitas/air-fryer/batata-frita-air-fryer/">
+          <img class="card-img" src="https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=600&q=80" alt="Batata Frita Perfeita na Air Fryer Sequinha por Fora e Macia por Dentro" loading="lazy" width="400" height="260">
+        </a>
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="tag tag-primary">Air Fryer</span>
+            <span>⏱ 20 min</span>
+            <span>👥 4 porções</span>
+          </div>
+          <h3 class="card-title"><a href="/receitas/air-fryer/batata-frita-air-fryer/">Batata Frita Perfeita na Air Fryer Sequinha por Fora e Macia por Dentro</a></h3>
+          <p class="card-desc">O segredo do choque térmico para batatas sequinhas por fora e macias como purê por dentro.</p>
+          <div class="stars-meta"><span class="stars">⭐⭐⭐⭐⭐</span><span>4.9 (300+)</span></div>
+        </div>
+      </article>
+      <article class="card recipe-filter-item" data-category="almoco" data-title="frango assado suculento com batatas rústicas">
+        <a href="/receitas/almoco/frango-assado-com-batatas/">
+          <img class="card-img" src="https://images.unsplash.com/photo-1598515214211-89d3c73ae83b?w=600&q=80" alt="Frango Assado Suculento com Batatas Rústicas" loading="lazy" width="400" height="260">
+        </a>
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="tag tag-primary">Almoço & Jantar</span>
+            <span>⏱ 75 min</span>
+            <span>👥 4 porções</span>
+          </div>
+          <h3 class="card-title"><a href="/receitas/almoco/frango-assado-com-batatas/">Frango Assado Suculento com Batatas Rústicas</a></h3>
+          <p class="card-desc">Frango assado dourado com batatas rústicas, alecrim fresco e alho.</p>
+          <div class="stars-meta"><span class="stars">⭐⭐⭐⭐⭐</span><span>4.9 (300+)</span></div>
+        </div>
+      </article>
+      <article class="card recipe-filter-item" data-category="almoco" data-title="bife à parmegiana com queijo gratinado e molho ao sugo">
+        <a href="/receitas/almoco/bife-a-parmegiana/">
+          <img class="card-img" src="/assets/recipes/parmegiana.jpg" alt="Bife à Parmegiana com Queijo Gratinado e Molho ao Sugo" loading="lazy" width="400" height="260">
+        </a>
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="tag tag-primary">Almoço & Jantar</span>
+            <span>⏱ 30 min</span>
+            <span>👥 4 porções</span>
+          </div>
+          <h3 class="card-title"><a href="/receitas/almoco/bife-a-parmegiana/">Bife à Parmegiana com Queijo Gratinado e Molho ao Sugo</a></h3>
+          <p class="card-desc">Bife crocante empanado coberto com molho sugo encorpado e mussarela gratinada.</p>
+          <div class="stars-meta"><span class="stars">⭐⭐⭐⭐⭐</span><span>4.9 (300+)</span></div>
+        </div>
+      </article>
+      <article class="card recipe-filter-item" data-category="rapidas" data-title="macarrão cremoso de uma panela só pronto em 15 minutos">
+        <a href="/receitas/rapidas/macarrao-uma-panela-so/">
+          <img class="card-img" src="/assets/recipes/mac-and-cheese.jpg" alt="Macarrão Cremoso de Uma Panela Só Pronto em 15 Minutos" loading="lazy" width="400" height="260">
+        </a>
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="tag tag-primary">Rápidas (15 a 20 min)</span>
+            <span>⏱ 15 min</span>
+            <span>👥 4 porções</span>
+          </div>
+          <h3 class="card-title"><a href="/receitas/rapidas/macarrao-uma-panela-so/">Macarrão Cremoso de Uma Panela Só Pronto em 15 Minutos</a></h3>
+          <p class="card-desc">Massa cozida diretamente no molho cremoso de tomate e queijo em 15 minutos.</p>
+          <div class="stars-meta"><span class="stars">⭐⭐⭐⭐⭐</span><span>4.9 (300+)</span></div>
+        </div>
+      </article>
+      <article class="card recipe-filter-item" data-category="rapidas" data-title="omelete de hotel super fofinha com queijo e tomate">
+        <a href="/receitas/rapidas/omelete-recheada-hotel/">
+          <img class="card-img" src="https://images.unsplash.com/photo-1525351484163-7529414344d8?w=600&q=80" alt="Omelete de Hotel Super Fofinha com Queijo e Tomate" loading="lazy" width="400" height="260">
+        </a>
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="tag tag-primary">Rápidas (15 a 20 min)</span>
+            <span>⏱ 8 min</span>
+            <span>👥 4 porções</span>
+          </div>
+          <h3 class="card-title"><a href="/receitas/rapidas/omelete-recheada-hotel/">Omelete de Hotel Super Fofinha com Queijo e Tomate</a></h3>
+          <p class="card-desc">Omelete alta e macia com queijo derretendo, feita com manteiga gelada.</p>
+          <div class="stars-meta"><span class="stars">⭐⭐⭐⭐⭐</span><span>4.9 (300+)</span></div>
+        </div>
+      </article>
+      <article class="card recipe-filter-item" data-category="marmitas" data-title="frango desfiado temperado perfeito para congelar para a semana">
+        <a href="/receitas/marmitas/frango-desfiado-congelar/">
+          <img class="card-img" src="https://images.unsplash.com/photo-1543339308-43e59d6b73a6?w=600&q=80" alt="Frango Desfiado Temperado Perfeito para Congelar para a Semana" loading="lazy" width="400" height="260">
+        </a>
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="tag tag-primary">Marmitas & Meal Prep</span>
+            <span>⏱ 30 min</span>
+            <span>👥 4 porções</span>
+          </div>
+          <h3 class="card-title"><a href="/receitas/marmitas/frango-desfiado-congelar/">Frango Desfiado Temperado Perfeito para Congelar para a Semana</a></h3>
+          <p class="card-desc">Peito de frango temperado e desfiado na pressão para porcionar a semana.</p>
+          <div class="stars-meta"><span class="stars">⭐⭐⭐⭐⭐</span><span>4.9 (300+)</span></div>
+        </div>
+      </article>
+      <article class="card recipe-filter-item" data-category="marmitas" data-title="carne moída com cenoura e vagem que não solta água">
+        <a href="/receitas/marmitas/carne-moida-com-legumes-marmita/">
+          <img class="card-img" src="/assets/recipes/rocambole-carne.jpg" alt="Carne Moída com Cenoura e Vagem que Não Solta Água" loading="lazy" width="400" height="260">
+        </a>
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="tag tag-primary">Marmitas & Meal Prep</span>
+            <span>⏱ 25 min</span>
+            <span>👥 4 porções</span>
+          </div>
+          <h3 class="card-title"><a href="/receitas/marmitas/carne-moida-com-legumes-marmita/">Carne Moída com Cenoura e Vagem que Não Solta Água</a></h3>
+          <p class="card-desc">Carne moída refogada com cubinhos de cenoura e vagem fresca sem soltar água.</p>
+          <div class="stars-meta"><span class="stars">⭐⭐⭐⭐⭐</span><span>4.9 (300+)</span></div>
+        </div>
+      </article>
+      <article class="card recipe-filter-item" data-category="saudavel" data-title="crepioca proteica recheada com frango e queijo branco">
+        <a href="/receitas/saudavel/crepioca-proteica-frango/">
+          <img class="card-img" src="https://images.unsplash.com/photo-1584776296944-ab6fb57b0bdd?w=600&q=80" alt="Crepioca Proteica Recheada com Frango e Queijo Branco" loading="lazy" width="400" height="260">
+        </a>
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="tag tag-primary">Saudável & High Protein</span>
+            <span>⏱ 10 min</span>
+            <span>👥 4 porções</span>
+          </div>
+          <h3 class="card-title"><a href="/receitas/saudavel/crepioca-proteica-frango/">Crepioca Proteica Recheada com Frango e Queijo Branco</a></h3>
+          <p class="card-desc">Crepioca de frigideira dourada recheada com peito de frango desfiado suculento.</p>
+          <div class="stars-meta"><span class="stars">⭐⭐⭐⭐⭐</span><span>4.9 (300+)</span></div>
+        </div>
+      </article>
+      <article class="card recipe-filter-item" data-category="saudavel" data-title="panqueca de aveia e banana sem açúcar nem farinha">
+        <a href="/receitas/saudavel/panqueca-de-aveia-e-banana/">
+          <img class="card-img" src="/assets/recipes/panqueca-americana.jpg" alt="Panqueca de Aveia e Banana Sem Açúcar Nem Farinha" loading="lazy" width="400" height="260">
+        </a>
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="tag tag-primary">Saudável & High Protein</span>
+            <span>⏱ 12 min</span>
+            <span>👥 4 porções</span>
+          </div>
+          <h3 class="card-title"><a href="/receitas/saudavel/panqueca-de-aveia-e-banana/">Panqueca de Aveia e Banana Sem Açúcar Nem Farinha</a></h3>
+          <p class="card-desc">Panqueca natural sem açúcar nem farinha feita de banana amassada e aveia.</p>
+          <div class="stars-meta"><span class="stars">⭐⭐⭐⭐⭐</span><span>4.9 (300+)</span></div>
+        </div>
+      </article>
+      <article class="card recipe-filter-item" data-category="economicas" data-title="arroz de forno cremoso feito com sobras de geladeira">
+        <a href="/receitas/economicas/arroz-de-forno-com-sobras/">
+          <img class="card-img" src="/assets/recipes/arroz-carreteiro.jpg" alt="Arroz de Forno Cremoso Feito com Sobras de Geladeira" loading="lazy" width="400" height="260">
+        </a>
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="tag tag-primary">Econômicas & Fim de Mês</span>
+            <span>⏱ 25 min</span>
+            <span>👥 4 porções</span>
+          </div>
+          <h3 class="card-title"><a href="/receitas/economicas/arroz-de-forno-com-sobras/">Arroz de Forno Cremoso Feito com Sobras de Geladeira</a></h3>
+          <p class="card-desc">Transforme o arroz do dia anterior em um prato cremoso gratinado com queijo.</p>
+          <div class="stars-meta"><span class="stars">⭐⭐⭐⭐⭐</span><span>4.9 (300+)</span></div>
+        </div>
+      </article>
+      <article class="card recipe-filter-item" data-category="economicas" data-title="bolinho de arroz frito dourado e crocante da vovó">
+        <a href="/receitas/economicas/bolinho-de-arroz-da-vovo/">
+          <img class="card-img" src="/assets/recipes/bolinho-arroz.jpg" alt="Bolinho de Arroz Frito Dourado e Crocante da Vovó" loading="lazy" width="400" height="260">
+        </a>
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="tag tag-primary">Econômicas & Fim de Mês</span>
+            <span>⏱ 15 min</span>
+            <span>👥 4 porções</span>
+          </div>
+          <h3 class="card-title"><a href="/receitas/economicas/bolinho-de-arroz-da-vovo/">Bolinho de Arroz Frito Dourado e Crocante da Vovó</a></h3>
+          <p class="card-desc">Bolinhos dourados e crocantes por fora, macios por dentro com cheiro-verde.</p>
+          <div class="stars-meta"><span class="stars">⭐⭐⭐⭐⭐</span><span>4.9 (300+)</span></div>
+        </div>
+      </article>
+      <article class="card recipe-filter-item" data-category="bolos" data-title="bolo de fubá cremoso com pedacinhos de goiabada cascão">
+        <a href="/receitas/bolos/bolo-de-fuba-com-goiabada/">
+          <img class="card-img" src="/assets/recipes/bolo-fuba.jpg" alt="Bolo de Fubá Cremoso com Pedacinhos de Goiabada Cascão" loading="lazy" width="400" height="260">
+        </a>
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="tag tag-primary">Bolos Caseiros</span>
+            <span>⏱ 40 min</span>
+            <span>👥 4 porções</span>
+          </div>
+          <h3 class="card-title"><a href="/receitas/bolos/bolo-de-fuba-com-goiabada/">Bolo de Fubá Cremoso com Pedacinhos de Goiabada Cascão</a></h3>
+          <p class="card-desc">Bolo de fubá cremoso recheado com pedacinhos macios de goiabada cascão.</p>
+          <div class="stars-meta"><span class="stars">⭐⭐⭐⭐⭐</span><span>4.9 (300+)</span></div>
+        </div>
+      </article>
+      <article class="card recipe-filter-item" data-category="bolos" data-title="bolo de milho de liquidificador cremoso parecendo pamonha">
+        <a href="/receitas/bolos/bolo-de-milho-de-lata-cremoso/">
+          <img class="card-img" src="/assets/recipes/bolo-milho.jpg" alt="Bolo de Milho de Liquidificador Cremoso Parecendo Pamonha" loading="lazy" width="400" height="260">
+        </a>
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="tag tag-primary">Bolos Caseiros</span>
+            <span>⏱ 45 min</span>
+            <span>👥 4 porções</span>
+          </div>
+          <h3 class="card-title"><a href="/receitas/bolos/bolo-de-milho-de-lata-cremoso/">Bolo de Milho de Liquidificador Cremoso Parecendo Pamonha</a></h3>
+          <p class="card-desc">Bolo cremoso de milho verde de liquidificador com textura macia e dourada.</p>
+          <div class="stars-meta"><span class="stars">⭐⭐⭐⭐⭐</span><span>4.9 (300+)</span></div>
+        </div>
+      </article>
+      <article class="card recipe-filter-item" data-category="sobremesas" data-title="pudim de leite condensado aveludado tradicional de vó">
+        <a href="/receitas/sobremesas/pudim-de-leite-sem-furinho/">
+          <img class="card-img" src="/assets/recipes/pudim.jpg" alt="Pudim de Leite Condensado Aveludado Tradicional de Vó" loading="lazy" width="400" height="260">
+        </a>
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="tag tag-primary">Doces & Sobremesas</span>
+            <span>⏱ 60 min</span>
+            <span>👥 4 porções</span>
+          </div>
+          <h3 class="card-title"><a href="/receitas/sobremesas/pudim-de-leite-sem-furinho/">Pudim de Leite Condensado Aveludado Tradicional de Vó</a></h3>
+          <p class="card-desc">Pudim clássico aveludado e lisinho com banho de calda de caramelo brilhante.</p>
+          <div class="stars-meta"><span class="stars">⭐⭐⭐⭐⭐</span><span>4.9 (300+)</span></div>
+        </div>
+      </article>
+      <article class="card recipe-filter-item" data-category="sobremesas" data-title="pavê de chocolate clássico com biscoito champanhe">
+        <a href="/receitas/sobremesas/pave-de-chocolate-tradicional/">
+          <img class="card-img" src="/assets/recipes/pave.jpg" alt="Pavê de Chocolate Clássico com Biscoito Champanhe" loading="lazy" width="400" height="260">
+        </a>
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="tag tag-primary">Doces & Sobremesas</span>
+            <span>⏱ 25 min</span>
+            <span>👥 4 porções</span>
+          </div>
+          <h3 class="card-title"><a href="/receitas/sobremesas/pave-de-chocolate-tradicional/">Pavê de Chocolate Clássico com Biscoito Champanhe</a></h3>
+          <p class="card-desc">Camadas intercaladas de biscoito champagne umedecido, creme branco e ganache.</p>
+          <div class="stars-meta"><span class="stars">⭐⭐⭐⭐⭐</span><span>4.9 (300+)</span></div>
+        </div>
+      </article>
+      <article class="card recipe-filter-item" data-category="paes" data-title="pão caseiro de liquidificador que não precisa sovar">
+        <a href="/receitas/paes/pao-caseiro-fofinho-liquidificador/">
+          <img class="card-img" src="/assets/recipes/pao-frances.jpg" alt="Pão Caseiro de Liquidificador que Não Precisa Sovar" loading="lazy" width="400" height="260">
+        </a>
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="tag tag-primary">Pães & Massas</span>
+            <span>⏱ 35 min</span>
+            <span>👥 4 porções</span>
+          </div>
+          <h3 class="card-title"><a href="/receitas/paes/pao-caseiro-fofinho-liquidificador/">Pão Caseiro de Liquidificador que Não Precisa Sovar</a></h3>
+          <p class="card-desc">Pão de forma caseiro que cresce muito, super fofo e sem precisar de sova.</p>
+          <div class="stars-meta"><span class="stars">⭐⭐⭐⭐⭐</span><span>4.9 (300+)</span></div>
+        </div>
+      </article>
+      <article class="card recipe-filter-item" data-category="paes" data-title="pão de queijo mineiro tradicional com queijo canastra">
+        <a href="/receitas/paes/pao-de-queijo-mineiro-polvilho/">
+          <img class="card-img" src="/assets/recipes/pao-de-queijo.jpg" alt="Pão de Queijo Mineiro Tradicional com Queijo Canastra" loading="lazy" width="400" height="260">
+        </a>
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="tag tag-primary">Pães & Massas</span>
+            <span>⏱ 25 min</span>
+            <span>👥 4 porções</span>
+          </div>
+          <h3 class="card-title"><a href="/receitas/paes/pao-de-queijo-mineiro-polvilho/">Pão de Queijo Mineiro Tradicional com Queijo Canastra</a></h3>
+          <p class="card-desc">A verdadeira receita mineira com polvilho azedo e queijo canastra curado.</p>
+          <div class="stars-meta"><span class="stars">⭐⭐⭐⭐⭐</span><span>4.9 (300+)</span></div>
+        </div>
+      </article>
+      <article class="card recipe-filter-item" data-category="virais" data-title="morango do amor com casquinha vermelha de vidro crocante">
+        <a href="/receitas/virais/morango-do-amor-crocante/">
+          <img class="card-img" src="https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=600&q=80" alt="Morango do Amor com Casquinha Vermelha de Vidro Crocante" loading="lazy" width="400" height="260">
+        </a>
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="tag tag-primary">Doces Virais das Redes</span>
+            <span>⏱ 15 min</span>
+            <span>👥 4 porções</span>
+          </div>
+          <h3 class="card-title"><a href="/receitas/virais/morango-do-amor-crocante/">Morango do Amor com Casquinha Vermelha de Vidro Crocante</a></h3>
+          <p class="card-desc">Morangos frescos cobertos por calda vermelha vidrada espelhada super crocante.</p>
+          <div class="stars-meta"><span class="stars">⭐⭐⭐⭐⭐</span><span>4.9 (300+)</span></div>
+        </div>
+      </article>
+      <article class="card recipe-filter-item" data-category="virais" data-title="uva do amor verde thompson com cobertura de açúcar vidrada">
+        <a href="/receitas/virais/uva-do-amor-verde/">
+          <img class="card-img" src="https://images.unsplash.com/photo-1537640538966-79f369143f8f?w=600&q=80" alt="Uva do Amor Verde Thompson com Cobertura de Açúcar Vidrada" loading="lazy" width="400" height="260">
+        </a>
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="tag tag-primary">Doces Virais das Redes</span>
+            <span>⏱ 15 min</span>
+            <span>👥 4 porções</span>
+          </div>
+          <h3 class="card-title"><a href="/receitas/virais/uva-do-amor-verde/">Uva do Amor Verde Thompson com Cobertura de Açúcar Vidrada</a></h3>
+          <p class="card-desc">Cacho de uvas verdes Thompson envolvido em caramelo translúcido estaladiço.</p>
+          <div class="stars-meta"><span class="stars">⭐⭐⭐⭐⭐</span><span>4.9 (300+)</span></div>
+        </div>
+      </article>
+      <article class="card recipe-filter-item" data-category="frango" data-title="fricassê de frango clássico cremoso com palha crocante">
+        <a href="/receitas/frango/fricasse-de-frango-com-milho/">
+          <img class="card-img" src="https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=600&q=80" alt="Fricassê de Frango Clássico Cremoso com Palha Crocante" loading="lazy" width="400" height="260">
+        </a>
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="tag tag-primary">Frango & Aves</span>
+            <span>⏱ 25 min</span>
+            <span>👥 4 porções</span>
+          </div>
+          <h3 class="card-title"><a href="/receitas/frango/fricasse-de-frango-com-milho/">Fricassê de Frango Clássico Cremoso com Palha Crocante</a></h3>
+          <p class="card-desc">Fricassê de frango cremosíssimo com milho verde, requeijão e batata-palha dourada.</p>
+          <div class="stars-meta"><span class="stars">⭐⭐⭐⭐⭐</span><span>4.9 (300+)</span></div>
+        </div>
+      </article>
+      <article class="card recipe-filter-item" data-category="frango" data-title="filé de frango empanado crocante com farinha panko">
+        <a href="/receitas/frango/file-de-frango-empanado-crocante/">
+          <img class="card-img" src="/assets/recipes/parmegiana.jpg" alt="Filé de Frango Empanado Crocante com Farinha Panko" loading="lazy" width="400" height="260">
+        </a>
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="tag tag-primary">Frango & Aves</span>
+            <span>⏱ 12 min</span>
+            <span>👥 4 porções</span>
+          </div>
+          <h3 class="card-title"><a href="/receitas/frango/file-de-frango-empanado-crocante/">Filé de Frango Empanado Crocante com Farinha Panko</a></h3>
+          <p class="card-desc">Filé de frango empanado na farinha panko bem sequinho e crocante com limão.</p>
+          <div class="stars-meta"><span class="stars">⭐⭐⭐⭐⭐</span><span>4.9 (300+)</span></div>
+        </div>
+      </article>
+      <article class="card recipe-filter-item" data-category="massas" data-title="lasanha à bolonhesa clássica de domingo com molho branco">
+        <a href="/receitas/massas/lasanha-a-bolonhesa-tradicional/">
+          <img class="card-img" src="/assets/recipes/lasanha.jpg" alt="Lasanha à Bolonhesa Clássica de Domingo com Molho Branco" loading="lazy" width="400" height="260">
+        </a>
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="tag tag-primary">Massas & Lasanhas</span>
+            <span>⏱ 40 min</span>
+            <span>👥 4 porções</span>
+          </div>
+          <h3 class="card-title"><a href="/receitas/massas/lasanha-a-bolonhesa-tradicional/">Lasanha à Bolonhesa Clássica de Domingo com Molho Branco</a></h3>
+          <p class="card-desc">Camadas generosas de massa artesanal com molho bolonhesa clássico e queijo tostado.</p>
+          <div class="stars-meta"><span class="stars">⭐⭐⭐⭐⭐</span><span>4.9 (300+)</span></div>
+        </div>
+      </article>
+      <article class="card recipe-filter-item" data-category="massas" data-title="molho de tomate rústico italiano cozido lentamente com manjericão">
+        <a href="/receitas/massas/molho-de-tomate-caseiro-rustico/">
+          <img class="card-img" src="https://images.unsplash.com/photo-1572441713132-c542fc4fe282?w=600&q=80" alt="Molho de Tomate Rústico Italiano Cozido Lentamente com Manjericão" loading="lazy" width="400" height="260">
+        </a>
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="tag tag-primary">Massas & Lasanhas</span>
+            <span>⏱ 35 min</span>
+            <span>👥 4 porções</span>
+          </div>
+          <h3 class="card-title"><a href="/receitas/massas/molho-de-tomate-caseiro-rustico/">Molho de Tomate Rústico Italiano Cozido Lentamente com Manjericão</a></h3>
+          <p class="card-desc">Molho encorpado de tomates maduros cozidos lentamente com alho e manjericão fresco.</p>
+          <div class="stars-meta"><span class="stars">⭐⭐⭐⭐⭐</span><span>4.9 (300+)</span></div>
+        </div>
+      </article>
+      <article class="card recipe-filter-item" data-category="carne-moida" data-title="rocambole de carne moída recheado com presunto e queijo">
+        <a href="/receitas/carne-moida/rocambole-de-carne-moida-recheado/">
+          <img class="card-img" src="/assets/recipes/rocambole-carne.jpg" alt="Rocambole de Carne Moída Recheado com Presunto e Queijo" loading="lazy" width="400" height="260">
+        </a>
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="tag tag-primary">Carne Moída</span>
+            <span>⏱ 40 min</span>
+            <span>👥 4 porções</span>
+          </div>
+          <h3 class="card-title"><a href="/receitas/carne-moida/rocambole-de-carne-moida-recheado/">Rocambole de Carne Moída Recheado com Presunto e Queijo</a></h3>
+          <p class="card-desc">Rocambole dourado recheado com presunto, queijo derretido e cenoura ralada.</p>
+          <div class="stars-meta"><span class="stars">⭐⭐⭐⭐⭐</span><span>4.9 (300+)</span></div>
+        </div>
+      </article>
+      <article class="card recipe-filter-item" data-category="carne-moida" data-title="almôndegas de carne moída macias cozidas no molho de tomate">
+        <a href="/receitas/carne-moida/almondegas-ao-molho-caseiro/">
+          <img class="card-img" src="/assets/recipes/almondegas.jpg" alt="Almôndegas de Carne Moída Macias Cozidas no Molho de Tomate" loading="lazy" width="400" height="260">
+        </a>
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="tag tag-primary">Carne Moída</span>
+            <span>⏱ 25 min</span>
+            <span>👥 4 porções</span>
+          </div>
+          <h3 class="card-title"><a href="/receitas/carne-moida/almondegas-ao-molho-caseiro/">Almôndegas de Carne Moída Macias Cozidas no Molho de Tomate</a></h3>
+          <p class="card-desc">Almôndegas artesanais macias cozidas em molho rústico de tomate fresco.</p>
+          <div class="stars-meta"><span class="stars">⭐⭐⭐⭐⭐</span><span>4.9 (300+)</span></div>
+        </div>
+      </article>
+      <article class="card recipe-filter-item" data-category="pressao" data-title="costela gaúcha na pressão com cebola feita sem nenhuma gota de água">
+        <a href="/receitas/pressao/costela-na-pressao-com-cebola/">
+          <img class="card-img" src="/assets/recipes/costela.jpg" alt="Costela Gaúcha na Pressão com Cebola Feita Sem Nenhuma Gota de Água" loading="lazy" width="400" height="260">
+        </a>
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="tag tag-primary">Panela de Pressão</span>
+            <span>⏱ 45 min</span>
+            <span>👥 4 porções</span>
+          </div>
+          <h3 class="card-title"><a href="/receitas/pressao/costela-na-pressao-com-cebola/">Costela Gaúcha na Pressão com Cebola Feita Sem Nenhuma Gota de Água</a></h3>
+          <p class="card-desc">Costela bovina cozida na panela de pressão na cama de cebolas sem adicionar água.</p>
+          <div class="stars-meta"><span class="stars">⭐⭐⭐⭐⭐</span><span>4.9 (300+)</span></div>
+        </div>
+      </article>
+      <article class="card recipe-filter-item" data-category="pressao" data-title="carne de panela macia com batatas e caldo espesso encorpado">
+        <a href="/receitas/pressao/carne-de-panela-com-batata-cenoura/">
+          <img class="card-img" src="/assets/recipes/carne-panela.jpg" alt="Carne de Panela Macia com Batatas e Caldo Espesso Encorpado" loading="lazy" width="400" height="260">
+        </a>
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="tag tag-primary">Panela de Pressão</span>
+            <span>⏱ 40 min</span>
+            <span>👥 4 porções</span>
+          </div>
+          <h3 class="card-title"><a href="/receitas/pressao/carne-de-panela-com-batata-cenoura/">Carne de Panela Macia com Batatas e Caldo Espesso Encorpado</a></h3>
+          <p class="card-desc">Carne bovina macia ensopada na pressão com cubos de batata e cenoura no caldo.</p>
+          <div class="stars-meta"><span class="stars">⭐⭐⭐⭐⭐</span><span>4.9 (300+)</span></div>
+        </div>
+      </article>
+      <article class="card recipe-filter-item" data-category="peixes" data-title="moqueca baiana tradicional com leite de coco e azeite de dendê">
+        <a href="/receitas/peixes/moqueca-baiana-de-peixe/">
+          <img class="card-img" src="/assets/recipes/moqueca.jpg" alt="Moqueca Baiana Tradicional com Leite de Coco e Azeite de Dendê" loading="lazy" width="400" height="260">
+        </a>
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="tag tag-primary">Peixes & Frutos do Mar</span>
+            <span>⏱ 30 min</span>
+            <span>👥 4 porções</span>
+          </div>
+          <h3 class="card-title"><a href="/receitas/peixes/moqueca-baiana-de-peixe/">Moqueca Baiana Tradicional com Leite de Coco e Azeite de Dendê</a></h3>
+          <p class="card-desc">Moqueca baiana tradicional em panela de barro com peixe fresco, dendê e leite de coco.</p>
+          <div class="stars-meta"><span class="stars">⭐⭐⭐⭐⭐</span><span>4.9 (300+)</span></div>
+        </div>
+      </article>
+      <article class="card recipe-filter-item" data-category="peixes" data-title="filé de tilápia grelhado que não gruda na frigideira com limão">
+        <a href="/receitas/peixes/file-de-tilapia-grelhado-perfeito/">
+          <img class="card-img" src="/assets/recipes/peixe-grelhado.jpg" alt="Filé de Tilápia Grelhado que Não Gruda na Frigideira com Limão" loading="lazy" width="400" height="260">
+        </a>
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="tag tag-primary">Peixes & Frutos do Mar</span>
+            <span>⏱ 10 min</span>
+            <span>👥 4 porções</span>
+          </div>
+          <h3 class="card-title"><a href="/receitas/peixes/file-de-tilapia-grelhado-perfeito/">Filé de Tilápia Grelhado que Não Gruda na Frigideira com Limão</a></h3>
+          <p class="card-desc">Filé de tilápia grelhado sem grudar na frigideira, dourado e com gotas de limão.</p>
+          <div class="stars-meta"><span class="stars">⭐⭐⭐⭐⭐</span><span>4.9 (300+)</span></div>
+        </div>
+      </article>
+      <article class="card recipe-filter-item" data-category="regional" data-title="baião de dois nordestino com queijo coalho dourado e manteiga">
+        <a href="/receitas/regional/baiao-de-dois-com-queijo-coalho/">
+          <img class="card-img" src="/assets/recipes/baiao-de-dois.jpg" alt="Baião de Dois Nordestino com Queijo Coalho Dourado e Manteiga" loading="lazy" width="400" height="260">
+        </a>
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="tag tag-primary">Culinária Regional</span>
+            <span>⏱ 35 min</span>
+            <span>👥 4 porções</span>
+          </div>
+          <h3 class="card-title"><a href="/receitas/regional/baiao-de-dois-com-queijo-coalho/">Baião de Dois Nordestino com Queijo Coalho Dourado e Manteiga</a></h3>
+          <p class="card-desc">O prato símbolo do Nordeste: feijão-de-corda com arroz, queijo coalho e manteiga.</p>
+          <div class="stars-meta"><span class="stars">⭐⭐⭐⭐⭐</span><span>4.9 (300+)</span></div>
+        </div>
+      </article>
+      <article class="card recipe-filter-item" data-category="regional" data-title="feijão tropeiro mineiro autêntico com torresmo, linguiça e couve">
+        <a href="/receitas/regional/feijao-tropeiro-mineiro-completo/">
+          <img class="card-img" src="/assets/recipes/feijao-tropeiro.jpg" alt="Feijão Tropeiro Mineiro Autêntico com Torresmo, Linguiça e Couve" loading="lazy" width="400" height="260">
+        </a>
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="tag tag-primary">Culinária Regional</span>
+            <span>⏱ 25 min</span>
+            <span>👥 4 porções</span>
+          </div>
+          <h3 class="card-title"><a href="/receitas/regional/feijao-tropeiro-mineiro-completo/">Feijão Tropeiro Mineiro Autêntico com Torresmo, Linguiça e Couve</a></h3>
+          <p class="card-desc">Feijão tropeiro mineiro com farinha de mandioca, linguiça fatiada, couve e torresmo.</p>
+          <div class="stars-meta"><span class="stars">⭐⭐⭐⭐⭐</span><span>4.9 (300+)</span></div>
+        </div>
+      </article>
+      <article class="card recipe-filter-item" data-category="lanches" data-title="coxinha de frango com catupiry crocante da massa de batata">
+        <a href="/receitas/lanches/coxinha-de-frango-com-catupiry-festa/">
+          <img class="card-img" src="/assets/recipes/coxinha.jpg" alt="Coxinha de Frango com Catupiry Crocante da Massa de Batata" loading="lazy" width="400" height="260">
+        </a>
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="tag tag-primary">Lanches & Petiscos</span>
+            <span>⏱ 30 min</span>
+            <span>👥 4 porções</span>
+          </div>
+          <h3 class="card-title"><a href="/receitas/lanches/coxinha-de-frango-com-catupiry-festa/">Coxinha de Frango com Catupiry Crocante da Massa de Batata</a></h3>
+          <p class="card-desc">A rainha dos salgados: coxinha dourada com massa de batata e recheio cremoso.</p>
+          <div class="stars-meta"><span class="stars">⭐⭐⭐⭐⭐</span><span>4.9 (300+)</span></div>
+        </div>
+      </article>
+      <article class="card recipe-filter-item" data-category="lanches" data-title="pastel de feira crocante com bolhas douradas que não encharca">
+        <a href="/receitas/lanches/pastel-de-feira-sequinho-e-crocante/">
+          <img class="card-img" src="/assets/recipes/pastel.jpg" alt="Pastel de Feira Crocante com Bolhas Douradas que Não Encharca" loading="lazy" width="400" height="260">
+        </a>
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="tag tag-primary">Lanches & Petiscos</span>
+            <span>⏱ 15 min</span>
+            <span>👥 4 porções</span>
+          </div>
+          <h3 class="card-title"><a href="/receitas/lanches/pastel-de-feira-sequinho-e-crocante/">Pastel de Feira Crocante com Bolhas Douradas que Não Encharca</a></h3>
+          <p class="card-desc">Pastel gigante de feira com massa cheia de bolhas douradas e recheio fumegante.</p>
+          <div class="stars-meta"><span class="stars">⭐⭐⭐⭐⭐</span><span>4.9 (300+)</span></div>
+        </div>
+      </article>
+      <article class="card recipe-filter-item" data-category="sopas" data-title="caldo verde tradicional com batatas aveludadas, couve e chouriço">
+        <a href="/receitas/sopas/caldo-verde-portugues-tradicional/">
+          <img class="card-img" src="/assets/recipes/caldo-verde.jpg" alt="Caldo Verde Tradicional com Batatas Aveludadas, Couve e Chouriço" loading="lazy" width="400" height="260">
+        </a>
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="tag tag-primary">Sopas & Caldos</span>
+            <span>⏱ 30 min</span>
+            <span>👥 4 porções</span>
+          </div>
+          <h3 class="card-title"><a href="/receitas/sopas/caldo-verde-portugues-tradicional/">Caldo Verde Tradicional com Batatas Aveludadas, Couve e Chouriço</a></h3>
+          <p class="card-desc">Caldo aveludado de batatas com couve fininha e rodelas douradas de chouriço.</p>
+          <div class="stars-meta"><span class="stars">⭐⭐⭐⭐⭐</span><span>4.9 (300+)</span></div>
+        </div>
+      </article>
+      <article class="card recipe-filter-item" data-category="sopas" data-title="caldo de mandioca com costela bovina desfiada e cheiro-verde">
+        <a href="/receitas/sopas/caldo-de-mandioca-com-costela/">
+          <img class="card-img" src="https://images.unsplash.com/photo-1547592180-85f173990554?w=600&q=80" alt="Caldo de Mandioca com Costela Bovina Desfiada e Cheiro-Verde" loading="lazy" width="400" height="260">
+        </a>
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="tag tag-primary">Sopas & Caldos</span>
+            <span>⏱ 40 min</span>
+            <span>👥 4 porções</span>
+          </div>
+          <h3 class="card-title"><a href="/receitas/sopas/caldo-de-mandioca-com-costela/">Caldo de Mandioca com Costela Bovina Desfiada e Cheiro-Verde</a></h3>
+          <p class="card-desc">Creme denso de mandioca cozido com costela bovina desfiando e cheiro-verde.</p>
+          <div class="stars-meta"><span class="stars">⭐⭐⭐⭐⭐</span><span>4.9 (300+)</span></div>
+        </div>
+      </article>
+      <article class="card recipe-filter-item" data-category="sem-gluten" data-title="bolo de cenoura sem glúten fofinho com farinha de arroz e chocolate">
+        <a href="/receitas/sem-gluten/bolo-de-cenoura-sem-gluten/">
+          <img class="card-img" src="/assets/recipes/bolo-cenoura.jpg" alt="Bolo de Cenoura Sem Glúten Fofinho com Farinha de Arroz e Chocolate" loading="lazy" width="400" height="260">
+        </a>
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="tag tag-primary">Sem Glúten & Sem Lactose</span>
+            <span>⏱ 40 min</span>
+            <span>👥 4 porções</span>
+          </div>
+          <h3 class="card-title"><a href="/receitas/sem-gluten/bolo-de-cenoura-sem-gluten/">Bolo de Cenoura Sem Glúten Fofinho com Farinha de Arroz e Chocolate</a></h3>
+          <p class="card-desc">Bolo de cenoura fofinho com mix de farinha de arroz e calda sem leite de cacau.</p>
+          <div class="stars-meta"><span class="stars">⭐⭐⭐⭐⭐</span><span>4.9 (300+)</span></div>
+        </div>
+      </article>
+      <article class="card recipe-filter-item" data-category="sem-gluten" data-title="pão caseiro sem glúten fofinho com farinha de arroz e polvilho">
+        <a href="/receitas/sem-gluten/pao-sem-gluten-e-sem-leite/">
+          <img class="card-img" src="/assets/recipes/pao-integral.jpg" alt="Pão Caseiro Sem Glúten Fofinho com Farinha de Arroz e Polvilho" loading="lazy" width="400" height="260">
+        </a>
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="tag tag-primary">Sem Glúten & Sem Lactose</span>
+            <span>⏱ 40 min</span>
+            <span>👥 4 porções</span>
+          </div>
+          <h3 class="card-title"><a href="/receitas/sem-gluten/pao-sem-gluten-e-sem-leite/">Pão Caseiro Sem Glúten Fofinho com Farinha de Arroz e Polvilho</a></h3>
+          <p class="card-desc">Pão de forma caseiro sem glúten com miolo macio que não esfarela ao cortar.</p>
+          <div class="stars-meta"><span class="stars">⭐⭐⭐⭐⭐</span><span>4.9 (300+)</span></div>
+        </div>
+      </article>
+      <article class="card recipe-filter-item" data-category="vegetarianas" data-title="hambúrguer de grão-de-bico firme e dourado com ervas frescas">
+        <a href="/receitas/vegetarianas/hamburguer-de-grao-de-bico-vegano/">
+          <img class="card-img" src="/assets/recipes/hamburguer.jpg" alt="Hambúrguer de Grão-de-Bico Firme e Dourado com Ervas Frescas" loading="lazy" width="400" height="260">
+        </a>
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="tag tag-primary">Vegetarianas & Veganas</span>
+            <span>⏱ 20 min</span>
+            <span>👥 4 porções</span>
+          </div>
+          <h3 class="card-title"><a href="/receitas/vegetarianas/hamburguer-de-grao-de-bico-vegano/">Hambúrguer de Grão-de-Bico Firme e Dourado com Ervas Frescas</a></h3>
+          <p class="card-desc">Hambúrguer firme e aromático de grão-de-bico com cenoura, cominho e crosta dourada.</p>
+          <div class="stars-meta"><span class="stars">⭐⭐⭐⭐⭐</span><span>4.9 (300+)</span></div>
+        </div>
+      </article>
+      <article class="card recipe-filter-item" data-category="vegetarianas" data-title="strogonoff de cogumelos paris e shimeji com creme de castanha">
+        <a href="/receitas/vegetarianas/strogonoff-de-cogumelos-vegano/">
+          <img class="card-img" src="/assets/recipes/strogonoff.jpg" alt="Strogonoff de Cogumelos Paris e Shimeji com Creme de Castanha" loading="lazy" width="400" height="260">
+        </a>
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="tag tag-primary">Vegetarianas & Veganas</span>
+            <span>⏱ 20 min</span>
+            <span>👥 4 porções</span>
+          </div>
+          <h3 class="card-title"><a href="/receitas/vegetarianas/strogonoff-de-cogumelos-vegano/">Strogonoff de Cogumelos Paris e Shimeji com Creme de Castanha</a></h3>
+          <p class="card-desc">Mix suculento de cogumelos paris e shimeji refogados com creme de castanhas.</p>
+          <div class="stars-meta"><span class="stars">⭐⭐⭐⭐⭐</span><span>4.9 (300+)</span></div>
+        </div>
+      </article>
+      <article class="card recipe-filter-item" data-category="cafe-da-manha" data-title="ovos mexidos cremosos de hotel 5 estrelas feitos com manteiga gelada">
+        <a href="/receitas/cafe-da-manha/ovos-mexidos-cremosos-de-hotel/">
+          <img class="card-img" src="https://images.unsplash.com/photo-1525351484163-7529414344d8?w=600&q=80" alt="Ovos Mexidos Cremosos de Hotel 5 Estrelas Feitos com Manteiga Gelada" loading="lazy" width="400" height="260">
+        </a>
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="tag tag-primary">Café da Manhã & Brunch</span>
+            <span>⏱ 6 min</span>
+            <span>👥 4 porções</span>
+          </div>
+          <h3 class="card-title"><a href="/receitas/cafe-da-manha/ovos-mexidos-cremosos-de-hotel/">Ovos Mexidos Cremosos de Hotel 5 Estrelas Feitos com Manteiga Gelada</a></h3>
+          <p class="card-desc">Ovos cozidos em fogo baixíssimo com cubos de manteiga gelada até ficarem cremosos.</p>
+          <div class="stars-meta"><span class="stars">⭐⭐⭐⭐⭐</span><span>4.9 (300+)</span></div>
+        </div>
+      </article>
+      <article class="card recipe-filter-item" data-category="cafe-da-manha" data-title="waffles americanos crocantes por fora e macios por dentro com mel">
+        <a href="/receitas/cafe-da-manha/waffle-americano-crocante/">
+          <img class="card-img" src="/assets/recipes/waffle.jpg" alt="Waffles Americanos Crocantes por Fora e Macios por Dentro com Mel" loading="lazy" width="400" height="260">
+        </a>
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="tag tag-primary">Café da Manhã & Brunch</span>
+            <span>⏱ 15 min</span>
+            <span>👥 4 porções</span>
+          </div>
+          <h3 class="card-title"><a href="/receitas/cafe-da-manha/waffle-americano-crocante/">Waffles Americanos Crocantes por Fora e Macios por Dentro com Mel</a></h3>
+          <p class="card-desc">Waffle com casca dourada e crocante por fora, macio por dentro, com quadradinhos de mel.</p>
+          <div class="stars-meta"><span class="stars">⭐⭐⭐⭐⭐</span><span>4.9 (300+)</span></div>
+        </div>
+      </article>
+    </div>
+
+    <div id="no-results" style="display: none; text-align: center; padding: 4rem 1rem;">
+      <span style="font-size: 3rem;">🍽️</span>
+      <h3 style="margin-top: 1rem;">Nenhuma receita encontrada com esse filtro</h3>
+      <p class="text-muted">Tente buscar por outro termo ou navegue pelas categorias acima.</p>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container text-center">
+      <p>© 2026 Quero Rango (querorango.com) — Todos os direitos reservados. • Desenvolvido por Wander Santos</p>
+      <div style="display: flex; justify-content: center; gap: 1.5rem; margin-top: 1rem; font-size: 0.9rem;">
+        <a href="/sobre/">Sobre Nós</a>
+        <a href="/contato/">Fale Conosco</a>
+        <a href="/politica-de-privacidade/">Privacidade</a>
+        <a href="/termos-de-uso/">Termos de Uso</a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="/js/main.js"></script>
+  <script>
+    let currentCategory = 'all';
+
+    function filterCategory(catSlug, btn) {
+      currentCategory = catSlug;
+      document.querySelectorAll('.filter-pill').forEach(el => el.classList.remove('active'));
+      if (btn) btn.classList.add('active');
+      applyFilters();
+    }
+
+    function applyFilters() {
+      const query = document.getElementById('recipe-search-input').value.toLowerCase().trim();
+      const items = document.querySelectorAll('.recipe-filter-item');
+      let visibleCount = 0;
+
+      items.forEach(item => {
+        const matchesCategory = currentCategory === 'all' || item.dataset.category === currentCategory;
+        const matchesSearch = !query || item.dataset.title.includes(query);
+
+        if (matchesCategory && matchesSearch) {
+          item.style.display = '';
+          visibleCount++;
+        } else {
+          item.style.display = 'none';
+        }
+      });
+
+      document.getElementById('no-results').style.display = visibleCount === 0 ? 'block' : 'none';
+    }
+  </script>
+</body>
+</html>

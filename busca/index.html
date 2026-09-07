@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="pt-BR" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>O Que Tem na Geladeira? | Busca de Receitas por Ingrediente 🔍</title>
+  <meta name="description" content="Diga o que você tem em casa (ovos, cenoura, frango, chocolate) e encontre receitas perfeitas para não desperdiçar comida.">
+  <link rel="canonical" href="https://querorango.com/busca/">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="theme-color" content="#FF6B35">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,700;1,400&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="site-header">
+    <div class="scroll-progress"></div>
+    <nav class="nav container">
+      <a href="/" class="nav-logo">
+        <span class="nav-logo-accent">Quero</span> Rango
+      </a>
+      <div class="nav-links">
+        <a href="/" class="nav-link">Início</a>
+        <a href="/receitas/boteco/" class="nav-link nav-highlight">🍺 Comida de Boteco</a>
+
+        <!-- Dropdown com Todas as Categorias -->
+        <div class="nav-dropdown">
+          <button class="nav-dropdown-btn" type="button" aria-haspopup="true" aria-expanded="false">
+            Categorias ▾
+          </button>
+          <div class="nav-dropdown-menu">
+            <div class="dropdown-group">
+              <div class="dropdown-group-title">Petiscos & Rápidas</div>
+              <a href="/receitas/boteco/" class="dropdown-item">
+                <span class="item-name">🍺 Comida de Boteco</span>
+                <span class="item-count">300+</span>
+              </a>
+              <a href="/receitas/air-fryer/" class="dropdown-item">
+                <span class="item-name">⚡ Air Fryer</span>
+                <span class="item-count">Crocante</span>
+              </a>
+              <a href="/receitas/rapidas/" class="dropdown-item">
+                <span class="item-name">⏱️ Rápidas (15 min)</span>
+                <span class="item-count">Práticas</span>
+              </a>
+              <a href="/receitas/lanches/" class="dropdown-item">
+                <span class="item-name">🥪 Lanches & Petiscos</span>
+                <span class="item-count">Sanduíches</span>
+              </a>
+              <a href="/receitas/pressao/" class="dropdown-item">
+                <span class="item-name">🍲 Panela de Pressão</span>
+                <span class="item-count">Carnes & Caldos</span>
+              </a>
+              <a href="/receitas/economicas/" class="dropdown-item">
+                <span class="item-name">💰 Econômicas</span>
+                <span class="item-count">Fim de mês</span>
+              </a>
+            </div>
+
+            <div class="dropdown-group">
+              <div class="dropdown-group-title">Almoço, Jantar & Carnes</div>
+              <a href="/receitas/almoco/" class="dropdown-item">
+                <span class="item-name">🍽️ Almoço & Jantar</span>
+                <span class="item-count">Completas</span>
+              </a>
+              <a href="/receitas/frango/" class="dropdown-item">
+                <span class="item-name">🍗 Frango & Aves</span>
+                <span class="item-count">Assados</span>
+              </a>
+              <a href="/receitas/massas/" class="dropdown-item">
+                <span class="item-name">🍝 Massas & Lasanhas</span>
+                <span class="item-count">Molhos</span>
+              </a>
+              <a href="/receitas/carne-moida/" class="dropdown-item">
+                <span class="item-name">🥩 Carne Moída</span>
+                <span class="item-count">Versátil</span>
+              </a>
+              <a href="/receitas/peixes/" class="dropdown-item">
+                <span class="item-name">🐟 Peixes & Frutos do Mar</span>
+                <span class="item-count">Frescos</span>
+              </a>
+              <a href="/receitas/regional/" class="dropdown-item">
+                <span class="item-name">🇧🇷 Culinária Regional</span>
+                <span class="item-count">Tradição</span>
+              </a>
+            </div>
+
+            <div class="dropdown-group">
+              <div class="dropdown-group-title">Doces & Confeitaria</div>
+              <a href="/receitas/bolos/" class="dropdown-item">
+                <span class="item-name">🎂 Bolos Caseiros</span>
+                <span class="item-count">Fofinhos</span>
+              </a>
+              <a href="/receitas/sobremesas/" class="dropdown-item">
+                <span class="item-name">🍮 Sobremesas & Pudins</span>
+                <span class="item-count">Doces</span>
+              </a>
+              <a href="/receitas/paes/" class="dropdown-item">
+                <span class="item-name">🍞 Pães & Padaria</span>
+                <span class="item-count">Massas</span>
+              </a>
+              <a href="/receitas/virais/" class="dropdown-item">
+                <span class="item-name">✨ Doces Virais</span>
+                <span class="item-count">Tendências</span>
+              </a>
+              <a href="/receitas/cafe-da-manha/" class="dropdown-item">
+                <span class="item-name">☕ Café & Brunch</span>
+                <span class="item-count">Manhã</span>
+              </a>
+            </div>
+
+            <div class="dropdown-group">
+              <div class="dropdown-group-title">Saudável & Especial</div>
+              <a href="/receitas/saudavel/" class="dropdown-item">
+                <span class="item-name">🥗 Saudável & Fit</span>
+                <span class="item-count">Proteína</span>
+              </a>
+              <a href="/receitas/marmitas/" class="dropdown-item">
+                <span class="item-name">🍱 Marmitas & Meal Prep</span>
+                <span class="item-count">Semanal</span>
+              </a>
+              <a href="/receitas/sopas/" class="dropdown-item">
+                <span class="item-name">🥣 Sopas & Caldos</span>
+                <span class="item-count">Conforto</span>
+              </a>
+              <a href="/receitas/vegetarianas/" class="dropdown-item">
+                <span class="item-name">🌱 Vegetarianas & Veganas</span>
+                <span class="item-count">Vegetais</span>
+              </a>
+              <a href="/receitas/sem-gluten/" class="dropdown-item">
+                <span class="item-name">🌾 Sem Glúten & Lactose</span>
+                <span class="item-count">Leve</span>
+              </a>
+              <a href="/receitas/" class="dropdown-item" style="border-top: 1px dashed var(--border); margin-top: 0.25rem; font-weight: 700; color: var(--primary);">
+                <span class="item-name">📖 Ver Todas as Receitas</span>
+                <span class="item-count">→</span>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <a href="/receitas/air-fryer/" class="nav-link">Air Fryer</a>
+        <a href="/receitas/rapidas/" class="nav-link">Rápidas</a>
+        <a href="/busca/" class="nav-link">Na Geladeira 🔍</a>
+      </div>
+      <div class="nav-actions">
+        <button class="btn-icon notif-toggle-btn" onclick="window.toggleNotifications()" title="Notificações" aria-label="Notificações">🔔</button>
+        <button class="btn-icon" id="theme-toggle" title="Alternar tema" aria-label="Modo escuro">🌙</button>
+        <button class="nav-hamburger" aria-label="Menu" aria-expanded="false">☰</button>
+      </div>
+    </nav>
+    <nav class="mobile-menu" aria-label="Menu mobile">
+      <a href="/" class="nav-link">🏠 Início</a>
+      <a href="/receitas/boteco/" class="nav-link nav-highlight">🍺 Especial Comida de Boteco (300)</a>
+      <a href="/receitas/" class="nav-link">📖 Todas as Receitas (500+)</a>
+      <a href="/busca/" class="nav-link">🔍 O que tem na geladeira?</a>
+
+      <div style="font-size: 0.8rem; font-weight: 700; text-transform: uppercase; color: var(--primary); margin: 0.75rem 0 0.25rem 0.5rem;">
+        Todas as Categorias
+      </div>
+      <div class="mobile-categories-grid">
+        <a href="/receitas/boteco/" class="mobile-category-link">🍺 Boteco</a>
+        <a href="/receitas/air-fryer/" class="mobile-category-link">⚡ Air Fryer</a>
+        <a href="/receitas/rapidas/" class="mobile-category-link">⏱️ Rápidas</a>
+        <a href="/receitas/almoco/" class="mobile-category-link">🍽️ Almoço</a>
+        <a href="/receitas/bolos/" class="mobile-category-link">🎂 Bolos</a>
+        <a href="/receitas/sobremesas/" class="mobile-category-link">🍮 Sobremesas</a>
+        <a href="/receitas/frango/" class="mobile-category-link">🍗 Frango</a>
+        <a href="/receitas/massas/" class="mobile-category-link">🍝 Massas</a>
+        <a href="/receitas/carne-moida/" class="mobile-category-link">🥩 Carne Moída</a>
+        <a href="/receitas/saudavel/" class="mobile-category-link">🥗 Saudável</a>
+        <a href="/receitas/marmitas/" class="mobile-category-link">🍱 Marmitas</a>
+        <a href="/receitas/paes/" class="mobile-category-link">🍞 Pães</a>
+        <a href="/receitas/peixes/" class="mobile-category-link">🐟 Peixes</a>
+        <a href="/receitas/pressao/" class="mobile-category-link">🍲 Pressão</a>
+        <a href="/receitas/lanches/" class="mobile-category-link">🥪 Lanches</a>
+        <a href="/receitas/sopas/" class="mobile-category-link">🥣 Sopas</a>
+        <a href="/receitas/economicas/" class="mobile-category-link">💰 Econômicas</a>
+        <a href="/receitas/virais/" class="mobile-category-link">✨ Virais</a>
+        <a href="/receitas/regional/" class="mobile-category-link">🇧🇷 Regional</a>
+        <a href="/receitas/cafe-da-manha/" class="mobile-category-link">☕ Café</a>
+        <a href="/receitas/sem-gluten/" class="mobile-category-link">🌾 Sem Glúten</a>
+        <a href="/receitas/vegetarianas/" class="mobile-category-link">🌱 Veganas</a>
+      </div>
+
+      <a href="/sobre/" class="nav-link">ℹ️ Sobre o Quero Rango</a>
+    </nav>
+  </header>
+
+  <main class="container section">
+    <nav class="breadcrumb">
+      <a href="/">Início</a><span class="breadcrumb-sep">/</span>
+      <span class="breadcrumb-current">Busca Inteligente</span>
+    </nav>
+
+    <div class="text-center mb-4">
+      <span class="tag tag-primary">Despensa & Geladeira</span>
+      <h1 class="section-title mt-1">O que tem aí na sua cozinha?</h1>
+      <p class="section-subtitle">Digite os ingredientes que você tem em casa ou selecione nos filtros rápidos:</p>
+    </div>
+
+    <!-- Campo de Busca Dinâmico -->
+    <div style="max-width: 650px; margin: 0 auto 2.5rem auto;">
+      <div class="search-bar" style="border: 2px solid var(--primary);">
+        <input type="text" id="search-box" class="search-input" placeholder="Ex: cenoura, frango, quinoa, chocolate, leite...">
+        <button id="search-btn" class="search-btn">Filtrar</button>
+      </div>
+
+      <!-- Chips de Ingredientes Populares -->
+      <div style="display: flex; gap: 0.5rem; flex-wrap: wrap; justify-content: center; margin-top: 1rem;">
+        <span class="tag tag-dark" style="cursor: pointer;" onclick="filterBy('cenoura')">Cenoura</span>
+        <span class="tag tag-dark" style="cursor: pointer;" onclick="filterBy('frango')">Frango</span>
+        <span class="tag tag-dark" style="cursor: pointer;" onclick="filterBy('chocolate')">Chocolate</span>
+        <span class="tag tag-dark" style="cursor: pointer;" onclick="filterBy('quinoa')">Quinoa</span>
+        <span class="tag tag-dark" style="cursor: pointer;" onclick="filterBy('leite')">Leite Condensado</span>
+        <span class="tag tag-dark" style="cursor: pointer;" onclick="filterBy('batata')">Batata</span>
+        <span class="tag tag-primary" style="cursor: pointer;" onclick="filterBy('')">Ver Todas</span>
+      </div>
+    </div>
+
+    <!-- Resultados -->
+    <div id="results-count" class="mb-2 text-muted" style="font-size: 0.95rem;">Mostrando todas as receitas cadastradas:</div>
+
+    <div class="grid-3" id="recipes-container">
+      
+      <article class="card recipe-search-item" data-keywords="cenoura bolo chocolate fofinho sobremesa doce cafe">
+        <a href="/receitas/bolos/bolo-de-cenoura/">
+          <img class="card-img" src="https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=500&q=80" alt="Bolo de Cenoura">
+        </a>
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="tag tag-primary">Bolo</span>
+            <span>⏱ 60 min</span>
+          </div>
+          <h3 class="card-title"><a href="/receitas/bolos/bolo-de-cenoura/">Bolo de Cenoura Fofinho com Calda Craquelada</a></h3>
+          <p class="card-desc">Leva cenoura fresca, ovos, óleo e cobertura espessa de chocolate.</p>
+        </div>
+      </article>
+
+      <article class="card recipe-search-item" data-keywords="frango batata almoco alho limao alecrim assado carne salgado">
+        <a href="/receitas/almoco/frango-assado-com-batatas/">
+          <img class="card-img" src="https://images.unsplash.com/photo-1598515214211-89d3c73ae83b?w=500&q=80" alt="Frango Assado">
+        </a>
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="tag tag-primary">Almoço</span>
+            <span>⏱ 75 min</span>
+          </div>
+          <h3 class="card-title"><a href="/receitas/almoco/frango-assado-com-batatas/">Frango Assado Suculento com Batatas Rústicas</a></h3>
+          <p class="card-desc">Leva frango, batatas, azeite, limão, alho e ervas frescas.</p>
+        </div>
+      </article>
+
+      <article class="card recipe-search-item" data-keywords="quinoa salada legumes saudavel abobrinha pimentao grao vegano fit">
+        <a href="/receitas/saudavel/salada-de-quinoa/">
+          <img class="card-img" src="https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=500&q=80" alt="Salada de Quinoa">
+        </a>
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="tag tag-green">Saudável</span>
+            <span>⏱ 35 min</span>
+          </div>
+          <h3 class="card-title"><a href="/receitas/saudavel/salada-de-quinoa/">Salada Nutritiva de Quinoa com Legumes</a></h3>
+          <p class="card-desc">Leva quinoa, abobrinha, pimentão vermelho, grão-de-bico e azeite.</p>
+        </div>
+      </article>
+
+      <article class="card recipe-search-item" data-keywords="brigadeiro chocolate leite condensado doce sobremesa panela manteiga">
+        <a href="/receitas/sobremesas/brigadeiro-de-colher/">
+          <img class="card-img" src="https://images.unsplash.com/photo-1528975604071-b4dc52a2d18c?w=500&q=80" alt="Brigadeiro de Colher">
+        </a>
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="tag tag-primary">Sobremesa</span>
+            <span>⏱ 20 min</span>
+          </div>
+          <h3 class="card-title"><a href="/receitas/sobremesas/brigadeiro-de-colher/">Brigadeiro de Colher Aveludado de Panela</a></h3>
+          <p class="card-desc">Leva leite condensado, cacau em pó, manteiga e creme de leite.</p>
+        </div>
+      </article>
+
+      <article class="card recipe-search-item" data-keywords="canjica milho leite condensado coco regional canela junina festa">
+        <a href="/receitas/regional/canjica-cremosa/">
+          <img class="card-img" src="https://images.unsplash.com/photo-1547592180-85f173990554?w=500&q=80" alt="Canjica Cremosa">
+        </a>
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="tag tag-primary">Regional</span>
+            <span>⏱ 60 min</span>
+          </div>
+          <h3 class="card-title"><a href="/receitas/regional/canjica-cremosa/">Canjica Cremosa com Leite de Coco e Canela</a></h3>
+          <p class="card-desc">Leva milho para canjica, leite condensado, leite de coco e especiarias.</p>
+        </div>
+      </article>
+
+    </div>
+
+    <div id="no-results" style="display: none; text-align: center; padding: 3rem 1rem;">
+      <span style="font-size: 3rem;">🥣</span>
+      <h3 class="mt-1">Nenhuma receita encontrada para essa busca!</h3>
+      <p class="text-muted">Tente buscar por termos mais genéricos como "bolo", "frango", "chocolate" ou "leite".</p>
+    </div>
+
+  </main>
+
+  <footer class="site-footer">
+    <div class="container text-center">
+      <p>© 2026 Quero Rango (querorango.com) — Busca Inteligente de Ingredientes 🍊</p>
+    </div>
+  </footer>
+
+  <script src="/js/main.js"></script>
+  <script>
+    const searchBox = document.getElementById('search-box');
+    const items = document.querySelectorAll('.recipe-search-item');
+    const noRes = document.getElementById('no-results');
+    const countEl = document.getElementById('results-count');
+
+    function doSearch(val) {
+      const q = val.trim().toLowerCase();
+      let visible = 0;
+      items.forEach(item => {
+        const text = item.getAttribute('data-keywords').toLowerCase() + ' ' + item.textContent.toLowerCase();
+        if (!q || text.includes(q)) {
+          item.style.display = '';
+          visible++;
+        } else {
+          item.style.display = 'none';
+        }
+      });
+      noRes.style.display = visible === 0 ? 'block' : 'none';
+      countEl.textContent = q ? `Encontradas ${visible} receita(s) para "${q}":` : 'Mostrando todas as receitas cadastradas:';
+    }
+
+    function filterBy(term) {
+      searchBox.value = term;
+      doSearch(term);
+    }
+
+    searchBox.addEventListener('input', () => doSearch(searchBox.value));
+    
+    // Check URL parameters (e.g. ?q=cenoura)
+    const urlParams = new URLSearchParams(window.location.search);
+    const qParam = urlParams.get('q');
+    if (qParam) {
+      searchBox.value = qParam;
+      doSearch(qParam);
+    }
+  </script>
+</body>
+</html>

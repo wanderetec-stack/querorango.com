@@ -1,0 +1,48 @@
+name: Publicador Automatico de Receitas Quero Rango
+
+on:
+  schedule:
+    # Roda a cada 1 hora (no minuto 10 de cada hora)
+    - cron: '10 * * * *'
+  workflow_dispatch: # Permite disparar manualmente pelo painel do GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar codigo do repositorio
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Configurar Node.js (para Wrangler Cloudflare)
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Instalar Dependencias
+        run: |
+          pip install requests
+          npm install -g wrangler
+
+      - name: Executar Gerador de Receitas e Publicador Facebook
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        run: |
+          python hourly_scheduler.py --run-once
+
+      - name: Salvar e Commitar Novas Receitas no GitHub
+        run: |
+          git config --global user.name "Quero Rango Bot"
+          git config --global user.email "bot@querorango.com"
+          git add receitas/ sitemap.xml feed.rss recipe_queue.json schedule_progress.json
+          git commit -m "Auto: Publicacao horaria de receitas [skip ci]" || echo "Nenhuma alteracao para commitar"
+          git push origin main || echo "Push nao necessario ou sem alteracoes"
