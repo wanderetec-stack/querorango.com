@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "economicas",
-    "title": "Arroz Cremoso de Sobras com Requeijão e Milho Tradicional da Vovó",
-    "slug": "arroz-cremoso-de-sobras-com-requeijao-e-milho-tradicional-da-vovo",
-    "main_ingredient": "arroz branco cozido",
-    "secondary_ingredient": "requeijão cremoso e milho verde",
-    "cook_time": "15 min",
-    "prep_time": "5 min",
-    "image_url": "/assets/recipes/bolinho-arroz.jpg"
-  },
-  {
-    "category_slug": "bolos",
-    "title": "Bolo de Maçã com Nozes e Canela Tradicional da Vovó",
-    "slug": "bolo-de-maca-com-nozes-e-canela-tradicional-da-vovo",
-    "main_ingredient": "maçãs frescas picadas",
-    "secondary_ingredient": "canela em pó e nozes crocantes",
-    "cook_time": "45 min",
-    "prep_time": "15 min",
-    "image_url": "/assets/recipes/bolo-milho.jpg"
-  },
-  {
     "category_slug": "sobremesas",
     "title": "Chico Balanceado com Banana Caramelizada Tradicional da Vovó",
     "slug": "chico-balanceado-com-banana-caramelizada-tradicional-da-vovo",

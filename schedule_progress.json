@@ -1,5 +1,5 @@
 {
-  "current_total": 536,
+  "current_total": 538,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -162,9 +162,20 @@
         "https://querorango.com/receitas/marmitas/frango-com-quiabo-e-molho-rustico-tradicional-da-vovo/",
         "https://querorango.com/receitas/saudavel/salada-morna-de-quinoa-com-aspargos-grelhados-tradicional-da-vovo/"
       ]
+    },
+    {
+      "timestamp": "2026-09-08 05:54:40",
+      "count": 2,
+      "errors": 0,
+      "new_total": 538,
+      "queue_remaining": 1762,
+      "urls": [
+        "https://querorango.com/receitas/economicas/arroz-cremoso-de-sobras-com-requeijao-e-milho-tradicional-da-vovo/",
+        "https://querorango.com/receitas/bolos/bolo-de-maca-com-nozes-e-canela-tradicional-da-vovo/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-09-08 00:17:10",
+  "last_run": "2026-09-08 05:54:40",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
