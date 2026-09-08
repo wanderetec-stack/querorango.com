@@ -1,5 +1,5 @@
 {
-  "current_total": 534,
+  "current_total": 536,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -151,9 +151,20 @@
         "https://querorango.com/receitas/almoco/picadinho-carioca-com-banana-da-terra-e-ovo-tradicional-da-vovo/",
         "https://querorango.com/receitas/rapidas/frittata-rapida-de-espinafre-com-ricota-tradicional-da-vovo/"
       ]
+    },
+    {
+      "timestamp": "2026-09-08 00:17:10",
+      "count": 2,
+      "errors": 0,
+      "new_total": 536,
+      "queue_remaining": 1764,
+      "urls": [
+        "https://querorango.com/receitas/marmitas/frango-com-quiabo-e-molho-rustico-tradicional-da-vovo/",
+        "https://querorango.com/receitas/saudavel/salada-morna-de-quinoa-com-aspargos-grelhados-tradicional-da-vovo/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-09-07 21:59:02",
+  "last_run": "2026-09-08 00:17:10",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
