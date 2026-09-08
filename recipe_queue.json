@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "sobremesas",
-    "title": "Chico Balanceado com Banana Caramelizada Tradicional da Vovó",
-    "slug": "chico-balanceado-com-banana-caramelizada-tradicional-da-vovo",
-    "main_ingredient": "bananas em caramelo",
-    "secondary_ingredient": "creme aveludado e merengue",
-    "cook_time": "35 min",
-    "prep_time": "20 min",
-    "image_url": "/assets/recipes/pave.jpg"
-  },
-  {
-    "category_slug": "paes",
-    "title": "Pão de Cebola Fofinho de Liquidificador Tradicional da Vovó",
-    "slug": "pao-de-cebola-fofinho-de-liquidificador-tradicional-da-vovo",
-    "main_ingredient": "cebolas batidas na massa",
-    "secondary_ingredient": "leite morno, manteiga e ovos",
-    "cook_time": "35 min",
-    "prep_time": "20 min",
-    "image_url": "/assets/recipes/pao-de-queijo.jpg"
-  },
-  {
     "category_slug": "virais",
     "title": "Pipoca Gourmet com Ninho e Chocolate Branco Tradicional da Vovó",
     "slug": "pipoca-gourmet-com-ninho-e-chocolate-branco-tradicional-da-vovo",
