@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "pressao",
-    "title": "Acém de Panela com Batatas e Cenouras Tradicional da Vovó",
-    "slug": "acem-de-panela-com-batatas-e-cenouras-tradicional-da-vovo",
-    "main_ingredient": "acém bovino em cubos grandes",
-    "secondary_ingredient": "batatas inteiras e cenouras no caldo",
-    "cook_time": "40 min",
-    "prep_time": "15 min",
-    "image_url": "/assets/recipes/carne-panela.jpg"
-  },
-  {
-    "category_slug": "peixes",
-    "title": "Lombo de Bacalhau Confitado com Alho Tradicional da Vovó",
-    "slug": "lombo-de-bacalhau-confitado-com-alho-tradicional-da-vovo",
-    "main_ingredient": "lombo alto de bacalhau",
-    "secondary_ingredient": "muito azeite de oliva e dentes de alho",
-    "cook_time": "40 min",
-    "prep_time": "15 min",
-    "image_url": "/assets/recipes/peixe-grelhado.jpg"
-  },
-  {
     "category_slug": "regional",
     "title": "Caruru Tradicional com Quiabo e Dendê Tradicional da Vovó",
     "slug": "caruru-tradicional-com-quiabo-e-dende-tradicional-da-vovo",
