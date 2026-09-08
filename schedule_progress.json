@@ -1,5 +1,5 @@
 {
-  "current_total": 540,
+  "current_total": 542,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -184,9 +184,20 @@
         "https://querorango.com/receitas/sobremesas/chico-balanceado-com-banana-caramelizada-tradicional-da-vovo/",
         "https://querorango.com/receitas/paes/pao-de-cebola-fofinho-de-liquidificador-tradicional-da-vovo/"
       ]
+    },
+    {
+      "timestamp": "2026-09-08 16:34:40",
+      "count": 2,
+      "errors": 0,
+      "new_total": 542,
+      "queue_remaining": 1758,
+      "urls": [
+        "https://querorango.com/receitas/virais/pipoca-gourmet-com-ninho-e-chocolate-branco-tradicional-da-vovo/",
+        "https://querorango.com/receitas/frango/frango-com-quiabo-caipira-de-panela-tradicional-da-vovo/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-09-08 11:11:26",
+  "last_run": "2026-09-08 16:34:40",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
