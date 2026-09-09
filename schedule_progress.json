@@ -1,5 +1,5 @@
 {
-  "current_total": 548,
+  "current_total": 550,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -228,9 +228,20 @@
         "https://querorango.com/receitas/regional/caruru-tradicional-com-quiabo-e-dende-tradicional-da-vovo/",
         "https://querorango.com/receitas/lanches/coxinha-de-carne-seca-com-requeijao-tradicional-da-vovo/"
       ]
+    },
+    {
+      "timestamp": "2026-09-09 07:20:46",
+      "count": 2,
+      "errors": 0,
+      "new_total": 550,
+      "queue_remaining": 1750,
+      "urls": [
+        "https://querorango.com/receitas/sopas/caldo-de-abobora-com-gengibre-e-frango-tradicional-da-vovo/",
+        "https://querorango.com/receitas/sem-gluten/bolo-de-fuba-sem-gluten-cremoso-com-erva-doce-tradicional-da-vovo/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-09-09 01:13:10",
+  "last_run": "2026-09-09 07:20:46",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
