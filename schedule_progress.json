@@ -1,5 +1,5 @@
 {
-  "current_total": 546,
+  "current_total": 548,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -217,9 +217,20 @@
         "https://querorango.com/receitas/pressao/acem-de-panela-com-batatas-e-cenouras-tradicional-da-vovo/",
         "https://querorango.com/receitas/peixes/lombo-de-bacalhau-confitado-com-alho-tradicional-da-vovo/"
       ]
+    },
+    {
+      "timestamp": "2026-09-09 01:13:10",
+      "count": 2,
+      "errors": 0,
+      "new_total": 548,
+      "queue_remaining": 1752,
+      "urls": [
+        "https://querorango.com/receitas/regional/caruru-tradicional-com-quiabo-e-dende-tradicional-da-vovo/",
+        "https://querorango.com/receitas/lanches/coxinha-de-carne-seca-com-requeijao-tradicional-da-vovo/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-09-08 22:35:38",
+  "last_run": "2026-09-09 01:13:10",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
