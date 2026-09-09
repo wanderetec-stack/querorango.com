@@ -3231,4 +3231,16 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://querorango.com/receitas/vegetarianas/hamburguer-de-lentilha-com-ervas-frescas-tradicional-da-vovo/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://querorango.com/receitas/cafe-da-manha/waffles-dourados-com-frutas-vermelhas-e-mel-tradicional-da-vovo/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>

@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "vegetarianas",
-    "title": "Hambúrguer de Lentilha com Ervas Frescas Tradicional da Vovó",
-    "slug": "hamburguer-de-lentilha-com-ervas-frescas-tradicional-da-vovo",
-    "main_ingredient": "lentilha marrom cozida",
-    "secondary_ingredient": "cenoura ralada, cebola e cominho",
-    "cook_time": "15 min",
-    "prep_time": "15 min",
-    "image_url": "/assets/recipes/strogonoff.jpg"
-  },
-  {
-    "category_slug": "cafe-da-manha",
-    "title": "Waffles Dourados com Frutas Vermelhas e Mel Tradicional da Vovó",
-    "slug": "waffles-dourados-com-frutas-vermelhas-e-mel-tradicional-da-vovo",
-    "main_ingredient": "massa crocante de waffle",
-    "secondary_ingredient": "morangos, mirtilos e fio de mel",
-    "cook_time": "12 min",
-    "prep_time": "10 min",
-    "image_url": "/assets/recipes/waffle.jpg"
-  },
-  {
     "category_slug": "air-fryer",
     "title": "Chips de Batata Doce com Alecrim Especial com Toque do Chef",
     "slug": "chips-de-batata-doce-com-alecrim-especial-com-toque-do-chef",
