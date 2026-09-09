@@ -1,5 +1,5 @@
 {
-  "current_total": 552,
+  "current_total": 554,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -250,9 +250,20 @@
         "https://querorango.com/receitas/vegetarianas/hamburguer-de-lentilha-com-ervas-frescas-tradicional-da-vovo/",
         "https://querorango.com/receitas/cafe-da-manha/waffles-dourados-com-frutas-vermelhas-e-mel-tradicional-da-vovo/"
       ]
+    },
+    {
+      "timestamp": "2026-09-09 17:08:27",
+      "count": 2,
+      "errors": 0,
+      "new_total": 554,
+      "queue_remaining": 1746,
+      "urls": [
+        "https://querorango.com/receitas/air-fryer/chips-de-batata-doce-com-alecrim-especial-com-toque-do-chef/",
+        "https://querorango.com/receitas/almoco/polvo-grelhado-com-batatas-ao-murro-especial-com-toque-do-chef/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-09-09 12:56:38",
+  "last_run": "2026-09-09 17:08:27",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }

@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "air-fryer",
-    "title": "Chips de Batata Doce com Alecrim Especial com Toque do Chef",
-    "slug": "chips-de-batata-doce-com-alecrim-especial-com-toque-do-chef",
-    "main_ingredient": "batata doce em rodelas",
-    "secondary_ingredient": "azeite e alecrim",
-    "cook_time": "15 min",
-    "prep_time": "10 min",
-    "image_url": "/assets/recipes/torresmo.jpg"
-  },
-  {
-    "category_slug": "almoco",
-    "title": "Polvo Grelhado com Batatas ao Murro Especial com Toque do Chef",
-    "slug": "polvo-grelhado-com-batatas-ao-murro-especial-com-toque-do-chef",
-    "main_ingredient": "tentáculos de polvo",
-    "secondary_ingredient": "batatas ao murro e alho",
-    "cook_time": "45 min",
-    "prep_time": "20 min",
-    "image_url": "/assets/recipes/feijoada.jpg"
-  },
-  {
     "category_slug": "rapidas",
     "title": "Sanduíche Natural de Frango com Cenoura Especial com Toque do Chef",
     "slug": "sanduiche-natural-de-frango-com-cenoura-especial-com-toque-do-chef",
