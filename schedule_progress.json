@@ -1,5 +1,5 @@
 {
-  "current_total": 566,
+  "current_total": 568,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -327,9 +327,20 @@
         "https://querorango.com/receitas/carne-moida/hamburguer-recheado-com-cheddar-e-bacon-especial-com-toque-do-chef/",
         "https://querorango.com/receitas/pressao/pernil-desfiado-para-sanduiche-na-pressao-especial-com-toque-do-chef/"
       ]
+    },
+    {
+      "timestamp": "2026-09-10 19:36:20",
+      "count": 2,
+      "errors": 0,
+      "new_total": 568,
+      "queue_remaining": 1732,
+      "urls": [
+        "https://querorango.com/receitas/peixes/camarao-internacional-com-arroz-cremoso-e-palha-especial-com-toque-do-chef/",
+        "https://querorango.com/receitas/regional/manicoba-paraense-com-carnes-nobres-especial-com-toque-do-chef/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-09-10 16:21:08",
+  "last_run": "2026-09-10 19:36:20",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
