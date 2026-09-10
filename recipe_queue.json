@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "frango",
-    "title": "Peito de Frango ao Molho de Mostarda Dijon Especial com Toque do Chef",
-    "slug": "peito-de-frango-ao-molho-de-mostarda-dijon-especial-com-toque-do-chef",
-    "main_ingredient": "filés altos de peito",
-    "secondary_ingredient": "mostarda dijon e creme de leite",
-    "cook_time": "20 min",
-    "prep_time": "10 min",
-    "image_url": "/assets/recipes/strogonoff.jpg"
-  },
-  {
-    "category_slug": "massas",
-    "title": "Penne All'Arrabbiata com Molho Picante Especial com Toque do Chef",
-    "slug": "penne-all-arrabbiata-com-molho-picante-especial-com-toque-do-chef",
-    "main_ingredient": "penne al dente",
-    "secondary_ingredient": "tomates pelados e pimenta calabresa",
-    "cook_time": "15 min",
-    "prep_time": "8 min",
-    "image_url": "/assets/recipes/carbonara.jpg"
-  },
-  {
     "category_slug": "carne-moida",
     "title": "Hambúrguer Recheado com Cheddar e Bacon Especial com Toque do Chef",
     "slug": "hamburguer-recheado-com-cheddar-e-bacon-especial-com-toque-do-chef",
