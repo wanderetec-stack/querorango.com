@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "carne-moida",
-    "title": "Hambúrguer Recheado com Cheddar e Bacon Especial com Toque do Chef",
-    "slug": "hamburguer-recheado-com-cheddar-e-bacon-especial-com-toque-do-chef",
-    "main_ingredient": "blend de fraldinha e acém",
-    "secondary_ingredient": "queijo cheddar derretido por dentro",
-    "cook_time": "15 min",
-    "prep_time": "12 min",
-    "image_url": "https://images.unsplash.com/photo-1544025162-d76694265947?w=600&q=80"
-  },
-  {
-    "category_slug": "pressao",
-    "title": "Pernil Desfiado para Sanduíche na Pressão Especial com Toque do Chef",
-    "slug": "pernil-desfiado-para-sanduiche-na-pressao-especial-com-toque-do-chef",
-    "main_ingredient": "peça de pernil suíno",
-    "secondary_ingredient": "cebola, pimentões e vinagrete",
-    "cook_time": "50 min",
-    "prep_time": "20 min",
-    "image_url": "/assets/recipes/mac-and-cheese.jpg"
-  },
-  {
     "category_slug": "peixes",
     "title": "Camarão Internacional com Arroz Cremoso e Palha Especial com Toque do Chef",
     "slug": "camarao-internacional-com-arroz-cremoso-e-palha-especial-com-toque-do-chef",
