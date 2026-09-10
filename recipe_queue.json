@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "paes",
-    "title": "Pão de Centeio Rústico com Sementes de Linhaça Especial com Toque do Chef",
-    "slug": "pao-de-centeio-rustico-com-sementes-de-linhaca-especial-com-toque-do-chef",
-    "main_ingredient": "farinha de centeio integral",
-    "secondary_ingredient": "sementes de linhaça dourada",
-    "cook_time": "45 min",
-    "prep_time": "25 min",
-    "image_url": "/assets/recipes/focaccia.jpg"
-  },
-  {
-    "category_slug": "virais",
-    "title": "S'mores na Travessa com Marshmallow Gratinado Especial com Toque do Chef",
-    "slug": "s-mores-na-travessa-com-marshmallow-gratinado-especial-com-toque-do-chef",
-    "main_ingredient": "gotas de chocolate nobre",
-    "secondary_ingredient": "marshmallows e biscoitos graham",
-    "cook_time": "12 min",
-    "prep_time": "5 min",
-    "image_url": "/assets/recipes/brigadeiro.jpg"
-  },
-  {
     "category_slug": "frango",
     "title": "Peito de Frango ao Molho de Mostarda Dijon Especial com Toque do Chef",
     "slug": "peito-de-frango-ao-molho-de-mostarda-dijon-especial-com-toque-do-chef",

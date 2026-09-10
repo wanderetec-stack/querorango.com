@@ -1,5 +1,5 @@
 {
-  "current_total": 560,
+  "current_total": 562,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -294,9 +294,20 @@
         "https://querorango.com/receitas/bolos/bolo-mesclado-de-chocolate-com-baunilha-especial-com-toque-do-chef/",
         "https://querorango.com/receitas/sobremesas/mousse-de-limao-rapida-com-raspas-especial-com-toque-do-chef/"
       ]
+    },
+    {
+      "timestamp": "2026-09-10 05:54:58",
+      "count": 2,
+      "errors": 0,
+      "new_total": 562,
+      "queue_remaining": 1738,
+      "urls": [
+        "https://querorango.com/receitas/paes/pao-de-centeio-rustico-com-sementes-de-linhaca-especial-com-toque-do-chef/",
+        "https://querorango.com/receitas/virais/s-mores-na-travessa-com-marshmallow-gratinado-especial-com-toque-do-chef/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-09-10 01:01:22",
+  "last_run": "2026-09-10 05:54:58",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
