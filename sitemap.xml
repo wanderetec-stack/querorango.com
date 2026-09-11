@@ -3387,4 +3387,16 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://querorango.com/receitas/marmitas/pure-de-abobora-cabotia-com-gengibre-facil-e-pratico-para-o-dia-a-dia/</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://querorango.com/receitas/saudavel/smoothie-de-morango-com-leite-de-amendoas-facil-e-pratico-para-o-dia-a-dia/</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
