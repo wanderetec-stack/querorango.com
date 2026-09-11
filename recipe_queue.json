@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "almoco",
-    "title": "Escondidinho de Mandioca com Carne de Sol Fácil e Prático para o Dia a Dia",
-    "slug": "escondidinho-de-mandioca-com-carne-de-sol-facil-e-pratico-para-o-dia-a-dia",
-    "main_ingredient": "carne de sol dessalgada",
-    "secondary_ingredient": "purê de mandioca e queijo",
-    "cook_time": "40 min",
-    "prep_time": "25 min",
-    "image_url": "/assets/recipes/strogonoff.jpg"
-  },
-  {
-    "category_slug": "rapidas",
-    "title": "Quesadilla de Queijo com Milho e Orégano Fácil e Prático para o Dia a Dia",
-    "slug": "quesadilla-de-queijo-com-milho-e-oregano-facil-e-pratico-para-o-dia-a-dia",
-    "main_ingredient": "tortilhas de trigo",
-    "secondary_ingredient": "milho verde e queijo derretido",
-    "cook_time": "8 min",
-    "prep_time": "5 min",
-    "image_url": "/assets/recipes/misto-quente.jpg"
-  },
-  {
     "category_slug": "marmitas",
     "title": "Purê de Abóbora Cabotiá com Gengibre Fácil e Prático para o Dia a Dia",
     "slug": "pure-de-abobora-cabotia-com-gengibre-facil-e-pratico-para-o-dia-a-dia",

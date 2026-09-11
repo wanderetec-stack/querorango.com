@@ -3375,4 +3375,16 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://querorango.com/receitas/almoco/escondidinho-de-mandioca-com-carne-de-sol-facil-e-pratico-para-o-dia-a-dia/</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://querorango.com/receitas/rapidas/quesadilla-de-queijo-com-milho-e-oregano-facil-e-pratico-para-o-dia-a-dia/</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>

@@ -1,5 +1,5 @@
 {
-  "current_total": 574,
+  "current_total": 576,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -371,9 +371,20 @@
         "https://querorango.com/receitas/cafe-da-manha/panqueca-alta-com-manteiga-e-mirtilos-especial-com-toque-do-chef/",
         "https://querorango.com/receitas/air-fryer/almondegas-recheadas-com-queijo-prato-facil-e-pratico-para-o-dia-a-dia/"
       ]
+    },
+    {
+      "timestamp": "2026-09-11 11:12:01",
+      "count": 2,
+      "errors": 0,
+      "new_total": 576,
+      "queue_remaining": 1724,
+      "urls": [
+        "https://querorango.com/receitas/almoco/escondidinho-de-mandioca-com-carne-de-sol-facil-e-pratico-para-o-dia-a-dia/",
+        "https://querorango.com/receitas/rapidas/quesadilla-de-queijo-com-milho-e-oregano-facil-e-pratico-para-o-dia-a-dia/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-09-11 05:53:34",
+  "last_run": "2026-09-11 11:12:01",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
