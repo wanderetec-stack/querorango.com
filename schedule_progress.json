@@ -1,5 +1,5 @@
 {
-  "current_total": 572,
+  "current_total": 574,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -360,9 +360,20 @@
         "https://querorango.com/receitas/sem-gluten/torta-de-liquidificador-sem-gluten-de-legumes-especial-com-toque-do-chef/",
         "https://querorango.com/receitas/vegetarianas/moqueca-de-banana-da-terra-com-pimentoes-especial-com-toque-do-chef/"
       ]
+    },
+    {
+      "timestamp": "2026-09-11 05:53:34",
+      "count": 2,
+      "errors": 0,
+      "new_total": 574,
+      "queue_remaining": 1726,
+      "urls": [
+        "https://querorango.com/receitas/cafe-da-manha/panqueca-alta-com-manteiga-e-mirtilos-especial-com-toque-do-chef/",
+        "https://querorango.com/receitas/air-fryer/almondegas-recheadas-com-queijo-prato-facil-e-pratico-para-o-dia-a-dia/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-09-11 01:00:30",
+  "last_run": "2026-09-11 05:53:34",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
