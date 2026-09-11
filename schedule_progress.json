@@ -1,5 +1,5 @@
 {
-  "current_total": 570,
+  "current_total": 572,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -349,9 +349,20 @@
         "https://querorango.com/receitas/lanches/pastel-de-queijo-com-oregano-e-tomate-especial-com-toque-do-chef/",
         "https://querorango.com/receitas/sopas/canja-de-galinha-tradicional-com-arroz-e-legumes-especial-com-toque-do-chef/"
       ]
+    },
+    {
+      "timestamp": "2026-09-11 01:00:30",
+      "count": 2,
+      "errors": 0,
+      "new_total": 572,
+      "queue_remaining": 1728,
+      "urls": [
+        "https://querorango.com/receitas/sem-gluten/torta-de-liquidificador-sem-gluten-de-legumes-especial-com-toque-do-chef/",
+        "https://querorango.com/receitas/vegetarianas/moqueca-de-banana-da-terra-com-pimentoes-especial-com-toque-do-chef/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-09-10 22:30:51",
+  "last_run": "2026-09-11 01:00:30",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
