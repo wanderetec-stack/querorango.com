@@ -1,5 +1,5 @@
 {
-  "current_total": 578,
+  "current_total": 580,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -393,9 +393,20 @@
         "https://querorango.com/receitas/marmitas/pure-de-abobora-cabotia-com-gengibre-facil-e-pratico-para-o-dia-a-dia/",
         "https://querorango.com/receitas/saudavel/smoothie-de-morango-com-leite-de-amendoas-facil-e-pratico-para-o-dia-a-dia/"
       ]
+    },
+    {
+      "timestamp": "2026-09-11 19:37:26",
+      "count": 2,
+      "errors": 0,
+      "new_total": 580,
+      "queue_remaining": 1720,
+      "urls": [
+        "https://querorango.com/receitas/economicas/macarrao-com-molho-de-salsicha-e-pimentao-facil-e-pratico-para-o-dia-a-dia/",
+        "https://querorango.com/receitas/bolos/bolo-de-iogurte-com-raspas-de-limao-siciliano-facil-e-pratico-para-o-dia-a-dia/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-09-11 16:24:16",
+  "last_run": "2026-09-11 19:37:26",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }

@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "economicas",
-    "title": "Macarrão com Molho de Salsicha e Pimentão Fácil e Prático para o Dia a Dia",
-    "slug": "macarrao-com-molho-de-salsicha-e-pimentao-facil-e-pratico-para-o-dia-a-dia",
-    "main_ingredient": "macarrão parafuso",
-    "secondary_ingredient": "salsichas em rodelas e tomate",
-    "cook_time": "18 min",
-    "prep_time": "8 min",
-    "image_url": "https://images.unsplash.com/photo-1590301157890-4810ed352733?w=600&q=80"
-  },
-  {
-    "category_slug": "bolos",
-    "title": "Bolo de Iogurte com Raspas de Limão Siciliano Fácil e Prático para o Dia a Dia",
-    "slug": "bolo-de-iogurte-com-raspas-de-limao-siciliano-facil-e-pratico-para-o-dia-a-dia",
-    "main_ingredient": "iogurte natural cremoso",
-    "secondary_ingredient": "raspas frescas de limão siciliano",
-    "cook_time": "40 min",
-    "prep_time": "12 min",
-    "image_url": "https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?w=600&q=80"
-  },
-  {
     "category_slug": "sobremesas",
     "title": "Torta Gelada de Bolacha com Brigadeiro Branco Fácil e Prático para o Dia a Dia",
     "slug": "torta-gelada-de-bolacha-com-brigadeiro-branco-facil-e-pratico-para-o-dia-a-dia",

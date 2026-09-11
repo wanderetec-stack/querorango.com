@@ -5,7 +5,7 @@
     <link>https://querorango.com</link>
     <description>Receitas deliciosas para todo dia. Almoço, jantar, sobremesas, marmitas e muito mais!</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 11 Sep 2026 13:24:14 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 16:37:25 -0300</lastBuildDate>
     <atom:link href="https://querorango.com/feed.rss" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://querorango.com/assets/logo.png</url>
@@ -13,59 +13,27 @@
       <link>https://querorango.com</link>
     </image>
     <item>
-      <title>Smoothie de Morango com Leite de Amêndoas Fácil e Prático para o Dia a Dia</title>
-      <link>https://querorango.com/receitas/saudavel/smoothie-de-morango-com-leite-de-amendoas-facil-e-pratico-para-o-dia-a-dia/</link>
-      <guid isPermaLink="true">https://querorango.com/receitas/saudavel/smoothie-de-morango-com-leite-de-amendoas-facil-e-pratico-para-o-dia-a-dia/</guid>
-      <description>Aprenda a fazer Smoothie de Morango com Leite de Amêndoas Fácil e Prático para o Dia a Dia com nossa receita testada. Passo a passo completo.</description>
-      <pubDate>Fri, 11 Sep 2026 13:24:10 -0300</pubDate>
-      <enclosure url="/assets/recipes/hamburguer.jpg" type="image/jpeg" length="0"/>
+      <title>Bolo de Iogurte com Raspas de Limão Siciliano Fácil e Prático para o Dia a Dia</title>
+      <link>https://querorango.com/receitas/bolos/bolo-de-iogurte-com-raspas-de-limao-siciliano-facil-e-pratico-para-o-dia-a-dia/</link>
+      <guid isPermaLink="true">https://querorango.com/receitas/bolos/bolo-de-iogurte-com-raspas-de-limao-siciliano-facil-e-pratico-para-o-dia-a-dia/</guid>
+      <description>Aprenda a fazer Bolo de Iogurte com Raspas de Limão Siciliano Fácil e Prático para o Dia a Dia com nossa receita testada. Passo a passo completo.</description>
+      <pubDate>Fri, 11 Sep 2026 16:37:21 -0300</pubDate>
+      <enclosure url="https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?w=600&amp;q=80" type="image/jpeg" length="0"/>
     </item>
     <item>
-      <title>Purê de Abóbora Cabotiá com Gengibre Fácil e Prático para o Dia a Dia</title>
-      <link>https://querorango.com/receitas/marmitas/pure-de-abobora-cabotia-com-gengibre-facil-e-pratico-para-o-dia-a-dia/</link>
-      <guid isPermaLink="true">https://querorango.com/receitas/marmitas/pure-de-abobora-cabotia-com-gengibre-facil-e-pratico-para-o-dia-a-dia/</guid>
-      <description>Aprenda a fazer Purê de Abóbora Cabotiá com Gengibre Fácil e Prático para o Dia a Dia com nossa receita testada. Passo a passo completo.</description>
-      <pubDate>Fri, 11 Sep 2026 13:24:04 -0300</pubDate>
-      <enclosure url="https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=600&amp;q=80" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Bolo Vulcão de Cenoura que Despeja Calda ao Fatiar</title>
-      <link>https://querorango.com/receitas/virais/bolo-vulcao-de-cenoura-chocolate/</link>
-      <guid isPermaLink="true">https://querorango.com/receitas/virais/bolo-vulcao-de-cenoura-chocolate/</guid>
-      <description>Bolo de cenoura fofinho transbordando brigadeiro cremoso ao cortar a fatia. Passo a passo com checklist, timers integrados e artigo completo de mais de 1.000 palavras.</description>
-      <pubDate>Fri, 11 Sep 2026 13:23:50 -0300</pubDate>
-      <enclosure url="/assets/recipes/bolo-cenoura.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Morango do Amor com Casquinha Vermelha de Vidro Crocante</title>
-      <link>https://querorango.com/receitas/virais/morango-do-amor-crocante/</link>
-      <guid isPermaLink="true">https://querorango.com/receitas/virais/morango-do-amor-crocante/</guid>
-      <description>Morangos frescos cobertos por calda vermelha vidrada espelhada super crocante. Passo a passo com checklist, timers integrados e artigo completo de mais de 1.000 palavras.</description>
-      <pubDate>Fri, 11 Sep 2026 13:23:50 -0300</pubDate>
-      <enclosure url="https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=600&amp;q=80" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Coxinha Doce de Brigadeiro Recheada com Morango Inteiro</title>
-      <link>https://querorango.com/receitas/virais/coxinha-de-brigadeiro-com-morango/</link>
-      <guid isPermaLink="true">https://querorango.com/receitas/virais/coxinha-de-brigadeiro-com-morango/</guid>
-      <description>Morango fresco inteiro envolvido por brigadeiro gourmet e confeitos de chocolate. Passo a passo com checklist, timers integrados e artigo completo de mais de 1.000 palavras.</description>
-      <pubDate>Fri, 11 Sep 2026 13:23:50 -0300</pubDate>
-      <enclosure url="https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=600&amp;q=80" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Brownie Fudge Intenso com Aquela Casquinha Craquelada de Revista</title>
-      <link>https://querorango.com/receitas/virais/brownie-fudge-com-casquinha/</link>
-      <guid isPermaLink="true">https://querorango.com/receitas/virais/brownie-fudge-com-casquinha/</guid>
-      <description>Brownie denso e chocolatudo com textura molhadinha e casquinha craquelada. Passo a passo com checklist, timers integrados e artigo completo de mais de 1.000 palavras.</description>
-      <pubDate>Fri, 11 Sep 2026 13:23:50 -0300</pubDate>
-      <enclosure url="/assets/recipes/mousse-chocolate.jpg" type="image/jpeg" length="0"/>
+      <title>Macarrão com Molho de Salsicha e Pimentão Fácil e Prático para o Dia a Dia</title>
+      <link>https://querorango.com/receitas/economicas/macarrao-com-molho-de-salsicha-e-pimentao-facil-e-pratico-para-o-dia-a-dia/</link>
+      <guid isPermaLink="true">https://querorango.com/receitas/economicas/macarrao-com-molho-de-salsicha-e-pimentao-facil-e-pratico-para-o-dia-a-dia/</guid>
+      <description>Aprenda a fazer Macarrão com Molho de Salsicha e Pimentão Fácil e Prático para o Dia a Dia com nossa receita testada. Passo a passo completo.</description>
+      <pubDate>Fri, 11 Sep 2026 16:37:16 -0300</pubDate>
+      <enclosure url="https://images.unsplash.com/photo-1590301157890-4810ed352733?w=600&amp;q=80" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Palha Italiana Cremosa de Brigadeiro com Biscoito Maizena</title>
       <link>https://querorango.com/receitas/virais/palha-italiana-tradicional/</link>
       <guid isPermaLink="true">https://querorango.com/receitas/virais/palha-italiana-tradicional/</guid>
       <description>Brigadeiro misturado com biscoito maizena crocante passado no açúcar refinado. Passo a passo com checklist, timers integrados e artigo completo de mais de 1.000 palavras.</description>
-      <pubDate>Fri, 11 Sep 2026 13:23:50 -0300</pubDate>
+      <pubDate>Fri, 11 Sep 2026 16:37:03 -0300</pubDate>
       <enclosure url="/assets/recipes/doce-leite.jpg" type="image/jpeg" length="0"/>
     </item>
     <item>
@@ -73,7 +41,7 @@
       <link>https://querorango.com/receitas/virais/s-mores-na-travessa-com-marshmallow-gratinado-especial-com-toque-do-chef/</link>
       <guid isPermaLink="true">https://querorango.com/receitas/virais/s-mores-na-travessa-com-marshmallow-gratinado-especial-com-toque-do-chef/</guid>
       <description>Aprenda a fazer S'mores na Travessa com Marshmallow Gratinado Especial com Toque do Chef com nossa receita testada. Passo a passo completo.</description>
-      <pubDate>Fri, 11 Sep 2026 13:23:50 -0300</pubDate>
+      <pubDate>Fri, 11 Sep 2026 16:37:03 -0300</pubDate>
       <enclosure url="/assets/recipes/brigadeiro.jpg" type="image/jpeg" length="0"/>
     </item>
     <item>
@@ -81,15 +49,55 @@
       <link>https://querorango.com/receitas/virais/pipoca-gourmet-com-ninho-e-chocolate-branco-tradicional-da-vovo/</link>
       <guid isPermaLink="true">https://querorango.com/receitas/virais/pipoca-gourmet-com-ninho-e-chocolate-branco-tradicional-da-vovo/</guid>
       <description>Aprenda a fazer Pipoca Gourmet com Ninho e Chocolate Branco Tradicional da Vovó com nossa receita testada. Passo a passo completo.</description>
-      <pubDate>Fri, 11 Sep 2026 13:23:50 -0300</pubDate>
+      <pubDate>Fri, 11 Sep 2026 16:37:03 -0300</pubDate>
       <enclosure url="https://images.unsplash.com/photo-1537640538966-79f369143f8f?w=600&amp;q=80" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Uva do Amor Verde Thompson com Cobertura de Açúcar Vidrada</title>
+      <link>https://querorango.com/receitas/virais/uva-do-amor-verde/</link>
+      <guid isPermaLink="true">https://querorango.com/receitas/virais/uva-do-amor-verde/</guid>
+      <description>Cacho de uvas verdes Thompson envolvido em caramelo translúcido estaladiço. Passo a passo com checklist, timers integrados e artigo completo de mais de 1.000 palavras.</description>
+      <pubDate>Fri, 11 Sep 2026 16:37:03 -0300</pubDate>
+      <enclosure url="https://images.unsplash.com/photo-1537640538966-79f369143f8f?w=600&amp;q=80" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Bolo Vulcão de Cenoura que Despeja Calda ao Fatiar</title>
+      <link>https://querorango.com/receitas/virais/bolo-vulcao-de-cenoura-chocolate/</link>
+      <guid isPermaLink="true">https://querorango.com/receitas/virais/bolo-vulcao-de-cenoura-chocolate/</guid>
+      <description>Bolo de cenoura fofinho transbordando brigadeiro cremoso ao cortar a fatia. Passo a passo com checklist, timers integrados e artigo completo de mais de 1.000 palavras.</description>
+      <pubDate>Fri, 11 Sep 2026 16:37:03 -0300</pubDate>
+      <enclosure url="/assets/recipes/bolo-cenoura.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Morango do Amor com Casquinha Vermelha de Vidro Crocante</title>
+      <link>https://querorango.com/receitas/virais/morango-do-amor-crocante/</link>
+      <guid isPermaLink="true">https://querorango.com/receitas/virais/morango-do-amor-crocante/</guid>
+      <description>Morangos frescos cobertos por calda vermelha vidrada espelhada super crocante. Passo a passo com checklist, timers integrados e artigo completo de mais de 1.000 palavras.</description>
+      <pubDate>Fri, 11 Sep 2026 16:37:03 -0300</pubDate>
+      <enclosure url="https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=600&amp;q=80" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Coxinha Doce de Brigadeiro Recheada com Morango Inteiro</title>
+      <link>https://querorango.com/receitas/virais/coxinha-de-brigadeiro-com-morango/</link>
+      <guid isPermaLink="true">https://querorango.com/receitas/virais/coxinha-de-brigadeiro-com-morango/</guid>
+      <description>Morango fresco inteiro envolvido por brigadeiro gourmet e confeitos de chocolate. Passo a passo com checklist, timers integrados e artigo completo de mais de 1.000 palavras.</description>
+      <pubDate>Fri, 11 Sep 2026 16:37:03 -0300</pubDate>
+      <enclosure url="https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=600&amp;q=80" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Brownie Fudge Intenso com Aquela Casquinha Craquelada de Revista</title>
+      <link>https://querorango.com/receitas/virais/brownie-fudge-com-casquinha/</link>
+      <guid isPermaLink="true">https://querorango.com/receitas/virais/brownie-fudge-com-casquinha/</guid>
+      <description>Brownie denso e chocolatudo com textura molhadinha e casquinha craquelada. Passo a passo com checklist, timers integrados e artigo completo de mais de 1.000 palavras.</description>
+      <pubDate>Fri, 11 Sep 2026 16:37:03 -0300</pubDate>
+      <enclosure url="/assets/recipes/mousse-chocolate.jpg" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Batata Frita Tornado em Espiral com Queijo Caseiro Clássico</title>
       <link>https://querorango.com/receitas/virais/batata-frita-tornado-em-espiral-com-queijo-caseiro-classico/</link>
       <guid isPermaLink="true">https://querorango.com/receitas/virais/batata-frita-tornado-em-espiral-com-queijo-caseiro-classico/</guid>
       <description>Aprenda a fazer Batata Frita Tornado em Espiral com Queijo Caseiro Clássico com nossa receita testada. Passo a passo completo.</description>
-      <pubDate>Fri, 11 Sep 2026 13:23:50 -0300</pubDate>
+      <pubDate>Fri, 11 Sep 2026 16:37:03 -0300</pubDate>
       <enclosure url="https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=600&amp;q=80" type="image/jpeg" length="0"/>
     </item>
     <item>
@@ -97,7 +105,7 @@
       <link>https://querorango.com/receitas/virais/barra-de-chocolate-pistache-dubai/</link>
       <guid isPermaLink="true">https://querorango.com/receitas/virais/barra-de-chocolate-pistache-dubai/</guid>
       <description>A famosa barra viral recheada com creme de pistache crocante e massa kadaif. Passo a passo com checklist, timers integrados e artigo completo de mais de 1.000 palavras.</description>
-      <pubDate>Fri, 11 Sep 2026 13:23:50 -0300</pubDate>
+      <pubDate>Fri, 11 Sep 2026 16:37:03 -0300</pubDate>
       <enclosure url="/assets/recipes/torta-holandesa.jpg" type="image/jpeg" length="0"/>
     </item>
     <item>
@@ -105,7 +113,7 @@
       <link>https://querorango.com/receitas/virais/bombom-de-travessa-de-uva/</link>
       <guid isPermaLink="true">https://querorango.com/receitas/virais/bombom-de-travessa-de-uva/</guid>
       <description>Sobremesa na travessa com uvas verdes, brigadeiro branco cremoso e ganache. Passo a passo com checklist, timers integrados e artigo completo de mais de 1.000 palavras.</description>
-      <pubDate>Fri, 11 Sep 2026 13:23:50 -0300</pubDate>
+      <pubDate>Fri, 11 Sep 2026 16:37:03 -0300</pubDate>
       <enclosure url="/assets/recipes/brigadeiro.jpg" type="image/jpeg" length="0"/>
     </item>
     <item>
@@ -113,31 +121,31 @@
       <link>https://querorango.com/receitas/virais/cookie-estilo-nova-iorque/</link>
       <guid isPermaLink="true">https://querorango.com/receitas/virais/cookie-estilo-nova-iorque/</guid>
       <description>Cookie gigante estilo Levain Bakery com centro cremoso e casca dourada. Passo a passo com checklist, timers integrados e artigo completo de mais de 1.000 palavras.</description>
-      <pubDate>Fri, 11 Sep 2026 13:23:50 -0300</pubDate>
+      <pubDate>Fri, 11 Sep 2026 16:37:03 -0300</pubDate>
       <enclosure url="/assets/recipes/cookie-ny.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Uva do Amor Verde Thompson com Cobertura de Açúcar Vidrada</title>
-      <link>https://querorango.com/receitas/virais/uva-do-amor-verde/</link>
-      <guid isPermaLink="true">https://querorango.com/receitas/virais/uva-do-amor-verde/</guid>
-      <description>Cacho de uvas verdes Thompson envolvido em caramelo translúcido estaladiço. Passo a passo com checklist, timers integrados e artigo completo de mais de 1.000 palavras.</description>
-      <pubDate>Fri, 11 Sep 2026 13:23:50 -0300</pubDate>
-      <enclosure url="https://images.unsplash.com/photo-1537640538966-79f369143f8f?w=600&amp;q=80" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Copo da Felicidade Montado com Brownie, Ninho e Morango</title>
       <link>https://querorango.com/receitas/virais/copo-da-felicidade-com-brownie/</link>
       <guid isPermaLink="true">https://querorango.com/receitas/virais/copo-da-felicidade-com-brownie/</guid>
       <description>Camadas fartas de brigadeiro, pedaços de brownie e morangos frescos no copo. Passo a passo com checklist, timers integrados e artigo completo de mais de 1.000 palavras.</description>
-      <pubDate>Fri, 11 Sep 2026 13:23:50 -0300</pubDate>
+      <pubDate>Fri, 11 Sep 2026 16:37:03 -0300</pubDate>
       <enclosure url="/assets/recipes/pave.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Strogonoff de Cogumelos Paris e Shimeji com Creme de Castanha</title>
+      <link>https://querorango.com/receitas/vegetarianas/strogonoff-de-cogumelos-vegano/</link>
+      <guid isPermaLink="true">https://querorango.com/receitas/vegetarianas/strogonoff-de-cogumelos-vegano/</guid>
+      <description>Mix suculento de cogumelos paris e shimeji refogados com creme de castanhas. Passo a passo com checklist, timers integrados e artigo completo de mais de 1.000 palavras.</description>
+      <pubDate>Fri, 11 Sep 2026 16:37:03 -0300</pubDate>
+      <enclosure url="/assets/recipes/strogonoff.jpg" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Falafel Tradicional Árabe de Grão-de-Bico Cru com Molho de Gergelim</title>
       <link>https://querorango.com/receitas/vegetarianas/bolinho-de-falafel-arabe-crocante/</link>
       <guid isPermaLink="true">https://querorango.com/receitas/vegetarianas/bolinho-de-falafel-arabe-crocante/</guid>
       <description>Falafel tradicional crocante feito com grão-de-bico cru, muito coentro e tahine. Passo a passo com checklist, timers integrados e artigo completo de mais de 1.000 palavras.</description>
-      <pubDate>Fri, 11 Sep 2026 13:23:50 -0300</pubDate>
+      <pubDate>Fri, 11 Sep 2026 16:37:03 -0300</pubDate>
       <enclosure url="/assets/recipes/falafel.jpg" type="image/jpeg" length="0"/>
     </item>
     <item>
@@ -145,7 +153,7 @@
       <link>https://querorango.com/receitas/vegetarianas/curry-indiano-de-grao-de-bico/</link>
       <guid isPermaLink="true">https://querorango.com/receitas/vegetarianas/curry-indiano-de-grao-de-bico/</guid>
       <description>Grão-de-bico macio cozido em molho aromático de leite de coco, curry e espinafre. Passo a passo com checklist, timers integrados e artigo completo de mais de 1.000 palavras.</description>
-      <pubDate>Fri, 11 Sep 2026 13:23:50 -0300</pubDate>
+      <pubDate>Fri, 11 Sep 2026 16:37:03 -0300</pubDate>
       <enclosure url="/assets/recipes/curry-grao-bico.jpg" type="image/jpeg" length="0"/>
     </item>
     <item>
@@ -153,7 +161,7 @@
       <link>https://querorango.com/receitas/vegetarianas/moqueca-de-banana-da-terra-com-pimentoes-especial-com-toque-do-chef/</link>
       <guid isPermaLink="true">https://querorango.com/receitas/vegetarianas/moqueca-de-banana-da-terra-com-pimentoes-especial-com-toque-do-chef/</guid>
       <description>Aprenda a fazer Moqueca de Banana da Terra com Pimentões Especial com Toque do Chef com nossa receita testada. Passo a passo completo.</description>
-      <pubDate>Fri, 11 Sep 2026 13:23:50 -0300</pubDate>
+      <pubDate>Fri, 11 Sep 2026 16:37:03 -0300</pubDate>
       <enclosure url="/assets/recipes/lasanha.jpg" type="image/jpeg" length="0"/>
     </item>
     <item>
@@ -161,7 +169,7 @@
       <link>https://querorango.com/receitas/vegetarianas/risoto-de-tomate-seco-e-rucula/</link>
       <guid isPermaLink="true">https://querorango.com/receitas/vegetarianas/risoto-de-tomate-seco-e-rucula/</guid>
       <description>Arroz arbóreo cremoso com pedaços de tomate seco artesanal e folhas de rúcula. Passo a passo com checklist, timers integrados e artigo completo de mais de 1.000 palavras.</description>
-      <pubDate>Fri, 11 Sep 2026 13:23:50 -0300</pubDate>
+      <pubDate>Fri, 11 Sep 2026 16:37:03 -0300</pubDate>
       <enclosure url="/assets/recipes/legumes-assados.jpg" type="image/jpeg" length="0"/>
     </item>
     <item>
@@ -169,23 +177,15 @@
       <link>https://querorango.com/receitas/vegetarianas/hamburguer-de-grao-de-bico-vegano/</link>
       <guid isPermaLink="true">https://querorango.com/receitas/vegetarianas/hamburguer-de-grao-de-bico-vegano/</guid>
       <description>Hambúrguer firme e aromático de grão-de-bico com cenoura, cominho e crosta dourada. Passo a passo com checklist, timers integrados e artigo completo de mais de 1.000 palavras.</description>
-      <pubDate>Fri, 11 Sep 2026 13:23:50 -0300</pubDate>
+      <pubDate>Fri, 11 Sep 2026 16:37:03 -0300</pubDate>
       <enclosure url="/assets/recipes/hamburguer.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Strogonoff de Cogumelos Paris e Shimeji com Creme de Castanha</title>
-      <link>https://querorango.com/receitas/vegetarianas/strogonoff-de-cogumelos-vegano/</link>
-      <guid isPermaLink="true">https://querorango.com/receitas/vegetarianas/strogonoff-de-cogumelos-vegano/</guid>
-      <description>Mix suculento de cogumelos paris e shimeji refogados com creme de castanhas. Passo a passo com checklist, timers integrados e artigo completo de mais de 1.000 palavras.</description>
-      <pubDate>Fri, 11 Sep 2026 13:23:50 -0300</pubDate>
-      <enclosure url="/assets/recipes/strogonoff.jpg" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Maionese Vegana de Inhame Sem Óleo e Sem Ovos Aveludada</title>
       <link>https://querorango.com/receitas/vegetarianas/maionese-vegana-de-inhame/</link>
       <guid isPermaLink="true">https://querorango.com/receitas/vegetarianas/maionese-vegana-de-inhame/</guid>
       <description>Maionese aveludada sem ovos feita com inhame cozido emulsionado com azeite e limão. Passo a passo com checklist, timers integrados e artigo completo de mais de 1.000 palavras.</description>
-      <pubDate>Fri, 11 Sep 2026 13:23:50 -0300</pubDate>
+      <pubDate>Fri, 11 Sep 2026 16:37:03 -0300</pubDate>
       <enclosure url="https://images.unsplash.com/photo-1540420773420-3366772f4999?w=600&amp;q=80" type="image/jpeg" length="0"/>
     </item>
     <item>
@@ -193,7 +193,7 @@
       <link>https://querorango.com/receitas/vegetarianas/hamburguer-de-lentilha-com-ervas-frescas-tradicional-da-vovo/</link>
       <guid isPermaLink="true">https://querorango.com/receitas/vegetarianas/hamburguer-de-lentilha-com-ervas-frescas-tradicional-da-vovo/</guid>
       <description>Aprenda a fazer Hambúrguer de Lentilha com Ervas Frescas Tradicional da Vovó com nossa receita testada. Passo a passo completo.</description>
-      <pubDate>Fri, 11 Sep 2026 13:23:50 -0300</pubDate>
+      <pubDate>Fri, 11 Sep 2026 16:37:03 -0300</pubDate>
       <enclosure url="/assets/recipes/strogonoff.jpg" type="image/jpeg" length="0"/>
     </item>
     <item>
@@ -201,7 +201,7 @@
       <link>https://querorango.com/receitas/vegetarianas/escondidinho-de-shimeji-com-mandioca/</link>
       <guid isPermaLink="true">https://querorango.com/receitas/vegetarianas/escondidinho-de-shimeji-com-mandioca/</guid>
       <description>Purê rústico de mandioca cobrindo cogumelos shimeji salteados com alho-poró. Passo a passo com checklist, timers integrados e artigo completo de mais de 1.000 palavras.</description>
-      <pubDate>Fri, 11 Sep 2026 13:23:50 -0300</pubDate>
+      <pubDate>Fri, 11 Sep 2026 16:37:03 -0300</pubDate>
       <enclosure url="/assets/recipes/escondidinho.jpg" type="image/jpeg" length="0"/>
     </item>
     <item>
@@ -209,7 +209,7 @@
       <link>https://querorango.com/receitas/vegetarianas/moqueca-de-banana-da-terra-vegana/</link>
       <guid isPermaLink="true">https://querorango.com/receitas/vegetarianas/moqueca-de-banana-da-terra-vegana/</guid>
       <description>Moqueca baiana aromática com rodelas de banana-da-terra, pimentões e dendê. Passo a passo com checklist, timers integrados e artigo completo de mais de 1.000 palavras.</description>
-      <pubDate>Fri, 11 Sep 2026 13:23:50 -0300</pubDate>
+      <pubDate>Fri, 11 Sep 2026 16:37:03 -0300</pubDate>
       <enclosure url="/assets/recipes/moqueca.jpg" type="image/jpeg" length="0"/>
     </item>
     <item>
@@ -217,7 +217,7 @@
       <link>https://querorango.com/receitas/vegetarianas/curry-de-grao-de-bico-com-leite-de-coco-caseiro-classico/</link>
       <guid isPermaLink="true">https://querorango.com/receitas/vegetarianas/curry-de-grao-de-bico-com-leite-de-coco-caseiro-classico/</guid>
       <description>Aprenda a fazer Curry de Grão de Bico com Leite de Coco Caseiro Clássico com nossa receita testada. Passo a passo completo.</description>
-      <pubDate>Fri, 11 Sep 2026 13:23:50 -0300</pubDate>
+      <pubDate>Fri, 11 Sep 2026 16:37:03 -0300</pubDate>
       <enclosure url="/assets/recipes/hamburguer.jpg" type="image/jpeg" length="0"/>
     </item>
     <item>
@@ -225,7 +225,7 @@
       <link>https://querorango.com/receitas/vegetarianas/lasanha-vegetariana-de-abobrinha/</link>
       <guid isPermaLink="true">https://querorango.com/receitas/vegetarianas/lasanha-vegetariana-de-abobrinha/</guid>
       <description>Fatias finas de abobrinha grelhada substituindo a massa com ricota e molho sugo. Passo a passo com checklist, timers integrados e artigo completo de mais de 1.000 palavras.</description>
-      <pubDate>Fri, 11 Sep 2026 13:23:50 -0300</pubDate>
+      <pubDate>Fri, 11 Sep 2026 16:37:03 -0300</pubDate>
       <enclosure url="/assets/recipes/lasanha.jpg" type="image/jpeg" length="0"/>
     </item>
     <item>
@@ -233,7 +233,7 @@
       <link>https://querorango.com/receitas/vegetarianas/quibe-vegetariano-de-abobora/</link>
       <guid isPermaLink="true">https://querorango.com/receitas/vegetarianas/quibe-vegetariano-de-abobora/</guid>
       <description>Quibe assado com purê de abóbora cabotiá e trigo, recheado com queijo minas ou tofu. Passo a passo com checklist, timers integrados e artigo completo de mais de 1.000 palavras.</description>
-      <pubDate>Fri, 11 Sep 2026 13:23:50 -0300</pubDate>
+      <pubDate>Fri, 11 Sep 2026 16:37:03 -0300</pubDate>
       <enclosure url="/assets/recipes/quibe.jpg" type="image/jpeg" length="0"/>
     </item>
     <item>
@@ -241,7 +241,7 @@
       <link>https://querorango.com/receitas/sopas/sopa-de-capeletti-com-frango/</link>
       <guid isPermaLink="true">https://querorango.com/receitas/sopas/sopa-de-capeletti-com-frango/</guid>
       <description>Massa recheada de capeletti cozida em caldo claro e aromático de galinha com sálvia. Passo a passo com checklist, timers integrados e artigo completo de mais de 1.000 palavras.</description>
-      <pubDate>Fri, 11 Sep 2026 13:23:50 -0300</pubDate>
+      <pubDate>Fri, 11 Sep 2026 16:37:03 -0300</pubDate>
       <enclosure url="/assets/recipes/sopa-capeletti.jpg" type="image/jpeg" length="0"/>
     </item>
     <item>
@@ -249,7 +249,7 @@
       <link>https://querorango.com/receitas/sopas/caldo-pantaneiro-de-carne-seca/</link>
       <guid isPermaLink="true">https://querorango.com/receitas/sopas/caldo-pantaneiro-de-carne-seca/</guid>
       <description>Caldo substancioso do Pantanal com mandioca, carne-seca dessalgada e coentro. Passo a passo com checklist, timers integrados e artigo completo de mais de 1.000 palavras.</description>
-      <pubDate>Fri, 11 Sep 2026 13:23:50 -0300</pubDate>
+      <pubDate>Fri, 11 Sep 2026 16:37:03 -0300</pubDate>
       <enclosure url="/assets/recipes/carne-panela.jpg" type="image/jpeg" length="0"/>
     </item>
     <item>
@@ -257,7 +257,7 @@
       <link>https://querorango.com/receitas/sopas/creme-de-abobora-com-carne-seca/</link>
       <guid isPermaLink="true">https://querorango.com/receitas/sopas/creme-de-abobora-com-carne-seca/</guid>
       <description>Creme aveludado de abóbora cabotiá com o salgadinho da carne-seca desfiada. Passo a passo com checklist, timers integrados e artigo completo de mais de 1.000 palavras.</description>
-      <pubDate>Fri, 11 Sep 2026 13:23:50 -0300</pubDate>
+      <pubDate>Fri, 11 Sep 2026 16:37:03 -0300</pubDate>
       <enclosure url="/assets/recipes/creme-abobora.jpg" type="image/jpeg" length="0"/>
     </item>
     <item>
@@ -265,23 +265,15 @@
       <link>https://querorango.com/receitas/sopas/creme-de-cebola-frances-gratinado/</link>
       <guid isPermaLink="true">https://querorango.com/receitas/sopas/creme-de-cebola-frances-gratinado/</guid>
       <description>Sopa de cebolas caramelizadas com fatia de pão rústico e queijo gruyère gratinado. Passo a passo com checklist, timers integrados e artigo completo de mais de 1.000 palavras.</description>
-      <pubDate>Fri, 11 Sep 2026 13:23:50 -0300</pubDate>
+      <pubDate>Fri, 11 Sep 2026 16:37:03 -0300</pubDate>
       <enclosure url="/assets/recipes/sopa-cebola.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Caldo de Feijão Amigo de Boteco Batido com Bacon e Alho Dourado</title>
-      <link>https://querorango.com/receitas/sopas/caldo-de-feijao-amigo-com-bacon/</link>
-      <guid isPermaLink="true">https://querorango.com/receitas/sopas/caldo-de-feijao-amigo-com-bacon/</guid>
-      <description>Feijão preto batido e bem temperado com torresminho e salsinha picada. Passo a passo com checklist, timers integrados e artigo completo de mais de 1.000 palavras.</description>
-      <pubDate>Fri, 11 Sep 2026 13:23:50 -0300</pubDate>
-      <enclosure url="/assets/recipes/feijoada.jpg" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Sopa de Legumes da Infância com Carne Bovina e Macarrão Padre Nosso</title>
       <link>https://querorango.com/receitas/sopas/sopa-de-legumes-com-carne-e-macarrao/</link>
       <guid isPermaLink="true">https://querorango.com/receitas/sopas/sopa-de-legumes-com-carne-e-macarrao/</guid>
       <description>Sopa reconfortante de legumes frescos com carne bovina macia e macarrão letrinha. Passo a passo com checklist, timers integrados e artigo completo de mais de 1.000 palavras.</description>
-      <pubDate>Fri, 11 Sep 2026 13:23:50 -0300</pubDate>
+      <pubDate>Fri, 11 Sep 2026 16:37:03 -0300</pubDate>
       <enclosure url="/assets/recipes/sopa-legumes.jpg" type="image/jpeg" length="0"/>
     </item>
     <item>
@@ -289,7 +281,7 @@
       <link>https://querorango.com/receitas/sopas/canja-de-galinha-da-vovo/</link>
       <guid isPermaLink="true">https://querorango.com/receitas/sopas/canja-de-galinha-da-vovo/</guid>
       <description>A clássica canja caseira com arroz soltinho, cubinhos de cenoura e frango desfiado. Passo a passo com checklist, timers integrados e artigo completo de mais de 1.000 palavras.</description>
-      <pubDate>Fri, 11 Sep 2026 13:23:50 -0300</pubDate>
+      <pubDate>Fri, 11 Sep 2026 16:37:03 -0300</pubDate>
       <enclosure url="/assets/recipes/canja.jpg" type="image/jpeg" length="0"/>
     </item>
     <item>
@@ -297,7 +289,7 @@
       <link>https://querorango.com/receitas/sopas/caldo-verde-portugues-tradicional/</link>
       <guid isPermaLink="true">https://querorango.com/receitas/sopas/caldo-verde-portugues-tradicional/</guid>
       <description>Caldo aveludado de batatas com couve fininha e rodelas douradas de chouriço. Passo a passo com checklist, timers integrados e artigo completo de mais de 1.000 palavras.</description>
-      <pubDate>Fri, 11 Sep 2026 13:23:50 -0300</pubDate>
+      <pubDate>Fri, 11 Sep 2026 16:37:03 -0300</pubDate>
       <enclosure url="/assets/recipes/caldo-verde.jpg" type="image/jpeg" length="0"/>
     </item>
     <item>
@@ -305,23 +297,15 @@
       <link>https://querorango.com/receitas/sopas/creme-de-milho-com-frango-desfiado/</link>
       <guid isPermaLink="true">https://querorango.com/receitas/sopas/creme-de-milho-com-frango-desfiado/</guid>
       <description>Creme de milho verde fresco batido servido com frango desfiado refogado. Passo a passo com checklist, timers integrados e artigo completo de mais de 1.000 palavras.</description>
-      <pubDate>Fri, 11 Sep 2026 13:23:50 -0300</pubDate>
+      <pubDate>Fri, 11 Sep 2026 16:37:03 -0300</pubDate>
       <enclosure url="/assets/recipes/creme-milho.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Caldo de Mandioca com Costela Bovina Desfiada e Cheiro-Verde</title>
-      <link>https://querorango.com/receitas/sopas/caldo-de-mandioca-com-costela/</link>
-      <guid isPermaLink="true">https://querorango.com/receitas/sopas/caldo-de-mandioca-com-costela/</guid>
-      <description>Creme denso de mandioca cozido com costela bovina desfiando e cheiro-verde. Passo a passo com checklist, timers integrados e artigo completo de mais de 1.000 palavras.</description>
-      <pubDate>Fri, 11 Sep 2026 13:23:50 -0300</pubDate>
-      <enclosure url="https://images.unsplash.com/photo-1547592180-85f173990554?w=600&amp;q=80" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Canja de Galinha Tradicional com Arroz e Legumes Especial com Toque do Chef</title>
       <link>https://querorango.com/receitas/sopas/canja-de-galinha-tradicional-com-arroz-e-legumes-especial-com-toque-do-chef/</link>
       <guid isPermaLink="true">https://querorango.com/receitas/sopas/canja-de-galinha-tradicional-com-arroz-e-legumes-especial-com-toque-do-chef/</guid>
       <description>Aprenda a fazer Canja de Galinha Tradicional com Arroz e Legumes Especial com Toque do Chef com nossa receita testada. Passo a passo completo.</description>
-      <pubDate>Fri, 11 Sep 2026 13:23:50 -0300</pubDate>
+      <pubDate>Fri, 11 Sep 2026 16:37:03 -0300</pubDate>
       <enclosure url="/assets/recipes/canja.jpg" type="image/jpeg" length="0"/>
     </item>
     <item>
@@ -329,47 +313,39 @@
       <link>https://querorango.com/receitas/sopas/sopa-eslava-de-carne-com-batatas-e-paprica-caseiro-classico/</link>
       <guid isPermaLink="true">https://querorango.com/receitas/sopas/sopa-eslava-de-carne-com-batatas-e-paprica-caseiro-classico/</guid>
       <description>Aprenda a fazer Sopa Eslava de Carne com Batatas e Páprica Caseiro Clássico com nossa receita testada. Passo a passo completo.</description>
-      <pubDate>Fri, 11 Sep 2026 13:23:50 -0300</pubDate>
+      <pubDate>Fri, 11 Sep 2026 16:37:03 -0300</pubDate>
       <enclosure url="/assets/recipes/caldo-verde.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Caldo de Feijão Amigo de Boteco Batido com Bacon e Alho Dourado</title>
+      <link>https://querorango.com/receitas/sopas/caldo-de-feijao-amigo-com-bacon/</link>
+      <guid isPermaLink="true">https://querorango.com/receitas/sopas/caldo-de-feijao-amigo-com-bacon/</guid>
+      <description>Feijão preto batido e bem temperado com torresminho e salsinha picada. Passo a passo com checklist, timers integrados e artigo completo de mais de 1.000 palavras.</description>
+      <pubDate>Fri, 11 Sep 2026 16:37:03 -0300</pubDate>
+      <enclosure url="/assets/recipes/feijoada.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Caldo de Mandioca com Costela Bovina Desfiada e Cheiro-Verde</title>
+      <link>https://querorango.com/receitas/sopas/caldo-de-mandioca-com-costela/</link>
+      <guid isPermaLink="true">https://querorango.com/receitas/sopas/caldo-de-mandioca-com-costela/</guid>
+      <description>Creme denso de mandioca cozido com costela bovina desfiando e cheiro-verde. Passo a passo com checklist, timers integrados e artigo completo de mais de 1.000 palavras.</description>
+      <pubDate>Fri, 11 Sep 2026 16:37:03 -0300</pubDate>
+      <enclosure url="https://images.unsplash.com/photo-1547592180-85f173990554?w=600&amp;q=80" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Caldo de Abóbora com Gengibre e Frango Tradicional da Vovó</title>
       <link>https://querorango.com/receitas/sopas/caldo-de-abobora-com-gengibre-e-frango-tradicional-da-vovo/</link>
       <guid isPermaLink="true">https://querorango.com/receitas/sopas/caldo-de-abobora-com-gengibre-e-frango-tradicional-da-vovo/</guid>
       <description>Aprenda a fazer Caldo de Abóbora com Gengibre e Frango Tradicional da Vovó com nossa receita testada. Passo a passo completo.</description>
-      <pubDate>Fri, 11 Sep 2026 13:23:50 -0300</pubDate>
+      <pubDate>Fri, 11 Sep 2026 16:37:03 -0300</pubDate>
       <enclosure url="https://images.unsplash.com/photo-1547592180-85f173990554?w=600&amp;q=80" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Torta de Limão com Massa Podre e Merengue Maçaricado</title>
-      <link>https://querorango.com/receitas/sobremesas/torta-de-limao-com-merengue/</link>
-      <guid isPermaLink="true">https://querorango.com/receitas/sobremesas/torta-de-limao-com-merengue/</guid>
-      <description>Base crocante amanteigada com recheio cremoso e picos dourados de merengue. Passo a passo com checklist, timers integrados e artigo completo de mais de 1.000 palavras.</description>
-      <pubDate>Fri, 11 Sep 2026 13:23:50 -0300</pubDate>
-      <enclosure url="/assets/recipes/torta-limao.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Quindim de Padaria Brilhante com Coco Fresco e Gemas</title>
-      <link>https://querorango.com/receitas/sobremesas/quindim-brilhante-tradicional/</link>
-      <guid isPermaLink="true">https://querorango.com/receitas/sobremesas/quindim-brilhante-tradicional/</guid>
-      <description>Gemas peneiradas com coco fresco ralado e base açucarada dourada e brilhante. Passo a passo com checklist, timers integrados e artigo completo de mais de 1.000 palavras.</description>
-      <pubDate>Fri, 11 Sep 2026 13:23:50 -0300</pubDate>
-      <enclosure url="/assets/recipes/quindim.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Torta Holandesa com Cobertura Espelhada de Ganache</title>
-      <link>https://querorango.com/receitas/sobremesas/torta-holandesa-cremosa/</link>
-      <guid isPermaLink="true">https://querorango.com/receitas/sobremesas/torta-holandesa-cremosa/</guid>
-      <description>Torta holandesa com borda de biscoitos calypso, creme suave e ganache espelhada. Passo a passo com checklist, timers integrados e artigo completo de mais de 1.000 palavras.</description>
-      <pubDate>Fri, 11 Sep 2026 13:23:50 -0300</pubDate>
-      <enclosure url="/assets/recipes/torta-holandesa.jpg" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Pudim de Leite Condensado Aveludado Tradicional de Vó</title>
       <link>https://querorango.com/receitas/sobremesas/pudim-de-leite-sem-furinho/</link>
       <guid isPermaLink="true">https://querorango.com/receitas/sobremesas/pudim-de-leite-sem-furinho/</guid>
       <description>Pudim clássico aveludado e lisinho com banho de calda de caramelo brilhante. Passo a passo com checklist, timers integrados e artigo completo de mais de 1.000 palavras.</description>
-      <pubDate>Fri, 11 Sep 2026 13:23:50 -0300</pubDate>
+      <pubDate>Fri, 11 Sep 2026 16:37:03 -0300</pubDate>
       <enclosure url="/assets/recipes/pudim.jpg" type="image/jpeg" length="0"/>
     </item>
     <item>
@@ -377,40 +353,64 @@
       <link>https://querorango.com/receitas/sobremesas/mousse-de-chocolate-aerado/</link>
       <guid isPermaLink="true">https://querorango.com/receitas/sobremesas/mousse-de-chocolate-aerado/</guid>
       <description>Mousse aerada de chocolate nobre meio amargo finalizada com raspas crocantes. Passo a passo com checklist, timers integrados e artigo completo de mais de 1.000 palavras.</description>
-      <pubDate>Fri, 11 Sep 2026 13:23:50 -0300</pubDate>
+      <pubDate>Fri, 11 Sep 2026 16:37:03 -0300</pubDate>
       <enclosure url="/assets/recipes/mousse-chocolate.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Manjar Branco de Coco com Calda de Ameixa Caseiro Clássico</title>
-      <link>https://querorango.com/receitas/sobremesas/manjar-branco-de-coco-com-calda-de-ameixa-caseiro-classico/</link>
-      <guid isPermaLink="true">https://querorango.com/receitas/sobremesas/manjar-branco-de-coco-com-calda-de-ameixa-caseiro-classico/</guid>
-      <description>Aprenda a fazer Manjar Branco de Coco com Calda de Ameixa Caseiro Clássico com nossa receita testada. Passo a passo completo.</description>
-      <pubDate>Fri, 11 Sep 2026 13:23:50 -0300</pubDate>
-      <enclosure url="/assets/recipes/pudim.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Brigadeiro de Colher Cremoso e Aveludado</title>
-      <link>https://querorango.com/receitas/sobremesas/brigadeiro-de-colher/</link>
-      <guid isPermaLink="true">https://querorango.com/receitas/sobremesas/brigadeiro-de-colher/</guid>
-      <description>O brigadeiro de colher mais aveludado e brilhante. Aprenda o ponto exato da panela com timer integrado e passo a passo interativo!</description>
-      <pubDate>Fri, 11 Sep 2026 13:23:50 -0300</pubDate>
-      <enclosure url="" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Gelatina Mosaico Colorida com Creme Branco dos Anos 90</title>
-      <link>https://querorango.com/receitas/sobremesas/gelatina-colorida-mosaico/</link>
-      <guid isPermaLink="true">https://querorango.com/receitas/sobremesas/gelatina-colorida-mosaico/</guid>
-      <description>Cubos multicoloridos envolvidos por creme branco delicado de leite condensado e nata. Passo a passo com checklist, timers integrados e artigo completo de mais de 1.000 palavras.</description>
-      <pubDate>Fri, 11 Sep 2026 13:23:50 -0300</pubDate>
-      <enclosure url="/assets/recipes/gelatina-mosaico.jpg" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Pavê de Chocolate Clássico com Biscoito Champanhe</title>
       <link>https://querorango.com/receitas/sobremesas/pave-de-chocolate-tradicional/</link>
       <guid isPermaLink="true">https://querorango.com/receitas/sobremesas/pave-de-chocolate-tradicional/</guid>
       <description>Camadas intercaladas de biscoito champagne umedecido, creme branco e ganache. Passo a passo com checklist, timers integrados e artigo completo de mais de 1.000 palavras.</description>
-      <pubDate>Fri, 11 Sep 2026 13:23:50 -0300</pubDate>
+      <pubDate>Fri, 11 Sep 2026 16:37:03 -0300</pubDate>
       <enclosure url="/assets/recipes/pave.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Torta de Limão com Massa Podre e Merengue Maçaricado</title>
+      <link>https://querorango.com/receitas/sobremesas/torta-de-limao-com-merengue/</link>
+      <guid isPermaLink="true">https://querorango.com/receitas/sobremesas/torta-de-limao-com-merengue/</guid>
+      <description>Base crocante amanteigada com recheio cremoso e picos dourados de merengue. Passo a passo com checklist, timers integrados e artigo completo de mais de 1.000 palavras.</description>
+      <pubDate>Fri, 11 Sep 2026 16:37:03 -0300</pubDate>
+      <enclosure url="/assets/recipes/torta-limao.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Mousse de Limão Rápida com Raspas Especial com Toque do Chef</title>
+      <link>https://querorango.com/receitas/sobremesas/mousse-de-limao-rapida-com-raspas-especial-com-toque-do-chef/</link>
+      <guid isPermaLink="true">https://querorango.com/receitas/sobremesas/mousse-de-limao-rapida-com-raspas-especial-com-toque-do-chef/</guid>
+      <description>Aprenda a fazer Mousse de Limão Rápida com Raspas Especial com Toque do Chef com nossa receita testada. Passo a passo completo.</description>
+      <pubDate>Fri, 11 Sep 2026 16:37:03 -0300</pubDate>
+      <enclosure url="/assets/recipes/mousse-maracuja.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Quindim de Padaria Brilhante com Coco Fresco e Gemas</title>
+      <link>https://querorango.com/receitas/sobremesas/quindim-brilhante-tradicional/</link>
+      <guid isPermaLink="true">https://querorango.com/receitas/sobremesas/quindim-brilhante-tradicional/</guid>
+      <description>Gemas peneiradas com coco fresco ralado e base açucarada dourada e brilhante. Passo a passo com checklist, timers integrados e artigo completo de mais de 1.000 palavras.</description>
+      <pubDate>Fri, 11 Sep 2026 16:37:03 -0300</pubDate>
+      <enclosure url="/assets/recipes/quindim.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Torta Holandesa com Cobertura Espelhada de Ganache</title>
+      <link>https://querorango.com/receitas/sobremesas/torta-holandesa-cremosa/</link>
+      <guid isPermaLink="true">https://querorango.com/receitas/sobremesas/torta-holandesa-cremosa/</guid>
+      <description>Torta holandesa com borda de biscoitos calypso, creme suave e ganache espelhada. Passo a passo com checklist, timers integrados e artigo completo de mais de 1.000 palavras.</description>
+      <pubDate>Fri, 11 Sep 2026 16:37:03 -0300</pubDate>
+      <enclosure url="/assets/recipes/torta-holandesa.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Mousse de Maracujá Cremoso Feito com Apenas 3 Ingredientes</title>
+      <link>https://querorango.com/receitas/sobremesas/mousse-de-maracuja-3-ingredientes/</link>
+      <guid isPermaLink="true">https://querorango.com/receitas/sobremesas/mousse-de-maracuja-3-ingredientes/</guid>
+      <description>Mousse aerada com equilíbrio perfeito entre o leite condensado e o maracujá. Passo a passo com checklist, timers integrados e artigo completo de mais de 1.000 palavras.</description>
+      <pubDate>Fri, 11 Sep 2026 16:37:03 -0300</pubDate>
+      <enclosure url="/assets/recipes/mousse-maracuja.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Manjar Branco de Coco com Calda de Ameixa Caseiro Clássico</title>
+      <link>https://querorango.com/receitas/sobremesas/manjar-branco-de-coco-com-calda-de-ameixa-caseiro-classico/</link>
+      <guid isPermaLink="true">https://querorango.com/receitas/sobremesas/manjar-branco-de-coco-com-calda-de-ameixa-caseiro-classico/</guid>
+      <description>Aprenda a fazer Manjar Branco de Coco com Calda de Ameixa Caseiro Clássico com nossa receita testada. Passo a passo completo.</description>
+      <pubDate>Fri, 11 Sep 2026 16:37:03 -0300</pubDate>
+      <enclosure url="/assets/recipes/pudim.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
