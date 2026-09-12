@@ -1,5 +1,5 @@
 {
-  "current_total": 584,
+  "current_total": 586,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -426,9 +426,20 @@
         "https://querorango.com/receitas/virais/pao-de-alho-vulcao-com-quatro-queijos-facil-e-pratico-para-o-dia-a-dia/",
         "https://querorango.com/receitas/frango/frango-ao-curry-com-leite-de-coco-e-maca-facil-e-pratico-para-o-dia-a-dia/"
       ]
+    },
+    {
+      "timestamp": "2026-09-12 05:42:13",
+      "count": 2,
+      "errors": 0,
+      "new_total": 586,
+      "queue_remaining": 1714,
+      "urls": [
+        "https://querorango.com/receitas/massas/espaguete-aos-frutos-do-mar-com-vinho-branco-facil-e-pratico-para-o-dia-a-dia/",
+        "https://querorango.com/receitas/carne-moida/bolo-de-carne-moida-com-cobertura-de-barbecue-facil-e-pratico-para-o-dia-a-dia/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-09-12 01:04:05",
+  "last_run": "2026-09-12 05:42:13",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }

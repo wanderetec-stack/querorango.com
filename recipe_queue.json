@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "massas",
-    "title": "Espaguete aos Frutos do Mar com Vinho Branco Fácil e Prático para o Dia a Dia",
-    "slug": "espaguete-aos-frutos-do-mar-com-vinho-branco-facil-e-pratico-para-o-dia-a-dia",
-    "main_ingredient": "espaguete artesanal",
-    "secondary_ingredient": "lulas, camarões e mexilhões frescos",
-    "cook_time": "20 min",
-    "prep_time": "15 min",
-    "image_url": "/assets/recipes/nhoque.jpg"
-  },
-  {
-    "category_slug": "carne-moida",
-    "title": "Bolo de Carne Moída com Cobertura de Barbecue Fácil e Prático para o Dia a Dia",
-    "slug": "bolo-de-carne-moida-com-cobertura-de-barbecue-facil-e-pratico-para-o-dia-a-dia",
-    "main_ingredient": "carne moída compactada",
-    "secondary_ingredient": "glaze caseiro agridoce de barbecue",
-    "cook_time": "45 min",
-    "prep_time": "15 min",
-    "image_url": "/assets/recipes/escondidinho.jpg"
-  },
-  {
     "category_slug": "pressao",
     "title": "Dobradinha com Feijão Branco e Paio Fácil e Prático para o Dia a Dia",
     "slug": "dobradinha-com-feijao-branco-e-paio-facil-e-pratico-para-o-dia-a-dia",
