@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "vegetarianas",
-    "title": "Lasanha de Abobrinha com Molho Sugo e Ricota Fácil e Prático para o Dia a Dia",
-    "slug": "lasanha-de-abobrinha-com-molho-sugo-e-ricota-facil-e-pratico-para-o-dia-a-dia",
-    "main_ingredient": "lâminas finas de abobrinha",
-    "secondary_ingredient": "molho de tomate caseiro e ricota",
-    "cook_time": "35 min",
-    "prep_time": "20 min",
-    "image_url": "/assets/recipes/moqueca.jpg"
-  },
-  {
-    "category_slug": "cafe-da-manha",
-    "title": "Torrada Francesa Brioche com Canela e Baunilha Fácil e Prático para o Dia a Dia",
-    "slug": "torrada-francesa-brioche-com-canela-e-baunilha-facil-e-pratico-para-o-dia-a-dia",
-    "main_ingredient": "fatias grossas de pão brioche",
-    "secondary_ingredient": "leite, ovos batidos e canela em pó",
-    "cook_time": "10 min",
-    "prep_time": "6 min",
-    "image_url": "/assets/recipes/avocado-toast.jpg"
-  },
-  {
     "category_slug": "air-fryer",
     "title": "Banana Assada com Canela e Mel Suculento e Aromático",
     "slug": "banana-assada-com-canela-e-mel-suculento-e-aromatico",
