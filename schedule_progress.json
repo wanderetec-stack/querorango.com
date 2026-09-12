@@ -1,5 +1,5 @@
 {
-  "current_total": 590,
+  "current_total": 592,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -459,9 +459,20 @@
         "https://querorango.com/receitas/regional/galinhada-goiana-com-piqui-e-guariroba-facil-e-pratico-para-o-dia-a-dia/",
         "https://querorango.com/receitas/lanches/bolinho-de-arroz-com-queijo-minas-derretido-facil-e-pratico-para-o-dia-a-dia/"
       ]
+    },
+    {
+      "timestamp": "2026-09-12 17:02:59",
+      "count": 2,
+      "errors": 0,
+      "new_total": 592,
+      "queue_remaining": 1708,
+      "urls": [
+        "https://querorango.com/receitas/sopas/creme-de-couve-flor-com-gorgonzola-suave-facil-e-pratico-para-o-dia-a-dia/",
+        "https://querorango.com/receitas/sem-gluten/panqueca-de-farinha-de-grao-de-bico-salgada-facil-e-pratico-para-o-dia-a-dia/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-09-12 14:03:23",
+  "last_run": "2026-09-12 17:02:59",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }

@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "sopas",
-    "title": "Creme de Couve-Flor com Gorgonzola Suave Fácil e Prático para o Dia a Dia",
-    "slug": "creme-de-couve-flor-com-gorgonzola-suave-facil-e-pratico-para-o-dia-a-dia",
-    "main_ingredient": "couve-flor cozida no vapor",
-    "secondary_ingredient": "queijo gorgonzola e noz-moscada",
-    "cook_time": "20 min",
-    "prep_time": "10 min",
-    "image_url": "/assets/recipes/feijoada.jpg"
-  },
-  {
-    "category_slug": "sem-gluten",
-    "title": "Panqueca de Farinha de Grão de Bico Salgada Fácil e Prático para o Dia a Dia",
-    "slug": "panqueca-de-farinha-de-grao-de-bico-salgada-facil-e-pratico-para-o-dia-a-dia",
-    "main_ingredient": "farinha de grão de bico e água",
-    "secondary_ingredient": "ervas aromáticas e azeite de oliva",
-    "cook_time": "10 min",
-    "prep_time": "8 min",
-    "image_url": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=600&q=80"
-  },
-  {
     "category_slug": "vegetarianas",
     "title": "Lasanha de Abobrinha com Molho Sugo e Ricota Fácil e Prático para o Dia a Dia",
     "slug": "lasanha-de-abobrinha-com-molho-sugo-e-ricota-facil-e-pratico-para-o-dia-a-dia",
