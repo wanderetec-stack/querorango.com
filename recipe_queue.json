@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "virais",
-    "title": "Pão de Alho Vulcão com Quatro Queijos Fácil e Prático para o Dia a Dia",
-    "slug": "pao-de-alho-vulcao-com-quatro-queijos-facil-e-pratico-para-o-dia-a-dia",
-    "main_ingredient": "pão italiano bolinha",
-    "secondary_ingredient": "recheio farto de queijo e pasta de alho",
-    "cook_time": "20 min",
-    "prep_time": "10 min",
-    "image_url": "/assets/recipes/pave.jpg"
-  },
-  {
-    "category_slug": "frango",
-    "title": "Frango ao Curry com Leite de Coco e Maçã Fácil e Prático para o Dia a Dia",
-    "slug": "frango-ao-curry-com-leite-de-coco-e-maca-facil-e-pratico-para-o-dia-a-dia",
-    "main_ingredient": "cubos de frango suculentos",
-    "secondary_ingredient": "curry amarelo e pedacinhos de maçã",
-    "cook_time": "25 min",
-    "prep_time": "15 min",
-    "image_url": "https://images.unsplash.com/photo-1598515214211-89d3c73ae83b?w=600&q=80"
-  },
-  {
     "category_slug": "massas",
     "title": "Espaguete aos Frutos do Mar com Vinho Branco Fácil e Prático para o Dia a Dia",
     "slug": "espaguete-aos-frutos-do-mar-com-vinho-branco-facil-e-pratico-para-o-dia-a-dia",
