@@ -1,5 +1,5 @@
 {
-  "current_total": 594,
+  "current_total": 596,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -481,9 +481,20 @@
         "https://querorango.com/receitas/vegetarianas/lasanha-de-abobrinha-com-molho-sugo-e-ricota-facil-e-pratico-para-o-dia-a-dia/",
         "https://querorango.com/receitas/cafe-da-manha/torrada-francesa-brioche-com-canela-e-baunilha-facil-e-pratico-para-o-dia-a-dia/"
       ]
+    },
+    {
+      "timestamp": "2026-09-12 22:13:22",
+      "count": 2,
+      "errors": 0,
+      "new_total": 596,
+      "queue_remaining": 1704,
+      "urls": [
+        "https://querorango.com/receitas/air-fryer/banana-assada-com-canela-e-mel-suculento-e-aromatico/",
+        "https://querorango.com/receitas/almoco/arroz-de-pato-tradicional-portugues-suculento-e-aromatico/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-09-12 19:14:21",
+  "last_run": "2026-09-12 22:13:22",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }

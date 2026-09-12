@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "air-fryer",
-    "title": "Banana Assada com Canela e Mel Suculento e Aromático",
-    "slug": "banana-assada-com-canela-e-mel-suculento-e-aromatico",
-    "main_ingredient": "bananas maduras",
-    "secondary_ingredient": "canela e fio de mel",
-    "cook_time": "10 min",
-    "prep_time": "5 min",
-    "image_url": "/assets/recipes/coxinha.jpg"
-  },
-  {
-    "category_slug": "almoco",
-    "title": "Arroz de Pato Tradicional Português Suculento e Aromático",
-    "slug": "arroz-de-pato-tradicional-portugues-suculento-e-aromatico",
-    "main_ingredient": "pato desfiado",
-    "secondary_ingredient": "arroz, chouriço e vinho tinto",
-    "cook_time": "60 min",
-    "prep_time": "25 min",
-    "image_url": "/assets/recipes/lasanha.jpg"
-  },
-  {
     "category_slug": "rapidas",
     "title": "Bowl de Atum com Arroz Branco e Abacate Suculento e Aromático",
     "slug": "bowl-de-atum-com-arroz-branco-e-abacate-suculento-e-aromatico",
