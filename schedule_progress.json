@@ -1,5 +1,5 @@
 {
-  "current_total": 586,
+  "current_total": 588,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -437,9 +437,20 @@
         "https://querorango.com/receitas/massas/espaguete-aos-frutos-do-mar-com-vinho-branco-facil-e-pratico-para-o-dia-a-dia/",
         "https://querorango.com/receitas/carne-moida/bolo-de-carne-moida-com-cobertura-de-barbecue-facil-e-pratico-para-o-dia-a-dia/"
       ]
+    },
+    {
+      "timestamp": "2026-09-12 10:39:55",
+      "count": 2,
+      "errors": 0,
+      "new_total": 588,
+      "queue_remaining": 1712,
+      "urls": [
+        "https://querorango.com/receitas/pressao/dobradinha-com-feijao-branco-e-paio-facil-e-pratico-para-o-dia-a-dia/",
+        "https://querorango.com/receitas/peixes/salmao-assado-com-crosta-de-ervas-e-parmesao-facil-e-pratico-para-o-dia-a-dia/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-09-12 05:42:13",
+  "last_run": "2026-09-12 10:39:55",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }

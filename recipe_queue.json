@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "pressao",
-    "title": "Dobradinha com Feijão Branco e Paio Fácil e Prático para o Dia a Dia",
-    "slug": "dobradinha-com-feijao-branco-e-paio-facil-e-pratico-para-o-dia-a-dia",
-    "main_ingredient": "bucho bovino higienizado",
-    "secondary_ingredient": "feijão branco, linguiça paio e bacon",
-    "cook_time": "50 min",
-    "prep_time": "25 min",
-    "image_url": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=600&q=80"
-  },
-  {
-    "category_slug": "peixes",
-    "title": "Salmão Assado com Crosta de Ervas e Parmesão Fácil e Prático para o Dia a Dia",
-    "slug": "salmao-assado-com-crosta-de-ervas-e-parmesao-facil-e-pratico-para-o-dia-a-dia",
-    "main_ingredient": "filé de salmão com pele",
-    "secondary_ingredient": "ervas frescas, farinha panko e queijo",
-    "cook_time": "20 min",
-    "prep_time": "10 min",
-    "image_url": "/assets/recipes/camarao-moranga.jpg"
-  },
-  {
     "category_slug": "regional",
     "title": "Galinhada Goiana com Piqui e Guariroba Fácil e Prático para o Dia a Dia",
     "slug": "galinhada-goiana-com-piqui-e-guariroba-facil-e-pratico-para-o-dia-a-dia",
