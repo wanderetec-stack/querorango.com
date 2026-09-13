@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "bolos",
-    "title": "Bolo de Café com Calda Cremosa de Chocolate Suculento e Aromático",
-    "slug": "bolo-de-cafe-com-calda-cremosa-de-chocolate-suculento-e-aromatico",
-    "main_ingredient": "café forte coado",
-    "secondary_ingredient": "cobertura quente de brigadeiro",
-    "cook_time": "40 min",
-    "prep_time": "15 min",
-    "image_url": "/assets/recipes/bolo-limao.jpg"
-  },
-  {
-    "category_slug": "sobremesas",
-    "title": "Cocada Cremosa de Colher com Leite Condensado Suculento e Aromático",
-    "slug": "cocada-cremosa-de-colher-com-leite-condensado-suculento-e-aromatico",
-    "main_ingredient": "coco fresco ralado",
-    "secondary_ingredient": "leite condensado e manteiga",
-    "cook_time": "25 min",
-    "prep_time": "10 min",
-    "image_url": "/assets/recipes/torta-holandesa.jpg"
-  },
-  {
     "category_slug": "paes",
     "title": "Pão de Milho Verde com Erva-Doce Suculento e Aromático",
     "slug": "pao-de-milho-verde-com-erva-doce-suculento-e-aromatico",
