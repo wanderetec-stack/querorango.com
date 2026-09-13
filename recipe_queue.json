@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "paes",
-    "title": "Pão de Milho Verde com Erva-Doce Suculento e Aromático",
-    "slug": "pao-de-milho-verde-com-erva-doce-suculento-e-aromatico",
-    "main_ingredient": "milho verde batido",
-    "secondary_ingredient": "farinha de milho e sementes aromáticas",
-    "cook_time": "40 min",
-    "prep_time": "20 min",
-    "image_url": "https://images.unsplash.com/photo-1589367920969-ab8e050bbb04?w=600&q=80"
-  },
-  {
-    "category_slug": "virais",
-    "title": "Bolo Toalha na Taça com Calda Cremosa Suculento e Aromático",
-    "slug": "bolo-toalha-na-taca-com-calda-cremosa-suculento-e-aromatico",
-    "main_ingredient": "pedaços de bolo molhado",
-    "secondary_ingredient": "leite condensado e coco fresco",
-    "cook_time": "15 min",
-    "prep_time": "15 min",
-    "image_url": "/assets/recipes/cookie-ny.jpg"
-  },
-  {
     "category_slug": "frango",
     "title": "Coxas de Frango com Batatas Glaceadas no Mel Suculento e Aromático",
     "slug": "coxas-de-frango-com-batatas-glaceadas-no-mel-suculento-e-aromatico",

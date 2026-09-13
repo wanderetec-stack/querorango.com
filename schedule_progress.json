@@ -1,5 +1,5 @@
 {
-  "current_total": 602,
+  "current_total": 604,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -525,9 +525,20 @@
         "https://querorango.com/receitas/bolos/bolo-de-cafe-com-calda-cremosa-de-chocolate-suculento-e-aromatico/",
         "https://querorango.com/receitas/sobremesas/cocada-cremosa-de-colher-com-leite-condensado-suculento-e-aromatico/"
       ]
+    },
+    {
+      "timestamp": "2026-09-13 16:11:17",
+      "count": 2,
+      "errors": 0,
+      "new_total": 604,
+      "queue_remaining": 1696,
+      "urls": [
+        "https://querorango.com/receitas/paes/pao-de-milho-verde-com-erva-doce-suculento-e-aromatico/",
+        "https://querorango.com/receitas/virais/bolo-toalha-na-taca-com-calda-cremosa-suculento-e-aromatico/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-09-13 11:43:10",
+  "last_run": "2026-09-13 16:11:17",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
