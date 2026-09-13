@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "carne-moida",
-    "title": "Abobrinha Redonda Recheada com Carne Moída Suculento e Aromático",
-    "slug": "abobrinha-redonda-recheada-com-carne-moida-suculento-e-aromatico",
-    "main_ingredient": "abobrinhas esvaziadas",
-    "secondary_ingredient": "recheio de carne moída com queijo",
-    "cook_time": "30 min",
-    "prep_time": "15 min",
-    "image_url": "/assets/recipes/hamburguer.jpg"
-  },
-  {
-    "category_slug": "pressao",
-    "title": "Costela Suína com Barbecue na Pressão Suculento e Aromático",
-    "slug": "costela-suina-com-barbecue-na-pressao-suculento-e-aromatico",
-    "main_ingredient": "costelinha de porco",
-    "secondary_ingredient": "molho barbecue encorpado caseiro",
-    "cook_time": "40 min",
-    "prep_time": "15 min",
-    "image_url": "/assets/recipes/polenta.jpg"
-  },
-  {
     "category_slug": "peixes",
     "title": "Torta de Bacalhau Cremosa com Alho-Poró Suculento e Aromático",
     "slug": "torta-de-bacalhau-cremosa-com-alho-poro-suculento-e-aromatico",

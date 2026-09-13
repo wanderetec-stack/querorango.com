@@ -1,5 +1,5 @@
 {
-  "current_total": 606,
+  "current_total": 608,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -547,9 +547,20 @@
         "https://querorango.com/receitas/frango/coxas-de-frango-com-batatas-glaceadas-no-mel-suculento-e-aromatico/",
         "https://querorango.com/receitas/massas/lasanha-de-frango-com-requeijao-cremoso-suculento-e-aromatico/"
       ]
+    },
+    {
+      "timestamp": "2026-09-13 22:22:33",
+      "count": 2,
+      "errors": 0,
+      "new_total": 608,
+      "queue_remaining": 1692,
+      "urls": [
+        "https://querorango.com/receitas/carne-moida/abobrinha-redonda-recheada-com-carne-moida-suculento-e-aromatico/",
+        "https://querorango.com/receitas/pressao/costela-suina-com-barbecue-na-pressao-suculento-e-aromatico/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-09-13 19:24:51",
+  "last_run": "2026-09-13 22:22:33",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
