@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "saudavel",
-    "title": "Sopa de Abobrinha com Ervas Finas Suculento e Aromático",
-    "slug": "sopa-de-abobrinha-com-ervas-finas-suculento-e-aromatico",
-    "main_ingredient": "abobrinhas frescas",
-    "secondary_ingredient": "alho-poró e caldo aromático",
-    "cook_time": "20 min",
-    "prep_time": "10 min",
-    "image_url": "/assets/recipes/chia-pudding.jpg"
-  },
-  {
-    "category_slug": "economicas",
-    "title": "Ovos Mexidos Cremosos com Farinha de Milho Suculento e Aromático",
-    "slug": "ovos-mexidos-cremosos-com-farinha-de-milho-suculento-e-aromatico",
-    "main_ingredient": "ovos caipiras frescos",
-    "secondary_ingredient": "farinha de milho amarela e alho",
-    "cook_time": "8 min",
-    "prep_time": "4 min",
-    "image_url": "/assets/recipes/empada.jpg"
-  },
-  {
     "category_slug": "bolos",
     "title": "Bolo de Café com Calda Cremosa de Chocolate Suculento e Aromático",
     "slug": "bolo-de-cafe-com-calda-cremosa-de-chocolate-suculento-e-aromatico",
