@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "rapidas",
-    "title": "Bowl de Atum com Arroz Branco e Abacate Suculento e Aromático",
-    "slug": "bowl-de-atum-com-arroz-branco-e-abacate-suculento-e-aromatico",
-    "main_ingredient": "atum sólido e arroz",
-    "secondary_ingredient": "abacate fresco e molho shoyu",
-    "cook_time": "10 min",
-    "prep_time": "5 min",
-    "image_url": "/assets/recipes/cuscuz.jpg"
-  },
-  {
-    "category_slug": "marmitas",
-    "title": "Almôndegas de Frango com Cenoura Ralada Suculento e Aromático",
-    "slug": "almondegas-de-frango-com-cenoura-ralada-suculento-e-aromatico",
-    "main_ingredient": "frango moído",
-    "secondary_ingredient": "cenoura e aveia em flocos",
-    "cook_time": "25 min",
-    "prep_time": "15 min",
-    "image_url": "/assets/recipes/almondegas.jpg"
-  },
-  {
     "category_slug": "saudavel",
     "title": "Sopa de Abobrinha com Ervas Finas Suculento e Aromático",
     "slug": "sopa-de-abobrinha-com-ervas-finas-suculento-e-aromatico",
