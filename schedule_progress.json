@@ -1,5 +1,5 @@
 {
-  "current_total": 604,
+  "current_total": 606,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -536,9 +536,20 @@
         "https://querorango.com/receitas/paes/pao-de-milho-verde-com-erva-doce-suculento-e-aromatico/",
         "https://querorango.com/receitas/virais/bolo-toalha-na-taca-com-calda-cremosa-suculento-e-aromatico/"
       ]
+    },
+    {
+      "timestamp": "2026-09-13 19:24:51",
+      "count": 2,
+      "errors": 0,
+      "new_total": 606,
+      "queue_remaining": 1694,
+      "urls": [
+        "https://querorango.com/receitas/frango/coxas-de-frango-com-batatas-glaceadas-no-mel-suculento-e-aromatico/",
+        "https://querorango.com/receitas/massas/lasanha-de-frango-com-requeijao-cremoso-suculento-e-aromatico/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-09-13 16:11:17",
+  "last_run": "2026-09-13 19:24:51",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
