@@ -1,5 +1,5 @@
 {
-  "current_total": 612,
+  "current_total": 614,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -580,9 +580,20 @@
         "https://querorango.com/receitas/lanches/sanduiche-de-carne-louca-para-festas-suculento-e-aromatico/",
         "https://querorango.com/receitas/sopas/sopa-de-feijao-branco-com-espinafre-e-cenoura-suculento-e-aromatico/"
       ]
+    },
+    {
+      "timestamp": "2026-09-14 12:41:42",
+      "count": 2,
+      "errors": 0,
+      "new_total": 614,
+      "queue_remaining": 1686,
+      "urls": [
+        "https://querorango.com/receitas/sem-gluten/cookies-de-amendoas-com-gotas-de-chocolate-suculento-e-aromatico/",
+        "https://querorango.com/receitas/vegetarianas/almondegas-de-berinjela-com-molho-rustico-suculento-e-aromatico/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-09-14 06:10:04",
+  "last_run": "2026-09-14 12:41:42",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
