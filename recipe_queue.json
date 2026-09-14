@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "peixes",
-    "title": "Torta de Bacalhau Cremosa com Alho-Poró Suculento e Aromático",
-    "slug": "torta-de-bacalhau-cremosa-com-alho-poro-suculento-e-aromatico",
-    "main_ingredient": "bacalhau desfiado",
-    "secondary_ingredient": "requeijão, alho-poró e massa folhada",
-    "cook_time": "40 min",
-    "prep_time": "20 min",
-    "image_url": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?w=600&q=80"
-  },
-  {
-    "category_slug": "regional",
-    "title": "Feijão Tropeiro Paulista com Linguiça Suculento e Aromático",
-    "slug": "feijao-tropeiro-paulista-com-linguica-suculento-e-aromatico",
-    "main_ingredient": "feijão carioca al dente",
-    "secondary_ingredient": "farinha de milho, couve fina e ovos",
-    "cook_time": "30 min",
-    "prep_time": "15 min",
-    "image_url": "/assets/recipes/arroz-carreteiro.jpg"
-  },
-  {
     "category_slug": "lanches",
     "title": "Sanduíche de Carne Louca para Festas Suculento e Aromático",
     "slug": "sanduiche-de-carne-louca-para-festas-suculento-e-aromatico",
