@@ -1,5 +1,5 @@
 {
-  "current_total": 616,
+  "current_total": 618,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -602,9 +602,20 @@
         "https://querorango.com/receitas/cafe-da-manha/avocado-toast-com-ovo-cozido-e-pimenta-rosa-suculento-e-aromatico/",
         "https://querorango.com/receitas/air-fryer/linguica-toscana-suculenta-com-cebola-rapido-de-fazer/"
       ]
+    },
+    {
+      "timestamp": "2026-09-14 22:26:49",
+      "count": 2,
+      "errors": 0,
+      "new_total": 618,
+      "queue_remaining": 1682,
+      "urls": [
+        "https://querorango.com/receitas/almoco/sobrecoxa-assada-ao-molho-de-laranja-rapido-de-fazer/",
+        "https://querorango.com/receitas/rapidas/cuscuz-de-frigideira-com-ovo-e-manteiga-rapido-de-fazer/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-09-14 18:34:15",
+  "last_run": "2026-09-14 22:26:49",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }

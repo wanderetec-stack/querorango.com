@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "almoco",
-    "title": "Sobrecoxa Assada ao Molho de Laranja Rápido de Fazer",
-    "slug": "sobrecoxa-assada-ao-molho-de-laranja-rapido-de-fazer",
-    "main_ingredient": "sobrecoxas de frango",
-    "secondary_ingredient": "suco de laranja natural e mel",
-    "cook_time": "50 min",
-    "prep_time": "15 min",
-    "image_url": "/assets/recipes/arroz-carreteiro.jpg"
-  },
-  {
-    "category_slug": "rapidas",
-    "title": "Cuscuz de Frigideira com Ovo e Manteiga Rápido de Fazer",
-    "slug": "cuscuz-de-frigideira-com-ovo-e-manteiga-rapido-de-fazer",
-    "main_ingredient": "flocão de milho hidratado",
-    "secondary_ingredient": "ovo frito na manteiga",
-    "cook_time": "8 min",
-    "prep_time": "5 min",
-    "image_url": "/assets/recipes/panqueca-americana.jpg"
-  },
-  {
     "category_slug": "marmitas",
     "title": "Picadinho de Carne com Batata e Cenoura Rápido de Fazer",
     "slug": "picadinho-de-carne-com-batata-e-cenoura-rapido-de-fazer",
