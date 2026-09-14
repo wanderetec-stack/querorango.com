@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "cafe-da-manha",
-    "title": "Avocado Toast com Ovo Cozido e Pimenta Rosa Suculento e Aromático",
-    "slug": "avocado-toast-com-ovo-cozido-e-pimenta-rosa-suculento-e-aromatico",
-    "main_ingredient": "pão de fermentação natural",
-    "secondary_ingredient": "abacate amassado com limão e azeite",
-    "cook_time": "8 min",
-    "prep_time": "6 min",
-    "image_url": "/assets/recipes/french-toast.jpg"
-  },
-  {
-    "category_slug": "air-fryer",
-    "title": "Linguiça Toscana Suculenta com Cebola Rápido de Fazer",
-    "slug": "linguica-toscana-suculenta-com-cebola-rapido-de-fazer",
-    "main_ingredient": "linguiça toscana",
-    "secondary_ingredient": "rodelas de cebola",
-    "cook_time": "22 min",
-    "prep_time": "8 min",
-    "image_url": "/assets/recipes/pastel.jpg"
-  },
-  {
     "category_slug": "almoco",
     "title": "Sobrecoxa Assada ao Molho de Laranja Rápido de Fazer",
     "slug": "sobrecoxa-assada-ao-molho-de-laranja-rapido-de-fazer",
