@@ -1,5 +1,5 @@
 {
-  "current_total": 626,
+  "current_total": 628,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -657,9 +657,20 @@
         "https://querorango.com/receitas/virais/mousse-nuvem-de-2-ingredientes-rapido-de-fazer/",
         "https://querorango.com/receitas/frango/frango-a-cacciatore-com-tomates-e-azeitonas-rapido-de-fazer/"
       ]
+    },
+    {
+      "timestamp": "2026-09-15 21:17:14",
+      "count": 2,
+      "errors": 0,
+      "new_total": 628,
+      "queue_remaining": 1672,
+      "urls": [
+        "https://querorango.com/receitas/massas/gnocchi-alla-sorrentina-gratinado-com-mucarela-rapido-de-fazer/",
+        "https://querorango.com/receitas/carne-moida/panqueca-de-espinafre-com-recheio-de-carne-rapido-de-fazer/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-09-15 18:08:44",
+  "last_run": "2026-09-15 21:17:14",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }

@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "massas",
-    "title": "Gnocchi alla Sorrentina Gratinado com Muçarela Rápido de Fazer",
-    "slug": "gnocchi-alla-sorrentina-gratinado-com-mucarela-rapido-de-fazer",
-    "main_ingredient": "nhoque de batata macio",
-    "secondary_ingredient": "molho de tomate caseiro e manjericão",
-    "cook_time": "20 min",
-    "prep_time": "15 min",
-    "image_url": "/assets/recipes/canelone.jpg"
-  },
-  {
-    "category_slug": "carne-moida",
-    "title": "Panqueca de Espinafre com Recheio de Carne Rápido de Fazer",
-    "slug": "panqueca-de-espinafre-com-recheio-de-carne-rapido-de-fazer",
-    "main_ingredient": "massa verde com espinafre",
-    "secondary_ingredient": "carne moída refogada com cebola",
-    "cook_time": "20 min",
-    "prep_time": "15 min",
-    "image_url": "/assets/recipes/pastel.jpg"
-  },
-  {
     "category_slug": "pressao",
     "title": "Sopa de Ervilha com Calabresa e Bacon Rápido de Fazer",
     "slug": "sopa-de-ervilha-com-calabresa-e-bacon-rapido-de-fazer",
