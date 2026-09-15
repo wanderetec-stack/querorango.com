@@ -1,5 +1,5 @@
 {
-  "current_total": 624,
+  "current_total": 626,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -646,9 +646,20 @@
         "https://querorango.com/receitas/sobremesas/doce-de-abobora-com-coco-em-pedacos-rapido-de-fazer/",
         "https://querorango.com/receitas/paes/paozinho-de-mandioca-macio-para-o-lanche-rapido-de-fazer/"
       ]
+    },
+    {
+      "timestamp": "2026-09-15 18:08:44",
+      "count": 2,
+      "errors": 0,
+      "new_total": 626,
+      "queue_remaining": 1674,
+      "urls": [
+        "https://querorango.com/receitas/virais/mousse-nuvem-de-2-ingredientes-rapido-de-fazer/",
+        "https://querorango.com/receitas/frango/frango-a-cacciatore-com-tomates-e-azeitonas-rapido-de-fazer/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-09-15 13:28:55",
+  "last_run": "2026-09-15 18:08:44",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
