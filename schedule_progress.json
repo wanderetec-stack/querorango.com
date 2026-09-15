@@ -1,5 +1,5 @@
 {
-  "current_total": 618,
+  "current_total": 620,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -613,9 +613,20 @@
         "https://querorango.com/receitas/almoco/sobrecoxa-assada-ao-molho-de-laranja-rapido-de-fazer/",
         "https://querorango.com/receitas/rapidas/cuscuz-de-frigideira-com-ovo-e-manteiga-rapido-de-fazer/"
       ]
+    },
+    {
+      "timestamp": "2026-09-15 01:23:37",
+      "count": 2,
+      "errors": 0,
+      "new_total": 620,
+      "queue_remaining": 1680,
+      "urls": [
+        "https://querorango.com/receitas/marmitas/picadinho-de-carne-com-batata-e-cenoura-rapido-de-fazer/",
+        "https://querorango.com/receitas/saudavel/file-de-frango-com-crosta-de-gergelim-rapido-de-fazer/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-09-14 22:26:49",
+  "last_run": "2026-09-15 01:23:37",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }

@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "marmitas",
-    "title": "Picadinho de Carne com Batata e Cenoura Rápido de Fazer",
-    "slug": "picadinho-de-carne-com-batata-e-cenoura-rapido-de-fazer",
-    "main_ingredient": "patinho em cubos",
-    "secondary_ingredient": "cenoura, batata e caldo rústico",
-    "cook_time": "35 min",
-    "prep_time": "15 min",
-    "image_url": "/assets/recipes/feijoada.jpg"
-  },
-  {
-    "category_slug": "saudavel",
-    "title": "Filé de Frango com Crosta de Gergelim Rápido de Fazer",
-    "slug": "file-de-frango-com-crosta-de-gergelim-rapido-de-fazer",
-    "main_ingredient": "peito de frango",
-    "secondary_ingredient": "sementes de gergelim tostadas",
-    "cook_time": "15 min",
-    "prep_time": "8 min",
-    "image_url": "/assets/recipes/creme-abobora.jpg"
-  },
-  {
     "category_slug": "economicas",
     "title": "Sopa Econômica de Legumes com Pão Torrado Rápido de Fazer",
     "slug": "sopa-economica-de-legumes-com-pao-torrado-rapido-de-fazer",
