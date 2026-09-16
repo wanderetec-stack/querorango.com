@@ -1,5 +1,5 @@
 {
-  "current_total": 634,
+  "current_total": 636,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -701,9 +701,20 @@
         "https://querorango.com/receitas/sopas/sopa-de-milho-cremosa-com-bacon-crocante-rapido-de-fazer/",
         "https://querorango.com/receitas/sem-gluten/massa-de-pizza-sem-gluten-com-mandioca-rapido-de-fazer/"
       ]
+    },
+    {
+      "timestamp": "2026-09-16 16:47:03",
+      "count": 2,
+      "errors": 0,
+      "new_total": 636,
+      "queue_remaining": 1664,
+      "urls": [
+        "https://querorango.com/receitas/vegetarianas/quibe-de-abobora-com-nozes-e-hortela-rapido-de-fazer/",
+        "https://querorango.com/receitas/cafe-da-manha/granola-de-frigideira-com-castanhas-e-mel-rapido-de-fazer/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-09-16 11:25:23",
+  "last_run": "2026-09-16 16:47:03",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }

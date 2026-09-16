@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "vegetarianas",
-    "title": "Quibe de Abóbora com Nozes e Hortelã Rápido de Fazer",
-    "slug": "quibe-de-abobora-com-nozes-e-hortela-rapido-de-fazer",
-    "main_ingredient": "abóbora cabotiá cozida",
-    "secondary_ingredient": "trigo para quibe e nozes picadas",
-    "cook_time": "35 min",
-    "prep_time": "20 min",
-    "image_url": "/assets/recipes/escondidinho.jpg"
-  },
-  {
-    "category_slug": "cafe-da-manha",
-    "title": "Granola de Frigideira com Castanhas e Mel Rápido de Fazer",
-    "slug": "granola-de-frigideira-com-castanhas-e-mel-rapido-de-fazer",
-    "main_ingredient": "aveia em flocos grossos",
-    "secondary_ingredient": "castanhas de caju, nozes e mel",
-    "cook_time": "10 min",
-    "prep_time": "5 min",
-    "image_url": "/assets/recipes/granola.jpg"
-  },
-  {
     "category_slug": "air-fryer",
     "title": "Espeto de Frango com Pimentão e Bacon Cremoso de Família",
     "slug": "espeto-de-frango-com-pimentao-e-bacon-cremoso-de-familia",
