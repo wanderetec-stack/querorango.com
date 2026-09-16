@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "sopas",
-    "title": "Sopa de Milho Cremosa com Bacon Crocante Rápido de Fazer",
-    "slug": "sopa-de-milho-cremosa-com-bacon-crocante-rapido-de-fazer",
-    "main_ingredient": "milho verde fresco batido",
-    "secondary_ingredient": "cubinhos de bacon dourados no topo",
-    "cook_time": "25 min",
-    "prep_time": "12 min",
-    "image_url": "/assets/recipes/creme-abobora.jpg"
-  },
-  {
-    "category_slug": "sem-gluten",
-    "title": "Massa de Pizza Sem Glúten com Mandioca Rápido de Fazer",
-    "slug": "massa-de-pizza-sem-gluten-com-mandioca-rapido-de-fazer",
-    "main_ingredient": "mandioca cozida amassada",
-    "secondary_ingredient": "polvilho azedo e azeite extravirgem",
-    "cook_time": "25 min",
-    "prep_time": "15 min",
-    "image_url": "/assets/recipes/cookie-ny.jpg"
-  },
-  {
     "category_slug": "vegetarianas",
     "title": "Quibe de Abóbora com Nozes e Hortelã Rápido de Fazer",
     "slug": "quibe-de-abobora-com-nozes-e-hortela-rapido-de-fazer",
