@@ -1,5 +1,5 @@
 {
-  "current_total": 630,
+  "current_total": 632,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -679,9 +679,20 @@
         "https://querorango.com/receitas/pressao/sopa-de-ervilha-com-calabresa-e-bacon-rapido-de-fazer/",
         "https://querorango.com/receitas/peixes/ceviche-misto-de-peixe-branco-e-camarao-rapido-de-fazer/"
       ]
+    },
+    {
+      "timestamp": "2026-09-16 05:56:56",
+      "count": 2,
+      "errors": 0,
+      "new_total": 632,
+      "queue_remaining": 1668,
+      "urls": [
+        "https://querorango.com/receitas/regional/arroz-com-sua-mineiro-de-panela-de-ferro-rapido-de-fazer/",
+        "https://querorango.com/receitas/lanches/esfiha-folhada-de-frango-com-catupiry-rapido-de-fazer/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-09-16 00:13:22",
+  "last_run": "2026-09-16 05:56:56",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
