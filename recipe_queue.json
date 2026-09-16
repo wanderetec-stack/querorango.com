@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "pressao",
-    "title": "Sopa de Ervilha com Calabresa e Bacon Rápido de Fazer",
-    "slug": "sopa-de-ervilha-com-calabresa-e-bacon-rapido-de-fazer",
-    "main_ingredient": "ervilha seca partida",
-    "secondary_ingredient": "cubos de calabresa defumada e alho",
-    "cook_time": "25 min",
-    "prep_time": "10 min",
-    "image_url": "/assets/recipes/rocambole-carne.jpg"
-  },
-  {
-    "category_slug": "peixes",
-    "title": "Ceviche Misto de Peixe Branco e Camarão Rápido de Fazer",
-    "slug": "ceviche-misto-de-peixe-branco-e-camarao-rapido-de-fazer",
-    "main_ingredient": "peixe branco em cubos e camarão",
-    "secondary_ingredient": "suco de limão, cebola roxa e coentro",
-    "cook_time": "15 min",
-    "prep_time": "15 min",
-    "image_url": "/assets/recipes/bobo-camarao.jpg"
-  },
-  {
     "category_slug": "regional",
     "title": "Arroz com Suã Mineiro de Panela de Ferro Rápido de Fazer",
     "slug": "arroz-com-sua-mineiro-de-panela-de-ferro-rapido-de-fazer",
