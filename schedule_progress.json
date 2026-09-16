@@ -1,5 +1,5 @@
 {
-  "current_total": 638,
+  "current_total": 640,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -723,9 +723,20 @@
         "https://querorango.com/receitas/air-fryer/espeto-de-frango-com-pimentao-e-bacon-cremoso-de-familia/",
         "https://querorango.com/receitas/almoco/lasanha-quatro-queijos-com-bechamel-suave-cremoso-de-familia/"
       ]
+    },
+    {
+      "timestamp": "2026-09-16 22:54:00",
+      "count": 2,
+      "errors": 0,
+      "new_total": 640,
+      "queue_remaining": 1660,
+      "urls": [
+        "https://querorango.com/receitas/rapidas/wrap-de-frango-com-creme-de-ricota-cremoso-de-familia/",
+        "https://querorango.com/receitas/marmitas/feijao-carioca-com-louro-e-alho-frito-cremoso-de-familia/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-09-16 20:03:54",
+  "last_run": "2026-09-16 22:54:00",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }

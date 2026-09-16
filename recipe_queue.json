@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "rapidas",
-    "title": "Wrap de Frango com Creme de Ricota Cremoso de Família",
-    "slug": "wrap-de-frango-com-creme-de-ricota-cremoso-de-familia",
-    "main_ingredient": "pão folha",
-    "secondary_ingredient": "iscas de frango grelhado e alface",
-    "cook_time": "10 min",
-    "prep_time": "5 min",
-    "image_url": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=600&q=80"
-  },
-  {
-    "category_slug": "marmitas",
-    "title": "Feijão Carioca com Louro e Alho Frito Cremoso de Família",
-    "slug": "feijao-carioca-com-louro-e-alho-frito-cremoso-de-familia",
-    "main_ingredient": "feijão carioca macio",
-    "secondary_ingredient": "folhas de louro e alho dourado",
-    "cook_time": "40 min",
-    "prep_time": "15 min",
-    "image_url": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?w=600&q=80"
-  },
-  {
     "category_slug": "saudavel",
     "title": "Muffins de Claras com Tomatinhos e Manjericão Cremoso de Família",
     "slug": "muffins-de-claras-com-tomatinhos-e-manjericao-cremoso-de-familia",
