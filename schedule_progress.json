@@ -1,5 +1,5 @@
 {
-  "current_total": 640,
+  "current_total": 642,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -734,9 +734,20 @@
         "https://querorango.com/receitas/rapidas/wrap-de-frango-com-creme-de-ricota-cremoso-de-familia/",
         "https://querorango.com/receitas/marmitas/feijao-carioca-com-louro-e-alho-frito-cremoso-de-familia/"
       ]
+    },
+    {
+      "timestamp": "2026-09-17 01:20:19",
+      "count": 2,
+      "errors": 0,
+      "new_total": 642,
+      "queue_remaining": 1658,
+      "urls": [
+        "https://querorango.com/receitas/saudavel/muffins-de-claras-com-tomatinhos-e-manjericao-cremoso-de-familia/",
+        "https://querorango.com/receitas/economicas/torta-de-legumes-de-liquidificador-facil-cremoso-de-familia/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-09-16 22:54:00",
+  "last_run": "2026-09-17 01:20:19",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
