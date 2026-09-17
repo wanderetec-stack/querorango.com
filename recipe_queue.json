@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "frango",
-    "title": "Frango Recheado com Farofa de Miúdos Cremoso de Família",
-    "slug": "frango-recheado-com-farofa-de-miudos-cremoso-de-familia",
-    "main_ingredient": "frango inteiro limpo",
-    "secondary_ingredient": "farofa úmida de milho e miúdos",
-    "cook_time": "75 min",
-    "prep_time": "25 min",
-    "image_url": "/assets/recipes/frango-xadrez.jpg"
-  },
-  {
-    "category_slug": "massas",
-    "title": "Fettuccine com Cogumelos Trufados e Parmesão Cremoso de Família",
-    "slug": "fettuccine-com-cogumelos-trufados-e-parmesao-cremoso-de-familia",
-    "main_ingredient": "fettuccine fresco",
-    "secondary_ingredient": "cogumelos frescos salteados no azeite",
-    "cook_time": "18 min",
-    "prep_time": "12 min",
-    "image_url": "/assets/recipes/fettuccine-alfredo.jpg"
-  },
-  {
     "category_slug": "carne-moida",
     "title": "Pastelão Assado de Carne Moída com Azeitonas Cremoso de Família",
     "slug": "pastelao-assado-de-carne-moida-com-azeitonas-cremoso-de-familia",
