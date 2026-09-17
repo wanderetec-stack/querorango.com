@@ -1,5 +1,5 @@
 {
-  "current_total": 642,
+  "current_total": 644,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -745,9 +745,20 @@
         "https://querorango.com/receitas/saudavel/muffins-de-claras-com-tomatinhos-e-manjericao-cremoso-de-familia/",
         "https://querorango.com/receitas/economicas/torta-de-legumes-de-liquidificador-facil-cremoso-de-familia/"
       ]
+    },
+    {
+      "timestamp": "2026-09-17 07:34:53",
+      "count": 2,
+      "errors": 0,
+      "new_total": 644,
+      "queue_remaining": 1656,
+      "urls": [
+        "https://querorango.com/receitas/bolos/bolo-marmore-com-gotas-de-chocolate-cremoso-de-familia/",
+        "https://querorango.com/receitas/sobremesas/gelatina-cremosa-de-morango-com-nata-cremoso-de-familia/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-09-17 01:20:19",
+  "last_run": "2026-09-17 07:34:53",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
