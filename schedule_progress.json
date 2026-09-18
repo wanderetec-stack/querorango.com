@@ -1,5 +1,5 @@
 {
-  "current_total": 658,
+  "current_total": 660,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -833,9 +833,20 @@
         "https://querorango.com/receitas/cafe-da-manha/cestinha-de-ovos-com-bacon-no-forno-cremoso-de-familia/",
         "https://querorango.com/receitas/air-fryer/queijo-coalho-grelhado-com-melaco-dourado-perfeito/"
       ]
+    },
+    {
+      "timestamp": "2026-09-18 18:22:21",
+      "count": 2,
+      "errors": 0,
+      "new_total": 660,
+      "queue_remaining": 1640,
+      "urls": [
+        "https://querorango.com/receitas/almoco/vaca-atolada-com-costela-bovina-e-aipim-dourado-perfeito/",
+        "https://querorango.com/receitas/rapidas/tostex-especial-com-queijo-meia-cura-dourado-perfeito/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-09-18 14:57:12",
+  "last_run": "2026-09-18 18:22:21",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
