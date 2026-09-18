@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "marmitas",
-    "title": "Filé de Tilápia com Purê de Ervilhas Dourado Perfeito",
-    "slug": "file-de-tilapia-com-pure-de-ervilhas-dourado-perfeito",
-    "main_ingredient": "filés de tilápia grelhados",
-    "secondary_ingredient": "ervilhas frescas batidas",
-    "cook_time": "20 min",
-    "prep_time": "12 min",
-    "image_url": "/assets/recipes/strogonoff.jpg"
-  },
-  {
-    "category_slug": "saudavel",
-    "title": "Bowl de Frutas Vermelhas com Sementes de Girassol Dourado Perfeito",
-    "slug": "bowl-de-frutas-vermelhas-com-sementes-de-girassol-dourado-perfeito",
-    "main_ingredient": "mix de frutas frescas",
-    "secondary_ingredient": "iogurte desnatado e sementes",
-    "cook_time": "5 min",
-    "prep_time": "5 min",
-    "image_url": "/assets/recipes/legumes-assados.jpg"
-  },
-  {
     "category_slug": "economicas",
     "title": "Batata Doce Assada com Manteiga e Sal Dourado Perfeito",
     "slug": "batata-doce-assada-com-manteiga-e-sal-dourado-perfeito",
