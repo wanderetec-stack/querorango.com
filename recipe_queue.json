@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "lanches",
-    "title": "Croquete de Mandioca com Carne Moída Cremoso de Família",
-    "slug": "croquete-de-mandioca-com-carne-moida-cremoso-de-familia",
-    "main_ingredient": "purê de mandioca rústico",
-    "secondary_ingredient": "recheio de carne moída com azeitonas",
-    "cook_time": "20 min",
-    "prep_time": "20 min",
-    "image_url": "/assets/recipes/croquete.jpg"
-  },
-  {
-    "category_slug": "sopas",
-    "title": "Minestrone Tradicional Italiano com Macarrão Cremoso de Família",
-    "slug": "minestrone-tradicional-italiano-com-macarrao-cremoso-de-familia",
-    "main_ingredient": "legumes variados em cubos",
-    "secondary_ingredient": "feijão branco e massa caracol",
-    "cook_time": "35 min",
-    "prep_time": "15 min",
-    "image_url": "/assets/recipes/sopa-cebola.jpg"
-  },
-  {
     "category_slug": "sem-gluten",
     "title": "Muffin Salgado Sem Glúten com Espinafre Cremoso de Família",
     "slug": "muffin-salgado-sem-gluten-com-espinafre-cremoso-de-familia",
