@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "sem-gluten",
-    "title": "Muffin Salgado Sem Glúten com Espinafre Cremoso de Família",
-    "slug": "muffin-salgado-sem-gluten-com-espinafre-cremoso-de-familia",
-    "main_ingredient": "farinha de aveia sem glúten",
-    "secondary_ingredient": "ovos, espinafre fresco e queijo curado",
-    "cook_time": "20 min",
-    "prep_time": "12 min",
-    "image_url": "/assets/recipes/fettuccine-alfredo.jpg"
-  },
-  {
-    "category_slug": "vegetarianas",
-    "title": "Risoto de Cogumelos Shimeji com Alho-Poró Cremoso de Família",
-    "slug": "risoto-de-cogumelos-shimeji-com-alho-poro-cremoso-de-familia",
-    "main_ingredient": "arroz arbóreo al dente",
-    "secondary_ingredient": "cogumelos shimeji frescos na manteiga",
-    "cook_time": "25 min",
-    "prep_time": "15 min",
-    "image_url": "/assets/recipes/legumes-assados.jpg"
-  },
-  {
     "category_slug": "cafe-da-manha",
     "title": "Cestinha de Ovos com Bacon no Forno Cremoso de Família",
     "slug": "cestinha-de-ovos-com-bacon-no-forno-cremoso-de-familia",
