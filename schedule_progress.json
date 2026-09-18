@@ -1,5 +1,5 @@
 {
-  "current_total": 656,
+  "current_total": 658,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -822,9 +822,20 @@
         "https://querorango.com/receitas/sem-gluten/muffin-salgado-sem-gluten-com-espinafre-cremoso-de-familia/",
         "https://querorango.com/receitas/vegetarianas/risoto-de-cogumelos-shimeji-com-alho-poro-cremoso-de-familia/"
       ]
+    },
+    {
+      "timestamp": "2026-09-18 14:57:12",
+      "count": 2,
+      "errors": 0,
+      "new_total": 658,
+      "queue_remaining": 1642,
+      "urls": [
+        "https://querorango.com/receitas/cafe-da-manha/cestinha-de-ovos-com-bacon-no-forno-cremoso-de-familia/",
+        "https://querorango.com/receitas/air-fryer/queijo-coalho-grelhado-com-melaco-dourado-perfeito/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-09-18 11:06:46",
+  "last_run": "2026-09-18 14:57:12",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }

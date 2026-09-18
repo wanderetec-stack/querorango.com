@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "cafe-da-manha",
-    "title": "Cestinha de Ovos com Bacon no Forno Cremoso de Família",
-    "slug": "cestinha-de-ovos-com-bacon-no-forno-cremoso-de-familia",
-    "main_ingredient": "fatias de bacon crocante",
-    "secondary_ingredient": "ovos caipiras assados na forminha",
-    "cook_time": "15 min",
-    "prep_time": "5 min",
-    "image_url": "/assets/recipes/misto-quente.jpg"
-  },
-  {
-    "category_slug": "air-fryer",
-    "title": "Queijo Coalho Grelhado com Melaço Dourado Perfeito",
-    "slug": "queijo-coalho-grelhado-com-melaco-dourado-perfeito",
-    "main_ingredient": "espetos de queijo coalho",
-    "secondary_ingredient": "orégano e melaço",
-    "cook_time": "12 min",
-    "prep_time": "5 min",
-    "image_url": "/assets/recipes/peixe-grelhado.jpg"
-  },
-  {
     "category_slug": "almoco",
     "title": "Vaca Atolada com Costela Bovina e Aipim Dourado Perfeito",
     "slug": "vaca-atolada-com-costela-bovina-e-aipim-dourado-perfeito",
