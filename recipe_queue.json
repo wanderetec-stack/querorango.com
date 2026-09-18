@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "peixes",
-    "title": "Arroz de Marisco com Açafrão e Coentro Cremoso de Família",
-    "slug": "arroz-de-marisco-com-acafrao-e-coentro-cremoso-de-familia",
-    "main_ingredient": "mariscos frescos com casca",
-    "secondary_ingredient": "arroz parboilizado e caldo de peixe",
-    "cook_time": "30 min",
-    "prep_time": "20 min",
-    "image_url": "/assets/recipes/ceviche.jpg"
-  },
-  {
-    "category_slug": "regional",
-    "title": "Barreado Paranaense Cozido em Panela Selada Cremoso de Família",
-    "slug": "barreado-paranaense-cozido-em-panela-selada-cremoso-de-familia",
-    "main_ingredient": "carnes bovinas magras",
-    "secondary_ingredient": "farinha de mandioca e banana prata",
-    "cook_time": "90 min",
-    "prep_time": "25 min",
-    "image_url": "/assets/recipes/pao-de-queijo.jpg"
-  },
-  {
     "category_slug": "lanches",
     "title": "Croquete de Mandioca com Carne Moída Cremoso de Família",
     "slug": "croquete-de-mandioca-com-carne-moida-cremoso-de-familia",
