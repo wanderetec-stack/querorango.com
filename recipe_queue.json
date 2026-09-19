@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "economicas",
-    "title": "Batata Doce Assada com Manteiga e Sal Dourado Perfeito",
-    "slug": "batata-doce-assada-com-manteiga-e-sal-dourado-perfeito",
-    "main_ingredient": "batatas doces fatiadas",
-    "secondary_ingredient": "manteiga e sal refinado",
-    "cook_time": "30 min",
-    "prep_time": "8 min",
-    "image_url": "/assets/recipes/macarrao-alho-oleo.jpg"
-  },
-  {
-    "category_slug": "bolos",
-    "title": "Bolo de Amendoim com Cobertura de Paçoca Dourado Perfeito",
-    "slug": "bolo-de-amendoim-com-cobertura-de-pacoca-dourado-perfeito",
-    "main_ingredient": "amendoim torrado moído",
-    "secondary_ingredient": "doce de leite e paçoca esfarelada",
-    "cook_time": "40 min",
-    "prep_time": "15 min",
-    "image_url": "/assets/recipes/bolo-cenoura.jpg"
-  },
-  {
     "category_slug": "sobremesas",
     "title": "Brigadeiro de Pistache com Chocolate Branco Dourado Perfeito",
     "slug": "brigadeiro-de-pistache-com-chocolate-branco-dourado-perfeito",

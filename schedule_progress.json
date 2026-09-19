@@ -1,5 +1,5 @@
 {
-  "current_total": 662,
+  "current_total": 664,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -855,9 +855,20 @@
         "https://querorango.com/receitas/marmitas/file-de-tilapia-com-pure-de-ervilhas-dourado-perfeito/",
         "https://querorango.com/receitas/saudavel/bowl-de-frutas-vermelhas-com-sementes-de-girassol-dourado-perfeito/"
       ]
+    },
+    {
+      "timestamp": "2026-09-19 00:14:27",
+      "count": 2,
+      "errors": 0,
+      "new_total": 664,
+      "queue_remaining": 1636,
+      "urls": [
+        "https://querorango.com/receitas/economicas/batata-doce-assada-com-manteiga-e-sal-dourado-perfeito/",
+        "https://querorango.com/receitas/bolos/bolo-de-amendoim-com-cobertura-de-pacoca-dourado-perfeito/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-09-18 21:37:26",
+  "last_run": "2026-09-19 00:14:27",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
