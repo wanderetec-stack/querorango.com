@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "regional",
-    "title": "Caldo de Mocotó Tradicional com Cheiro-Verde Dourado Perfeito",
-    "slug": "caldo-de-mocoto-tradicional-com-cheiro-verde-dourado-perfeito",
-    "main_ingredient": "mocotó bovino higienizado",
-    "secondary_ingredient": "caldo aveludado com alho e louro",
-    "cook_time": "60 min",
-    "prep_time": "25 min",
-    "image_url": "/assets/recipes/moqueca.jpg"
-  },
-  {
-    "category_slug": "lanches",
-    "title": "Empadão de Palmito Cremoso com Requeijão Dourado Perfeito",
-    "slug": "empadao-de-palmito-cremoso-com-requeijao-dourado-perfeito",
-    "main_ingredient": "massa podre que derrete",
-    "secondary_ingredient": "palmito pupunha em cubos no bechamel",
-    "cook_time": "40 min",
-    "prep_time": "25 min",
-    "image_url": "/assets/recipes/sanduiche-pernil.jpg"
-  },
-  {
     "category_slug": "sopas",
     "title": "Caldo de Mocotó Revigorante com Pimenta Dourado Perfeito",
     "slug": "caldo-de-mocoto-revigorante-com-pimenta-dourado-perfeito",

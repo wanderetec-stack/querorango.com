@@ -1,5 +1,5 @@
 {
-  "current_total": 672,
+  "current_total": 674,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -910,9 +910,20 @@
         "https://querorango.com/receitas/pressao/rabada-com-agriao-e-polenta-na-pressao-dourado-perfeito/",
         "https://querorango.com/receitas/peixes/lula-a-dore-crocante-com-molho-tartaro-dourado-perfeito/"
       ]
+    },
+    {
+      "timestamp": "2026-09-19 20:33:55",
+      "count": 2,
+      "errors": 0,
+      "new_total": 674,
+      "queue_remaining": 1626,
+      "urls": [
+        "https://querorango.com/receitas/regional/caldo-de-mocoto-tradicional-com-cheiro-verde-dourado-perfeito/",
+        "https://querorango.com/receitas/lanches/empadao-de-palmito-cremoso-com-requeijao-dourado-perfeito/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-09-19 17:58:05",
+  "last_run": "2026-09-19 20:33:55",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
