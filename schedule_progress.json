@@ -1,5 +1,5 @@
 {
-  "current_total": 664,
+  "current_total": 666,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -866,9 +866,20 @@
         "https://querorango.com/receitas/economicas/batata-doce-assada-com-manteiga-e-sal-dourado-perfeito/",
         "https://querorango.com/receitas/bolos/bolo-de-amendoim-com-cobertura-de-pacoca-dourado-perfeito/"
       ]
+    },
+    {
+      "timestamp": "2026-09-19 05:47:02",
+      "count": 2,
+      "errors": 0,
+      "new_total": 666,
+      "queue_remaining": 1634,
+      "urls": [
+        "https://querorango.com/receitas/sobremesas/brigadeiro-de-pistache-com-chocolate-branco-dourado-perfeito/",
+        "https://querorango.com/receitas/paes/pao-de-hamburguer-artesanal-com-gergelim-dourado-perfeito/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-09-19 00:14:27",
+  "last_run": "2026-09-19 05:47:02",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
