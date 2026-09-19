@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "sopas",
-    "title": "Caldo de Mocotó Revigorante com Pimenta Dourado Perfeito",
-    "slug": "caldo-de-mocoto-revigorante-com-pimenta-dourado-perfeito",
-    "main_ingredient": "mocotó cozido lentamente",
-    "secondary_ingredient": "caldo espesso com alho, louro e pimenta",
-    "cook_time": "60 min",
-    "prep_time": "20 min",
-    "image_url": "/assets/recipes/sopa-capeletti.jpg"
-  },
-  {
-    "category_slug": "sem-gluten",
-    "title": "Brownie Funcional de Batata Doce com Cacau Dourado Perfeito",
-    "slug": "brownie-funcional-de-batata-doce-com-cacau-dourado-perfeito",
-    "main_ingredient": "purê de batata doce macia",
-    "secondary_ingredient": "cacau puro 100% e nozes picadas",
-    "cook_time": "30 min",
-    "prep_time": "15 min",
-    "image_url": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=600&q=80"
-  },
-  {
     "category_slug": "vegetarianas",
     "title": "Escondidinho de Mandioca com Shimeji Dourado Perfeito",
     "slug": "escondidinho-de-mandioca-com-shimeji-dourado-perfeito",
