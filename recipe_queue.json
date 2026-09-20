@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "saudavel",
-    "title": "Wrap Low Carb de Alface com Frango Desfiado Versão Especial 9",
-    "slug": "wrap-low-carb-de-alface-com-frango-desfiado-versao-especial-9",
-    "main_ingredient": "folhas de alface americana",
-    "secondary_ingredient": "frango desfiado com mostarda",
-    "cook_time": "5 min",
-    "prep_time": "8 min",
-    "image_url": "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=600&q=80"
-  },
-  {
-    "category_slug": "economicas",
-    "title": "Cuscuz Temperado com Cebola e Manteiga de Garrafa Versão Especial 9",
-    "slug": "cuscuz-temperado-com-cebola-e-manteiga-de-garrafa-versao-especial-9",
-    "main_ingredient": "flocão de milho",
-    "secondary_ingredient": "cebola roxa picada e manteiga",
-    "cook_time": "10 min",
-    "prep_time": "5 min",
-    "image_url": "/assets/recipes/escondidinho.jpg"
-  },
-  {
     "category_slug": "bolos",
     "title": "Bolo Simples de Caneca no Micro-ondas Versão Especial 9",
     "slug": "bolo-simples-de-caneca-no-micro-ondas-versao-especial-9",
