@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "bolos",
-    "title": "Bolo Simples de Caneca no Micro-ondas Versão Especial 9",
-    "slug": "bolo-simples-de-caneca-no-micro-ondas-versao-especial-9",
-    "main_ingredient": "farinha, leite e açúcar",
-    "secondary_ingredient": "cacau e fermento químico",
-    "cook_time": "3 min",
-    "prep_time": "3 min",
-    "image_url": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=600&q=80"
-  },
-  {
-    "category_slug": "sobremesas",
-    "title": "Creme de Papaia com Licor de Cassis Versão Especial 9",
-    "slug": "creme-de-papaia-com-licor-de-cassis-versao-especial-9",
-    "main_ingredient": "mamão papaia gelado",
-    "secondary_ingredient": "sorvete de creme e licor cassis",
-    "cook_time": "5 min",
-    "prep_time": "5 min",
-    "image_url": "/assets/recipes/quindim.jpg"
-  },
-  {
     "category_slug": "paes",
     "title": "Rosca de Canela com Cobertura Açucarada Versão Especial 9",
     "slug": "rosca-de-canela-com-cobertura-acucarada-versao-especial-9",
