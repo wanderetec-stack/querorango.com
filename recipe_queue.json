@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "air-fryer",
-    "title": "Abobrinha Gratinada com Crosta de Parmesão Versão Especial 9",
-    "slug": "abobrinha-gratinada-com-crosta-de-parmesao-versao-especial-9",
-    "main_ingredient": "fatias de abobrinha",
-    "secondary_ingredient": "queijo parmesão ralado",
-    "cook_time": "14 min",
-    "prep_time": "8 min",
-    "image_url": "https://images.unsplash.com/photo-1598515214211-89d3c73ae83b?w=600&q=80"
-  },
-  {
-    "category_slug": "almoco",
-    "title": "Moqueca Mista de Peixe e Camarão Versão Especial 9",
-    "slug": "moqueca-mista-de-peixe-e-camarao-versao-especial-9",
-    "main_ingredient": "postas de cação e camarões",
-    "secondary_ingredient": "leite de coco e azeite de dendê",
-    "cook_time": "40 min",
-    "prep_time": "20 min",
-    "image_url": "/assets/recipes/carne-panela.jpg"
-  },
-  {
     "category_slug": "rapidas",
     "title": "Salada de Feijão Fradinho com Vinagrete Versão Especial 9",
     "slug": "salada-de-feijao-fradinho-com-vinagrete-versao-especial-9",

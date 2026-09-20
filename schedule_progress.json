@@ -1,5 +1,5 @@
 {
-  "current_total": 678,
+  "current_total": 680,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -943,9 +943,20 @@
         "https://querorango.com/receitas/vegetarianas/escondidinho-de-mandioca-com-shimeji-dourado-perfeito/",
         "https://querorango.com/receitas/cafe-da-manha/iogurte-natural-com-frutas-e-mel-silvestre-dourado-perfeito/"
       ]
+    },
+    {
+      "timestamp": "2026-09-20 06:08:18",
+      "count": 2,
+      "errors": 0,
+      "new_total": 680,
+      "queue_remaining": 1620,
+      "urls": [
+        "https://querorango.com/receitas/air-fryer/abobrinha-gratinada-com-crosta-de-parmesao-versao-especial-9/",
+        "https://querorango.com/receitas/almoco/moqueca-mista-de-peixe-e-camarao-versao-especial-9/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-09-20 01:01:55",
+  "last_run": "2026-09-20 06:08:18",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
