@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "paes",
-    "title": "Rosca de Canela com Cobertura Açucarada Versão Especial 9",
-    "slug": "rosca-de-canela-com-cobertura-acucarada-versao-especial-9",
-    "main_ingredient": "massa doce trançada",
-    "secondary_ingredient": "manteiga, açúcar mascavo e canela",
-    "cook_time": "35 min",
-    "prep_time": "25 min",
-    "image_url": "/assets/recipes/pao-integral.jpg"
-  },
-  {
-    "category_slug": "virais",
-    "title": "Batata Doce Brulee com Casquinha de Caramelo Versão Especial 9",
-    "slug": "batata-doce-brulee-com-casquinha-de-caramelo-versao-especial-9",
-    "main_ingredient": "batata doce assada na casca",
-    "secondary_ingredient": "açúcar maçaricado estaladiço",
-    "cook_time": "25 min",
-    "prep_time": "8 min",
-    "image_url": "/assets/recipes/bolo-cenoura.jpg"
-  },
-  {
     "category_slug": "frango",
     "title": "Iscas de Frango Crocantes com Molho Tártaro Versão Especial 9",
     "slug": "iscas-de-frango-crocantes-com-molho-tartaro-versao-especial-9",
