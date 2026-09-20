@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "vegetarianas",
-    "title": "Escondidinho de Mandioca com Shimeji Dourado Perfeito",
-    "slug": "escondidinho-de-mandioca-com-shimeji-dourado-perfeito",
-    "main_ingredient": "purê rústico de mandioca",
-    "secondary_ingredient": "shimeji salteado no azeite e cheiro-verde",
-    "cook_time": "35 min",
-    "prep_time": "20 min",
-    "image_url": "/assets/recipes/quibe.jpg"
-  },
-  {
-    "category_slug": "cafe-da-manha",
-    "title": "Iogurte Natural com Frutas e Mel Silvestre Dourado Perfeito",
-    "slug": "iogurte-natural-com-frutas-e-mel-silvestre-dourado-perfeito",
-    "main_ingredient": "iogurte grego natural",
-    "secondary_ingredient": "manga em cubinhos, banana e granola",
-    "cook_time": "5 min",
-    "prep_time": "5 min",
-    "image_url": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=600&q=80"
-  },
-  {
     "category_slug": "air-fryer",
     "title": "Abobrinha Gratinada com Crosta de Parmesão Versão Especial 9",
     "slug": "abobrinha-gratinada-com-crosta-de-parmesao-versao-especial-9",
