@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "rapidas",
-    "title": "Salada de Feijão Fradinho com Vinagrete Versão Especial 9",
-    "slug": "salada-de-feijao-fradinho-com-vinagrete-versao-especial-9",
-    "main_ingredient": "feijão fradinho cozido",
-    "secondary_ingredient": "tomate, cebola e azeite",
-    "cook_time": "10 min",
-    "prep_time": "10 min",
-    "image_url": "/assets/recipes/dadinho-tapioca.jpg"
-  },
-  {
-    "category_slug": "marmitas",
-    "title": "Salada de Batata com Molho Verde de Iogurte Versão Especial 9",
-    "slug": "salada-de-batata-com-molho-verde-de-iogurte-versao-especial-9",
-    "main_ingredient": "batatas em cubos cozidas",
-    "secondary_ingredient": "iogurte e cheiro-verde",
-    "cook_time": "15 min",
-    "prep_time": "10 min",
-    "image_url": "/assets/recipes/quibe.jpg"
-  },
-  {
     "category_slug": "saudavel",
     "title": "Wrap Low Carb de Alface com Frango Desfiado Versão Especial 9",
     "slug": "wrap-low-carb-de-alface-com-frango-desfiado-versao-especial-9",
