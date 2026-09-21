@@ -1,5 +1,5 @@
 {
-  "current_total": 688,
+  "current_total": 690,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -998,9 +998,20 @@
         "https://querorango.com/receitas/paes/rosca-de-canela-com-cobertura-acucarada-versao-especial-9/",
         "https://querorango.com/receitas/virais/batata-doce-brulee-com-casquinha-de-caramelo-versao-especial-9/"
       ]
+    },
+    {
+      "timestamp": "2026-09-21 00:11:43",
+      "count": 2,
+      "errors": 0,
+      "new_total": 690,
+      "queue_remaining": 1610,
+      "urls": [
+        "https://querorango.com/receitas/frango/iscas-de-frango-crocantes-com-molho-tartaro-versao-especial-9/",
+        "https://querorango.com/receitas/massas/canelone-de-espinafre-com-ricota-gratinado-versao-especial-9/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-09-20 21:30:01",
+  "last_run": "2026-09-21 00:11:43",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
