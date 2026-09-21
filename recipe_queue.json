@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "sem-gluten",
-    "title": "Bolo de Maçã com Farinha de Aveia Sem Glúten Versão Especial 9",
-    "slug": "bolo-de-maca-com-farinha-de-aveia-sem-gluten-versao-especial-9",
-    "main_ingredient": "maçãs frescas picadas com casca",
-    "secondary_ingredient": "aveia sem glúten e canela em pó",
-    "cook_time": "35 min",
-    "prep_time": "15 min",
-    "image_url": "/assets/recipes/mousse-chocolate.jpg"
-  },
-  {
-    "category_slug": "vegetarianas",
-    "title": "Strogonoff de Cogumelos Paris e Palmito Versão Especial 9",
-    "slug": "strogonoff-de-cogumelos-paris-e-palmito-versao-especial-9",
-    "main_ingredient": "cogumelos paris fatiados",
-    "secondary_ingredient": "palmito em rodelas e creme de leite",
-    "cook_time": "20 min",
-    "prep_time": "12 min",
-    "image_url": "/assets/recipes/curry-grao-bico.jpg"
-  },
-  {
     "category_slug": "cafe-da-manha",
     "title": "Pão na Chapa com Crosta Dourada de Queijo Versão Especial 9",
     "slug": "pao-na-chapa-com-crosta-dourada-de-queijo-versao-especial-9",
