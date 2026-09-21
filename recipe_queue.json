@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "carne-moida",
-    "title": "Esfiha Fechada de Carne Moída com Limão Versão Especial 9",
-    "slug": "esfiha-fechada-de-carne-moida-com-limao-versao-especial-9",
-    "main_ingredient": "massa fofinha de padaria",
-    "secondary_ingredient": "recheio de carne moída com tomate e hortelã",
-    "cook_time": "30 min",
-    "prep_time": "25 min",
-    "image_url": "/assets/recipes/quibe.jpg"
-  },
-  {
-    "category_slug": "pressao",
-    "title": "Arroz Integral com Grãos em 10 Minutos Versão Especial 9",
-    "slug": "arroz-integral-com-graos-em-10-minutos-versao-especial-9",
-    "main_ingredient": "arroz integral cateto",
-    "secondary_ingredient": "alho dourado, azeite e louro",
-    "cook_time": "12 min",
-    "prep_time": "5 min",
-    "image_url": "/assets/recipes/cuscuz.jpg"
-  },
-  {
     "category_slug": "peixes",
     "title": "Moqueca Capixaba Autêntica em Panela de Barro Versão Especial 9",
     "slug": "moqueca-capixaba-autentica-em-panela-de-barro-versao-especial-9",
