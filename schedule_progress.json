@@ -1,5 +1,5 @@
 {
-  "current_total": 706,
+  "current_total": 708,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -1097,9 +1097,20 @@
         "https://querorango.com/receitas/economicas/refogado-de-repolho-com-alho-e-tomate-versao-especial-10/",
         "https://querorango.com/receitas/bolos/bolo-integral-de-banana-com-aveia-e-canela-versao-especial-10/"
       ]
+    },
+    {
+      "timestamp": "2026-09-22 22:01:48",
+      "count": 2,
+      "errors": 0,
+      "new_total": 708,
+      "queue_remaining": 1592,
+      "urls": [
+        "https://querorango.com/receitas/sobremesas/torta-de-morango-com-creme-de-confeiteiro-versao-especial-10/",
+        "https://querorango.com/receitas/paes/pao-sovado-tradicional-de-padaria-versao-especial-10/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-09-22 18:49:09",
+  "last_run": "2026-09-22 22:01:48",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }

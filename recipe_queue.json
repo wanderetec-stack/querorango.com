@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "sobremesas",
-    "title": "Torta de Morango com Creme de Confeiteiro Versão Especial 10",
-    "slug": "torta-de-morango-com-creme-de-confeiteiro-versao-especial-10",
-    "main_ingredient": "massa podre amanteigada",
-    "secondary_ingredient": "morangos frescos e brilho",
-    "cook_time": "35 min",
-    "prep_time": "25 min",
-    "image_url": "/assets/recipes/gelatina-mosaico.jpg"
-  },
-  {
-    "category_slug": "paes",
-    "title": "Pão Sovado Tradicional de Padaria Versão Especial 10",
-    "slug": "pao-sovado-tradicional-de-padaria-versao-especial-10",
-    "main_ingredient": "massa cilindrada firme",
-    "secondary_ingredient": "toque adocicado com casca brilhante",
-    "cook_time": "40 min",
-    "prep_time": "30 min",
-    "image_url": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=600&q=80"
-  },
-  {
     "category_slug": "virais",
     "title": "Fondue de Coxinha com Queijo Cremoso na Cumbuca Versão Especial 10",
     "slug": "fondue-de-coxinha-com-queijo-cremoso-na-cumbuca-versao-especial-10",
