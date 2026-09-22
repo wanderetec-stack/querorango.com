@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "cafe-da-manha",
-    "title": "Pão na Chapa com Crosta Dourada de Queijo Versão Especial 9",
-    "slug": "pao-na-chapa-com-crosta-dourada-de-queijo-versao-especial-9",
-    "main_ingredient": "pão francês fresquinho",
-    "secondary_ingredient": "manteiga e requeijão tostado na frigideira",
-    "cook_time": "7 min",
-    "prep_time": "3 min",
-    "image_url": "/assets/recipes/pao-alho.jpg"
-  },
-  {
-    "category_slug": "air-fryer",
-    "title": "Polenta Crocante Sequinha sem Óleo Versão Especial 10",
-    "slug": "polenta-crocante-sequinha-sem-oleo-versao-especial-10",
-    "main_ingredient": "tiras de polenta cozida",
-    "secondary_ingredient": "azeite e sal",
-    "cook_time": "20 min",
-    "prep_time": "10 min",
-    "image_url": "https://images.unsplash.com/photo-1527477396000-e27163b481c2?w=600&q=80"
-  },
-  {
     "category_slug": "almoco",
     "title": "Risoto de Filé com Cogumelos Paris Versão Especial 10",
     "slug": "risoto-de-file-com-cogumelos-paris-versao-especial-10",

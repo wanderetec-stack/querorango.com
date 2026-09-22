@@ -1,5 +1,5 @@
 {
-  "current_total": 698,
+  "current_total": 700,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -1053,9 +1053,20 @@
         "https://querorango.com/receitas/sem-gluten/bolo-de-maca-com-farinha-de-aveia-sem-gluten-versao-especial-9/",
         "https://querorango.com/receitas/vegetarianas/strogonoff-de-cogumelos-paris-e-palmito-versao-especial-9/"
       ]
+    },
+    {
+      "timestamp": "2026-09-22 04:46:42",
+      "count": 2,
+      "errors": 0,
+      "new_total": 700,
+      "queue_remaining": 1600,
+      "urls": [
+        "https://querorango.com/receitas/cafe-da-manha/pao-na-chapa-com-crosta-dourada-de-queijo-versao-especial-9/",
+        "https://querorango.com/receitas/air-fryer/polenta-crocante-sequinha-sem-oleo-versao-especial-10/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-09-21 23:14:20",
+  "last_run": "2026-09-22 04:46:42",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
