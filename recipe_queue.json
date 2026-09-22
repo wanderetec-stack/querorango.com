@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "marmitas",
-    "title": "Tiras de Carne Suína com Abacaxi Grelhado Versão Especial 10",
-    "slug": "tiras-de-carne-suina-com-abacaxi-grelhado-versao-especial-10",
-    "main_ingredient": "lombo suíno em tiras",
-    "secondary_ingredient": "rodelas de abacaxi grelhadas",
-    "cook_time": "25 min",
-    "prep_time": "15 min",
-    "image_url": "/assets/recipes/sopa-legumes.jpg"
-  },
-  {
-    "category_slug": "saudavel",
-    "title": "Crepioca com Recheio de Queijo Fresco e Orégano Versão Especial 10",
-    "slug": "crepioca-com-recheio-de-queijo-fresco-e-oregano-versao-especial-10",
-    "main_ingredient": "goma de tapioca e ovo",
-    "secondary_ingredient": "queijo minas frescal ralado",
-    "cook_time": "8 min",
-    "prep_time": "4 min",
-    "image_url": "https://images.unsplash.com/photo-1584776296944-ab6fb57b0bdd?w=600&q=80"
-  },
-  {
     "category_slug": "economicas",
     "title": "Refogado de Repolho com Alho e Tomate Versão Especial 10",
     "slug": "refogado-de-repolho-com-alho-e-tomate-versao-especial-10",

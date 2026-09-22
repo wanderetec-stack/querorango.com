@@ -1,5 +1,5 @@
 {
-  "current_total": 702,
+  "current_total": 704,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -1075,9 +1075,20 @@
         "https://querorango.com/receitas/almoco/risoto-de-file-com-cogumelos-paris-versao-especial-10/",
         "https://querorango.com/receitas/rapidas/ovos-mexidos-com-tomate-seco-e-rucula-versao-especial-10/"
       ]
+    },
+    {
+      "timestamp": "2026-09-22 14:45:50",
+      "count": 2,
+      "errors": 0,
+      "new_total": 704,
+      "queue_remaining": 1596,
+      "urls": [
+        "https://querorango.com/receitas/marmitas/tiras-de-carne-suina-com-abacaxi-grelhado-versao-especial-10/",
+        "https://querorango.com/receitas/saudavel/crepioca-com-recheio-de-queijo-fresco-e-oregano-versao-especial-10/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-09-22 09:53:00",
+  "last_run": "2026-09-22 14:45:50",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
