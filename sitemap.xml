@@ -4155,4 +4155,16 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://querorango.com/receitas/economicas/refogado-de-repolho-com-alho-e-tomate-versao-especial-10/</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://querorango.com/receitas/bolos/bolo-integral-de-banana-com-aveia-e-canela-versao-especial-10/</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>

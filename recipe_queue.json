@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "economicas",
-    "title": "Refogado de Repolho com Alho e Tomate Versão Especial 10",
-    "slug": "refogado-de-repolho-com-alho-e-tomate-versao-especial-10",
-    "main_ingredient": "repolho fatiado bem fino",
-    "secondary_ingredient": "alho dourado no azeite e tomate",
-    "cook_time": "12 min",
-    "prep_time": "6 min",
-    "image_url": "/assets/recipes/hasselback.jpg"
-  },
-  {
-    "category_slug": "bolos",
-    "title": "Bolo Integral de Banana com Aveia e Canela Versão Especial 10",
-    "slug": "bolo-integral-de-banana-com-aveia-e-canela-versao-especial-10",
-    "main_ingredient": "bananas maduras amassadas",
-    "secondary_ingredient": "aveia em flocos e canela",
-    "cook_time": "35 min",
-    "prep_time": "10 min",
-    "image_url": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=600&q=80"
-  },
-  {
     "category_slug": "sobremesas",
     "title": "Torta de Morango com Creme de Confeiteiro Versão Especial 10",
     "slug": "torta-de-morango-com-creme-de-confeiteiro-versao-especial-10",

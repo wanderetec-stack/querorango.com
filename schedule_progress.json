@@ -1,5 +1,5 @@
 {
-  "current_total": 704,
+  "current_total": 706,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -1086,9 +1086,20 @@
         "https://querorango.com/receitas/marmitas/tiras-de-carne-suina-com-abacaxi-grelhado-versao-especial-10/",
         "https://querorango.com/receitas/saudavel/crepioca-com-recheio-de-queijo-fresco-e-oregano-versao-especial-10/"
       ]
+    },
+    {
+      "timestamp": "2026-09-22 18:49:09",
+      "count": 2,
+      "errors": 0,
+      "new_total": 706,
+      "queue_remaining": 1594,
+      "urls": [
+        "https://querorango.com/receitas/economicas/refogado-de-repolho-com-alho-e-tomate-versao-especial-10/",
+        "https://querorango.com/receitas/bolos/bolo-integral-de-banana-com-aveia-e-canela-versao-especial-10/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-09-22 14:45:50",
+  "last_run": "2026-09-22 18:49:09",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
