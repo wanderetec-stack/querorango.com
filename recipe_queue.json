@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "vegetarianas",
-    "title": "Torta Rústica de Tomate Seco com Rúcula Versão Especial 10",
-    "slug": "torta-rustica-de-tomate-seco-com-rucula-versao-especial-10",
-    "main_ingredient": "massa amanteigada crocante",
-    "secondary_ingredient": "recheio cremoso com tomate seco",
-    "cook_time": "35 min",
-    "prep_time": "20 min",
-    "image_url": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=600&q=80"
-  },
-  {
-    "category_slug": "cafe-da-manha",
-    "title": "Bowl de Açaí Cremoso com Banana e Granola Versão Especial 10",
-    "slug": "bowl-de-acai-cremoso-com-banana-e-granola-versao-especial-10",
-    "main_ingredient": "polpa de açaí puro batida",
-    "secondary_ingredient": "fatias de banana e granola artesanal",
-    "cook_time": "5 min",
-    "prep_time": "5 min",
-    "image_url": "/assets/recipes/chia-pudding.jpg"
-  },
-  {
     "category_slug": "air-fryer",
     "title": "Coxinhas da Asa Douradas com Alho e Ervas Versão Especial 11",
     "slug": "coxinhas-da-asa-douradas-com-alho-e-ervas-versao-especial-11",
