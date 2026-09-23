@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "regional",
-    "title": "Pirão de Peixe com Farinha de Mandioca Fina Versão Especial 10",
-    "slug": "pirao-de-peixe-com-farinha-de-mandioca-fina-versao-especial-10",
-    "main_ingredient": "caldo concentrado de peixe",
-    "secondary_ingredient": "farinha de mandioca da Bahia e coentro",
-    "cook_time": "15 min",
-    "prep_time": "10 min",
-    "image_url": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=600&q=80"
-  },
-  {
-    "category_slug": "lanches",
-    "title": "Dadinho de Polenta com Queijo Parmesão Versão Especial 10",
-    "slug": "dadinho-de-polenta-com-queijo-parmesao-versao-especial-10",
-    "main_ingredient": "polenta firme cozida",
-    "secondary_ingredient": "queijo parmesão curado ralado fino",
-    "cook_time": "18 min",
-    "prep_time": "15 min",
-    "image_url": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=600&q=80"
-  },
-  {
     "category_slug": "sopas",
     "title": "Sopa de Lentilha Síria com Limão e Cominho Versão Especial 10",
     "slug": "sopa-de-lentilha-siria-com-limao-e-cominho-versao-especial-10",
