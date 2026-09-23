@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "virais",
-    "title": "Fondue de Coxinha com Queijo Cremoso na Cumbuca Versão Especial 10",
-    "slug": "fondue-de-coxinha-com-queijo-cremoso-na-cumbuca-versao-especial-10",
-    "main_ingredient": "mini coxinhas douradas",
-    "secondary_ingredient": "panela de fondue de catupiry quente",
-    "cook_time": "20 min",
-    "prep_time": "15 min",
-    "image_url": "/assets/recipes/torta-holandesa.jpg"
-  },
-  {
-    "category_slug": "frango",
-    "title": "Frango com Polenta Mole e Caldo Encorpado Versão Especial 10",
-    "slug": "frango-com-polenta-mole-e-caldo-encorpado-versao-especial-10",
-    "main_ingredient": "coxas e sobrecoxas",
-    "secondary_ingredient": "polenta cremosa na manteiga",
-    "cook_time": "45 min",
-    "prep_time": "20 min",
-    "image_url": "/assets/recipes/frango-passarinho.jpg"
-  },
-  {
     "category_slug": "massas",
     "title": "Macarrão de Forno Cremoso com Presunto e Queijo Versão Especial 10",
     "slug": "macarrao-de-forno-cremoso-com-presunto-e-queijo-versao-especial-10",
