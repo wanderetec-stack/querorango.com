@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "massas",
-    "title": "Macarrão de Forno Cremoso com Presunto e Queijo Versão Especial 10",
-    "slug": "macarrao-de-forno-cremoso-com-presunto-e-queijo-versao-especial-10",
-    "main_ingredient": "macarrão caracol",
-    "secondary_ingredient": "molho branco, presunto e ervilhas",
-    "cook_time": "30 min",
-    "prep_time": "15 min",
-    "image_url": "/assets/recipes/conchiglione.jpg"
-  },
-  {
-    "category_slug": "carne-moida",
-    "title": "Kafta no Espeto com Hortelã e Síria Versão Especial 10",
-    "slug": "kafta-no-espeto-com-hortela-e-siria-versao-especial-10",
-    "main_ingredient": "carne moída bovina e ovina",
-    "secondary_ingredient": "hortelã fresca e pimenta síria",
-    "cook_time": "15 min",
-    "prep_time": "15 min",
-    "image_url": "https://images.unsplash.com/photo-1529042410759-befb1204b468?w=600&q=80"
-  },
-  {
     "category_slug": "pressao",
     "title": "Carne Seca Dessalgada com Abóbora Versão Especial 10",
     "slug": "carne-seca-dessalgada-com-abobora-versao-especial-10",
