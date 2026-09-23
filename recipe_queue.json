@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "sopas",
-    "title": "Sopa de Lentilha Síria com Limão e Cominho Versão Especial 10",
-    "slug": "sopa-de-lentilha-siria-com-limao-e-cominho-versao-especial-10",
-    "main_ingredient": "lentilhas amarelas cozidas",
-    "secondary_ingredient": "cebola caramelizada e suco de limão",
-    "cook_time": "25 min",
-    "prep_time": "10 min",
-    "image_url": "/assets/recipes/carne-panela.jpg"
-  },
-  {
-    "category_slug": "sem-gluten",
-    "title": "Crepe Francês Sem Glúten com Geleia Natural Versão Especial 10",
-    "slug": "crepe-frances-sem-gluten-com-geleia-natural-versao-especial-10",
-    "main_ingredient": "amido de milho e ovos",
-    "secondary_ingredient": "leite vegetal e geleia caseira sem açúcar",
-    "cook_time": "10 min",
-    "prep_time": "8 min",
-    "image_url": "/assets/recipes/french-toast.jpg"
-  },
-  {
     "category_slug": "vegetarianas",
     "title": "Torta Rústica de Tomate Seco com Rúcula Versão Especial 10",
     "slug": "torta-rustica-de-tomate-seco-com-rucula-versao-especial-10",
