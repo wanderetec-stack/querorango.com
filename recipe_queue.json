@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "rapidas",
-    "title": "Macarrão Alho e Óleo com Tomates Confitados Versão Especial 11",
-    "slug": "macarrao-alho-e-oleo-com-tomates-confitados-versao-especial-11",
-    "main_ingredient": "espaguete al dente",
-    "secondary_ingredient": "alho dourado e tomatinhos",
-    "cook_time": "12 min",
-    "prep_time": "5 min",
-    "image_url": "/assets/recipes/mac-and-cheese.jpg"
-  },
-  {
-    "category_slug": "marmitas",
-    "title": "Iscas de Carne Aceboladas com Pimentão Versão Especial 11",
-    "slug": "iscas-de-carne-aceboladas-com-pimentao-versao-especial-11",
-    "main_ingredient": "alcatra em tiras",
-    "secondary_ingredient": "cebolas caramelizadas",
-    "cook_time": "25 min",
-    "prep_time": "15 min",
-    "image_url": "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?w=600&q=80"
-  },
-  {
     "category_slug": "saudavel",
     "title": "Panqueca Proteica de Claras com Cacau e Banana Versão Especial 11",
     "slug": "panqueca-proteica-de-claras-com-cacau-e-banana-versao-especial-11",
