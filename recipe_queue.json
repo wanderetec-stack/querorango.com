@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "paes",
-    "title": "Pão Australiano Escuro com Mel e Cacau Versão Especial 11",
-    "slug": "pao-australiano-escuro-com-mel-e-cacau-versao-especial-11",
-    "main_ingredient": "farinha de trigo e centeio",
-    "secondary_ingredient": "mel silvestre e cacau em pó",
-    "cook_time": "40 min",
-    "prep_time": "25 min",
-    "image_url": "/assets/recipes/pao-frances.jpg"
-  },
-  {
-    "category_slug": "virais",
-    "title": "Batata Frita Tornado em Espiral com Queijo Versão Especial 11",
-    "slug": "batata-frita-tornado-em-espiral-com-queijo-versao-especial-11",
-    "main_ingredient": "batata inteira no espeto",
-    "secondary_ingredient": "páprica doce e queijo cheddar",
-    "cook_time": "20 min",
-    "prep_time": "15 min",
-    "image_url": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=600&q=80"
-  },
-  {
     "category_slug": "frango",
     "title": "Frango Tikka Masala com Molho Cremoso Versão Especial 11",
     "slug": "frango-tikka-masala-com-molho-cremoso-versao-especial-11",
