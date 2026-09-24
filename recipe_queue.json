@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "bolos",
-    "title": "Bolo Toalha Felpuda Molhadinho de Coco Versão Especial 11",
-    "slug": "bolo-toalha-felpuda-molhadinho-de-coco-versao-especial-11",
-    "main_ingredient": "massa fofa aerada",
-    "secondary_ingredient": "leite de coco e leite condensado",
-    "cook_time": "40 min",
-    "prep_time": "15 min",
-    "image_url": "/assets/recipes/bolo-fuba.jpg"
-  },
-  {
-    "category_slug": "sobremesas",
-    "title": "Manjar Branco de Coco com Calda de Ameixa Versão Especial 11",
-    "slug": "manjar-branco-de-coco-com-calda-de-ameixa-versao-especial-11",
-    "main_ingredient": "leite de coco e amido",
-    "secondary_ingredient": "ameixas pretas em calda densa",
-    "cook_time": "30 min",
-    "prep_time": "15 min",
-    "image_url": "/assets/recipes/pudim.jpg"
-  },
-  {
     "category_slug": "paes",
     "title": "Pão Australiano Escuro com Mel e Cacau Versão Especial 11",
     "slug": "pao-australiano-escuro-com-mel-e-cacau-versao-especial-11",

@@ -1,5 +1,5 @@
 {
-  "current_total": 726,
+  "current_total": 728,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -1207,9 +1207,20 @@
         "https://querorango.com/receitas/saudavel/panqueca-proteica-de-claras-com-cacau-e-banana-versao-especial-11/",
         "https://querorango.com/receitas/economicas/farofa-de-pao-amanhecido-com-alho-e-salsa-versao-especial-11/"
       ]
+    },
+    {
+      "timestamp": "2026-09-24 19:04:55",
+      "count": 2,
+      "errors": 0,
+      "new_total": 728,
+      "queue_remaining": 1572,
+      "urls": [
+        "https://querorango.com/receitas/bolos/bolo-toalha-felpuda-molhadinho-de-coco-versao-especial-11/",
+        "https://querorango.com/receitas/sobremesas/manjar-branco-de-coco-com-calda-de-ameixa-versao-especial-11/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-09-24 14:59:11",
+  "last_run": "2026-09-24 19:04:55",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
