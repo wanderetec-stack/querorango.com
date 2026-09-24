@@ -4275,4 +4275,16 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://querorango.com/receitas/saudavel/panqueca-proteica-de-claras-com-cacau-e-banana-versao-especial-11/</loc>
+    <lastmod>2026-09-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://querorango.com/receitas/economicas/farofa-de-pao-amanhecido-com-alho-e-salsa-versao-especial-11/</loc>
+    <lastmod>2026-09-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
