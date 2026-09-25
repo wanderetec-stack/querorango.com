@@ -1,5 +1,5 @@
 {
-  "current_total": 736,
+  "current_total": 738,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -1262,9 +1262,20 @@
         "https://querorango.com/receitas/peixes/postas-de-robalo-grelhadas-com-ervas-versao-especial-11/",
         "https://querorango.com/receitas/regional/vatapa-baiano-com-camarao-seco-e-castanhas-versao-especial-11/"
       ]
+    },
+    {
+      "timestamp": "2026-09-25 18:31:34",
+      "count": 2,
+      "errors": 0,
+      "new_total": 738,
+      "queue_remaining": 1562,
+      "urls": [
+        "https://querorango.com/receitas/lanches/x-salada-especial-com-hamburguer-artesanal-versao-especial-11/",
+        "https://querorango.com/receitas/sopas/sopa-eslava-de-carne-com-batatas-e-paprica-versao-especial-11/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-09-25 13:40:42",
+  "last_run": "2026-09-25 18:31:34",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }

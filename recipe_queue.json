@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "lanches",
-    "title": "X-Salada Especial com Hambúrguer Artesanal Versão Especial 11",
-    "slug": "x-salada-especial-com-hamburguer-artesanal-versao-especial-11",
-    "main_ingredient": "blend suculento de carne",
-    "secondary_ingredient": "queijo prato derretido, maionese e alface",
-    "cook_time": "12 min",
-    "prep_time": "8 min",
-    "image_url": "/assets/recipes/coxinha.jpg"
-  },
-  {
-    "category_slug": "sopas",
-    "title": "Sopa Eslava de Carne com Batatas e Páprica Versão Especial 11",
-    "slug": "sopa-eslava-de-carne-com-batatas-e-paprica-versao-especial-11",
-    "main_ingredient": "músculo bovino em cubinhos",
-    "secondary_ingredient": "batatas, cenouras e creme de leite",
-    "cook_time": "40 min",
-    "prep_time": "15 min",
-    "image_url": "/assets/recipes/caldo-verde.jpg"
-  },
-  {
     "category_slug": "sem-gluten",
     "title": "Pão de Forma Sem Glúten com Farinha de Arroz Versão Especial 11",
     "slug": "pao-de-forma-sem-gluten-com-farinha-de-arroz-versao-especial-11",
