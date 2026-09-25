@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "sem-gluten",
-    "title": "Pão de Forma Sem Glúten com Farinha de Arroz Versão Especial 11",
-    "slug": "pao-de-forma-sem-gluten-com-farinha-de-arroz-versao-especial-11",
-    "main_ingredient": "farinha de arroz e polvilho doce",
-    "secondary_ingredient": "ovos caipiras, azeite e fermento",
-    "cook_time": "40 min",
-    "prep_time": "20 min",
-    "image_url": "/assets/recipes/bolo-cenoura.jpg"
-  },
-  {
-    "category_slug": "vegetarianas",
-    "title": "Curry de Grão de Bico com Leite de Coco Versão Especial 11",
-    "slug": "curry-de-grao-de-bico-com-leite-de-coco-versao-especial-11",
-    "main_ingredient": "grão de bico cozido no ponto",
-    "secondary_ingredient": "leite de coco artesanal e curry indiano",
-    "cook_time": "25 min",
-    "prep_time": "15 min",
-    "image_url": "/assets/recipes/hamburguer.jpg"
-  },
-  {
     "category_slug": "cafe-da-manha",
     "title": "Ovos Benedict com Molho Holandês Caseiro Versão Especial 11",
     "slug": "ovos-benedict-com-molho-holandes-caseiro-versao-especial-11",
