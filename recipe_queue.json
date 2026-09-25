@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "peixes",
-    "title": "Postas de Robalo Grelhadas com Ervas Versão Especial 11",
-    "slug": "postas-de-robalo-grelhadas-com-ervas-versao-especial-11",
-    "main_ingredient": "postas frescas de robalo",
-    "secondary_ingredient": "azeite extravirgem, limão e alecrim",
-    "cook_time": "20 min",
-    "prep_time": "10 min",
-    "image_url": "/assets/recipes/moqueca.jpg"
-  },
-  {
-    "category_slug": "regional",
-    "title": "Vatapá Baiano com Camarão Seco e Castanhas Versão Especial 11",
-    "slug": "vatapa-baiano-com-camarao-seco-e-castanhas-versao-especial-11",
-    "main_ingredient": "pão umedecido no leite de coco",
-    "secondary_ingredient": "amendoim, castanhas e azeite de dendê",
-    "cook_time": "35 min",
-    "prep_time": "20 min",
-    "image_url": "/assets/recipes/baiao-de-dois.jpg"
-  },
-  {
     "category_slug": "lanches",
     "title": "X-Salada Especial com Hambúrguer Artesanal Versão Especial 11",
     "slug": "x-salada-especial-com-hamburguer-artesanal-versao-especial-11",
