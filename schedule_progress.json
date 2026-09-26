@@ -1,5 +1,5 @@
 {
-  "current_total": 742,
+  "current_total": 744,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -1295,9 +1295,20 @@
         "https://querorango.com/receitas/cafe-da-manha/ovos-benedict-com-molho-holandes-caseiro-versao-especial-11/",
         "https://querorango.com/receitas/air-fryer/mandioca-frita-crocante-por-fora-e-macia-versao-especial-12/"
       ]
+    },
+    {
+      "timestamp": "2026-09-26 07:35:21",
+      "count": 2,
+      "errors": 0,
+      "new_total": 744,
+      "queue_remaining": 1556,
+      "urls": [
+        "https://querorango.com/receitas/almoco/picadinho-carioca-com-banana-da-terra-e-ovo-versao-especial-12/",
+        "https://querorango.com/receitas/rapidas/frittata-rapida-de-espinafre-com-ricota-versao-especial-12/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-09-26 01:29:27",
+  "last_run": "2026-09-26 07:35:21",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
