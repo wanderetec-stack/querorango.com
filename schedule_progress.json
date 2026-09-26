@@ -1,5 +1,5 @@
 {
-  "current_total": 740,
+  "current_total": 742,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -1284,9 +1284,20 @@
         "https://querorango.com/receitas/sem-gluten/pao-de-forma-sem-gluten-com-farinha-de-arroz-versao-especial-11/",
         "https://querorango.com/receitas/vegetarianas/curry-de-grao-de-bico-com-leite-de-coco-versao-especial-11/"
       ]
+    },
+    {
+      "timestamp": "2026-09-26 01:29:27",
+      "count": 2,
+      "errors": 0,
+      "new_total": 742,
+      "queue_remaining": 1558,
+      "urls": [
+        "https://querorango.com/receitas/cafe-da-manha/ovos-benedict-com-molho-holandes-caseiro-versao-especial-11/",
+        "https://querorango.com/receitas/air-fryer/mandioca-frita-crocante-por-fora-e-macia-versao-especial-12/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-09-25 22:15:27",
+  "last_run": "2026-09-26 01:29:27",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
