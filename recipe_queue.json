@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "sobremesas",
-    "title": "Chico Balanceado com Banana Caramelizada Versão Especial 12",
-    "slug": "chico-balanceado-com-banana-caramelizada-versao-especial-12",
-    "main_ingredient": "bananas em caramelo",
-    "secondary_ingredient": "creme aveludado e merengue",
-    "cook_time": "35 min",
-    "prep_time": "20 min",
-    "image_url": "/assets/recipes/pave.jpg"
-  },
-  {
-    "category_slug": "paes",
-    "title": "Pão de Cebola Fofinho de Liquidificador Versão Especial 12",
-    "slug": "pao-de-cebola-fofinho-de-liquidificador-versao-especial-12",
-    "main_ingredient": "cebolas batidas na massa",
-    "secondary_ingredient": "leite morno, manteiga e ovos",
-    "cook_time": "35 min",
-    "prep_time": "20 min",
-    "image_url": "/assets/recipes/pao-de-queijo.jpg"
-  },
-  {
     "category_slug": "virais",
     "title": "Pipoca Gourmet com Ninho e Chocolate Branco Versão Especial 12",
     "slug": "pipoca-gourmet-com-ninho-e-chocolate-branco-versao-especial-12",
