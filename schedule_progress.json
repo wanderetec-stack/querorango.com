@@ -1,5 +1,5 @@
 {
-  "current_total": 750,
+  "current_total": 752,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -1339,9 +1339,20 @@
         "https://querorango.com/receitas/sobremesas/chico-balanceado-com-banana-caramelizada-versao-especial-12/",
         "https://querorango.com/receitas/paes/pao-de-cebola-fofinho-de-liquidificador-versao-especial-12/"
       ]
+    },
+    {
+      "timestamp": "2026-09-26 22:43:21",
+      "count": 2,
+      "errors": 0,
+      "new_total": 752,
+      "queue_remaining": 1548,
+      "urls": [
+        "https://querorango.com/receitas/virais/pipoca-gourmet-com-ninho-e-chocolate-branco-versao-especial-12/",
+        "https://querorango.com/receitas/frango/frango-com-quiabo-caipira-de-panela-versao-especial-12/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-09-26 19:48:12",
+  "last_run": "2026-09-26 22:43:21",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
