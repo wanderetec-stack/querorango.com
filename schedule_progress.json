@@ -1,5 +1,5 @@
 {
-  "current_total": 760,
+  "current_total": 762,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -1394,9 +1394,20 @@
         "https://querorango.com/receitas/sopas/caldo-de-abobora-com-gengibre-e-frango-versao-especial-12/",
         "https://querorango.com/receitas/sem-gluten/bolo-de-fuba-sem-gluten-cremoso-com-erva-doce-versao-especial-12/"
       ]
+    },
+    {
+      "timestamp": "2026-09-27 22:03:34",
+      "count": 2,
+      "errors": 0,
+      "new_total": 762,
+      "queue_remaining": 1538,
+      "urls": [
+        "https://querorango.com/receitas/vegetarianas/hamburguer-de-lentilha-com-ervas-frescas-versao-especial-12/",
+        "https://querorango.com/receitas/cafe-da-manha/waffles-dourados-com-frutas-vermelhas-e-mel-versao-especial-12/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-09-27 18:18:38",
+  "last_run": "2026-09-27 22:03:34",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }

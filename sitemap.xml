@@ -4491,4 +4491,16 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://querorango.com/receitas/vegetarianas/hamburguer-de-lentilha-com-ervas-frescas-versao-especial-12/</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://querorango.com/receitas/cafe-da-manha/waffles-dourados-com-frutas-vermelhas-e-mel-versao-especial-12/</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
