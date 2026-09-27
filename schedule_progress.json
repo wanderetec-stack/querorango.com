@@ -1,5 +1,5 @@
 {
-  "current_total": 756,
+  "current_total": 758,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -1372,9 +1372,20 @@
         "https://querorango.com/receitas/pressao/acem-de-panela-com-batatas-e-cenouras-versao-especial-12/",
         "https://querorango.com/receitas/peixes/lombo-de-bacalhau-confitado-com-alho-versao-especial-12/"
       ]
+    },
+    {
+      "timestamp": "2026-09-27 13:53:28",
+      "count": 2,
+      "errors": 0,
+      "new_total": 758,
+      "queue_remaining": 1542,
+      "urls": [
+        "https://querorango.com/receitas/regional/caruru-tradicional-com-quiabo-e-dende-versao-especial-12/",
+        "https://querorango.com/receitas/lanches/coxinha-de-carne-seca-com-requeijao-versao-especial-12/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-09-27 08:03:00",
+  "last_run": "2026-09-27 13:53:28",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
