@@ -1,5 +1,5 @@
 {
-  "current_total": 766,
+  "current_total": 768,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -1427,9 +1427,20 @@
         "https://querorango.com/receitas/rapidas/sanduiche-natural-de-frango-com-cenoura-versao-especial-13/",
         "https://querorango.com/receitas/marmitas/arroz-de-couve-com-lentilha-e-alho-dourado-versao-especial-13/"
       ]
+    },
+    {
+      "timestamp": "2026-09-28 15:21:14",
+      "count": 2,
+      "errors": 0,
+      "new_total": 768,
+      "queue_remaining": 1532,
+      "urls": [
+        "https://querorango.com/receitas/saudavel/hamburguer-de-salmao-com-gergelim-preto-versao-especial-13/",
+        "https://querorango.com/receitas/economicas/bolinho-de-batata-frito-com-ervas-versao-especial-13/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-09-28 06:45:04",
+  "last_run": "2026-09-28 15:21:14",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
