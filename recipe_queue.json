@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "almoco",
-    "title": "Escondidinho de Mandioca com Carne de Sol Versão Especial 14",
-    "slug": "escondidinho-de-mandioca-com-carne-de-sol-versao-especial-14",
-    "main_ingredient": "carne de sol dessalgada",
-    "secondary_ingredient": "purê de mandioca e queijo",
-    "cook_time": "40 min",
-    "prep_time": "25 min",
-    "image_url": "/assets/recipes/strogonoff.jpg"
-  },
-  {
-    "category_slug": "rapidas",
-    "title": "Quesadilla de Queijo com Milho e Orégano Versão Especial 14",
-    "slug": "quesadilla-de-queijo-com-milho-e-oregano-versao-especial-14",
-    "main_ingredient": "tortilhas de trigo",
-    "secondary_ingredient": "milho verde e queijo derretido",
-    "cook_time": "8 min",
-    "prep_time": "5 min",
-    "image_url": "/assets/recipes/misto-quente.jpg"
-  },
-  {
     "category_slug": "marmitas",
     "title": "Purê de Abóbora Cabotiá com Gengibre Versão Especial 14",
     "slug": "pure-de-abobora-cabotia-com-gengibre-versao-especial-14",
