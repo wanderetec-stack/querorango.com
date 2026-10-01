@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "virais",
-    "title": "Pão de Alho Vulcão com Quatro Queijos Versão Especial 14",
-    "slug": "pao-de-alho-vulcao-com-quatro-queijos-versao-especial-14",
-    "main_ingredient": "pão italiano bolinha",
-    "secondary_ingredient": "recheio farto de queijo e pasta de alho",
-    "cook_time": "20 min",
-    "prep_time": "10 min",
-    "image_url": "/assets/recipes/pave.jpg"
-  },
-  {
-    "category_slug": "frango",
-    "title": "Frango ao Curry com Leite de Coco e Maçã Versão Especial 14",
-    "slug": "frango-ao-curry-com-leite-de-coco-e-maca-versao-especial-14",
-    "main_ingredient": "cubos de frango suculentos",
-    "secondary_ingredient": "curry amarelo e pedacinhos de maçã",
-    "cook_time": "25 min",
-    "prep_time": "15 min",
-    "image_url": "https://images.unsplash.com/photo-1598515214211-89d3c73ae83b?w=600&q=80"
-  },
-  {
     "category_slug": "massas",
     "title": "Espaguete aos Frutos do Mar com Vinho Branco Versão Especial 14",
     "slug": "espaguete-aos-frutos-do-mar-com-vinho-branco-versao-especial-14",
