@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "economicas",
-    "title": "Macarrão com Molho de Salsicha e Pimentão Versão Especial 14",
-    "slug": "macarrao-com-molho-de-salsicha-e-pimentao-versao-especial-14",
-    "main_ingredient": "macarrão parafuso",
-    "secondary_ingredient": "salsichas em rodelas e tomate",
-    "cook_time": "18 min",
-    "prep_time": "8 min",
-    "image_url": "https://images.unsplash.com/photo-1590301157890-4810ed352733?w=600&q=80"
-  },
-  {
-    "category_slug": "bolos",
-    "title": "Bolo de Iogurte com Raspas de Limão Siciliano Versão Especial 14",
-    "slug": "bolo-de-iogurte-com-raspas-de-limao-siciliano-versao-especial-14",
-    "main_ingredient": "iogurte natural cremoso",
-    "secondary_ingredient": "raspas frescas de limão siciliano",
-    "cook_time": "40 min",
-    "prep_time": "12 min",
-    "image_url": "https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?w=600&q=80"
-  },
-  {
     "category_slug": "sobremesas",
     "title": "Torta Gelada de Bolacha com Brigadeiro Branco Versão Especial 14",
     "slug": "torta-gelada-de-bolacha-com-brigadeiro-branco-versao-especial-14",
