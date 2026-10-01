@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "massas",
-    "title": "Espaguete aos Frutos do Mar com Vinho Branco Versão Especial 14",
-    "slug": "espaguete-aos-frutos-do-mar-com-vinho-branco-versao-especial-14",
-    "main_ingredient": "espaguete artesanal",
-    "secondary_ingredient": "lulas, camarões e mexilhões frescos",
-    "cook_time": "20 min",
-    "prep_time": "15 min",
-    "image_url": "/assets/recipes/nhoque.jpg"
-  },
-  {
-    "category_slug": "carne-moida",
-    "title": "Bolo de Carne Moída com Cobertura de Barbecue Versão Especial 14",
-    "slug": "bolo-de-carne-moida-com-cobertura-de-barbecue-versao-especial-14",
-    "main_ingredient": "carne moída compactada",
-    "secondary_ingredient": "glaze caseiro agridoce de barbecue",
-    "cook_time": "45 min",
-    "prep_time": "15 min",
-    "image_url": "/assets/recipes/escondidinho.jpg"
-  },
-  {
     "category_slug": "pressao",
     "title": "Dobradinha com Feijão Branco e Paio Versão Especial 14",
     "slug": "dobradinha-com-feijao-branco-e-paio-versao-especial-14",

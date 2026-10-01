@@ -1,5 +1,5 @@
 {
-  "current_total": 794,
+  "current_total": 796,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -1581,9 +1581,20 @@
         "https://querorango.com/receitas/virais/pao-de-alho-vulcao-com-quatro-queijos-versao-especial-14/",
         "https://querorango.com/receitas/frango/frango-ao-curry-com-leite-de-coco-e-maca-versao-especial-14/"
       ]
+    },
+    {
+      "timestamp": "2026-10-01 23:07:51",
+      "count": 2,
+      "errors": 0,
+      "new_total": 796,
+      "queue_remaining": 1504,
+      "urls": [
+        "https://querorango.com/receitas/massas/espaguete-aos-frutos-do-mar-com-vinho-branco-versao-especial-14/",
+        "https://querorango.com/receitas/carne-moida/bolo-de-carne-moida-com-cobertura-de-barbecue-versao-especial-14/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-10-01 18:50:05",
+  "last_run": "2026-10-01 23:07:51",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
