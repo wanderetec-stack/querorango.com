@@ -4731,4 +4731,16 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://querorango.com/receitas/sopas/creme-de-couve-flor-com-gorgonzola-suave-versao-especial-14/</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://querorango.com/receitas/sem-gluten/panqueca-de-farinha-de-grao-de-bico-salgada-versao-especial-14/</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
