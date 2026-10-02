@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "vegetarianas",
-    "title": "Lasanha de Abobrinha com Molho Sugo e Ricota Versão Especial 14",
-    "slug": "lasanha-de-abobrinha-com-molho-sugo-e-ricota-versao-especial-14",
-    "main_ingredient": "lâminas finas de abobrinha",
-    "secondary_ingredient": "molho de tomate caseiro e ricota",
-    "cook_time": "35 min",
-    "prep_time": "20 min",
-    "image_url": "/assets/recipes/moqueca.jpg"
-  },
-  {
-    "category_slug": "cafe-da-manha",
-    "title": "Torrada Francesa Brioche com Canela e Baunilha Versão Especial 14",
-    "slug": "torrada-francesa-brioche-com-canela-e-baunilha-versao-especial-14",
-    "main_ingredient": "fatias grossas de pão brioche",
-    "secondary_ingredient": "leite, ovos batidos e canela em pó",
-    "cook_time": "10 min",
-    "prep_time": "6 min",
-    "image_url": "/assets/recipes/avocado-toast.jpg"
-  },
-  {
     "category_slug": "air-fryer",
     "title": "Banana Assada com Canela e Mel Versão Especial 15",
     "slug": "banana-assada-com-canela-e-mel-versao-especial-15",

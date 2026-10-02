@@ -1,5 +1,5 @@
 {
-  "current_total": 802,
+  "current_total": 804,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -1625,9 +1625,20 @@
         "https://querorango.com/receitas/sopas/creme-de-couve-flor-com-gorgonzola-suave-versao-especial-14/",
         "https://querorango.com/receitas/sem-gluten/panqueca-de-farinha-de-grao-de-bico-salgada-versao-especial-14/"
       ]
+    },
+    {
+      "timestamp": "2026-10-02 21:18:09",
+      "count": 2,
+      "errors": 0,
+      "new_total": 804,
+      "queue_remaining": 1496,
+      "urls": [
+        "https://querorango.com/receitas/vegetarianas/lasanha-de-abobrinha-com-molho-sugo-e-ricota-versao-especial-14/",
+        "https://querorango.com/receitas/cafe-da-manha/torrada-francesa-brioche-com-canela-e-baunilha-versao-especial-14/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-10-02 16:14:41",
+  "last_run": "2026-10-02 21:18:09",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
