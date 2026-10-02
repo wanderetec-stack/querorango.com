@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "regional",
-    "title": "Galinhada Goiana com Piqui e Guariroba Versão Especial 14",
-    "slug": "galinhada-goiana-com-piqui-e-guariroba-versao-especial-14",
-    "main_ingredient": "frango caipira em pedaços",
-    "secondary_ingredient": "arroz agulhinha, piqui e açafrão",
-    "cook_time": "45 min",
-    "prep_time": "20 min",
-    "image_url": "/assets/recipes/acaraje.jpg"
-  },
-  {
-    "category_slug": "lanches",
-    "title": "Bolinho de Arroz com Queijo Minas Derretido Versão Especial 14",
-    "slug": "bolinho-de-arroz-com-queijo-minas-derretido-versao-especial-14",
-    "main_ingredient": "arroz cozido do dia anterior",
-    "secondary_ingredient": "queijo minas curado ralado e salsa",
-    "cook_time": "15 min",
-    "prep_time": "12 min",
-    "image_url": "/assets/recipes/quibe.jpg"
-  },
-  {
     "category_slug": "sopas",
     "title": "Creme de Couve-Flor com Gorgonzola Suave Versão Especial 14",
     "slug": "creme-de-couve-flor-com-gorgonzola-suave-versao-especial-14",
