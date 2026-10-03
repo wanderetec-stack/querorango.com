@@ -1,5 +1,5 @@
 {
-  "current_total": 806,
+  "current_total": 808,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -1647,9 +1647,20 @@
         "https://querorango.com/receitas/air-fryer/banana-assada-com-canela-e-mel-versao-especial-15/",
         "https://querorango.com/receitas/almoco/arroz-de-pato-tradicional-portugues-versao-especial-15/"
       ]
+    },
+    {
+      "timestamp": "2026-10-03 06:26:06",
+      "count": 2,
+      "errors": 0,
+      "new_total": 808,
+      "queue_remaining": 1492,
+      "urls": [
+        "https://querorango.com/receitas/rapidas/bowl-de-atum-com-arroz-branco-e-abacate-versao-especial-15/",
+        "https://querorango.com/receitas/marmitas/almondegas-de-frango-com-cenoura-ralada-versao-especial-15/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-10-03 01:07:29",
+  "last_run": "2026-10-03 06:26:06",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
