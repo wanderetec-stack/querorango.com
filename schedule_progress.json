@@ -1,5 +1,5 @@
 {
-  "current_total": 808,
+  "current_total": 810,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -1658,9 +1658,20 @@
         "https://querorango.com/receitas/rapidas/bowl-de-atum-com-arroz-branco-e-abacate-versao-especial-15/",
         "https://querorango.com/receitas/marmitas/almondegas-de-frango-com-cenoura-ralada-versao-especial-15/"
       ]
+    },
+    {
+      "timestamp": "2026-10-03 12:28:24",
+      "count": 2,
+      "errors": 0,
+      "new_total": 810,
+      "queue_remaining": 1490,
+      "urls": [
+        "https://querorango.com/receitas/saudavel/sopa-de-abobrinha-com-ervas-finas-versao-especial-15/",
+        "https://querorango.com/receitas/economicas/ovos-mexidos-cremosos-com-farinha-de-milho-versao-especial-15/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-10-03 06:26:06",
+  "last_run": "2026-10-03 12:28:24",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
