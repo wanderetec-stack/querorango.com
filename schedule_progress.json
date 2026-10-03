@@ -1,5 +1,5 @@
 {
-  "current_total": 812,
+  "current_total": 814,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -1680,9 +1680,20 @@
         "https://querorango.com/receitas/bolos/bolo-de-cafe-com-calda-cremosa-de-chocolate-versao-especial-15/",
         "https://querorango.com/receitas/sobremesas/cocada-cremosa-de-colher-com-leite-condensado-versao-especial-15/"
       ]
+    },
+    {
+      "timestamp": "2026-10-03 21:09:20",
+      "count": 2,
+      "errors": 0,
+      "new_total": 814,
+      "queue_remaining": 1486,
+      "urls": [
+        "https://querorango.com/receitas/paes/pao-de-milho-verde-com-erva-doce-versao-especial-15/",
+        "https://querorango.com/receitas/virais/bolo-toalha-na-taca-com-calda-cremosa-versao-especial-15/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-10-03 17:13:07",
+  "last_run": "2026-10-03 21:09:20",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
