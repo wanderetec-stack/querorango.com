@@ -1,5 +1,5 @@
 {
-  "current_total": 814,
+  "current_total": 816,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -1691,9 +1691,20 @@
         "https://querorango.com/receitas/paes/pao-de-milho-verde-com-erva-doce-versao-especial-15/",
         "https://querorango.com/receitas/virais/bolo-toalha-na-taca-com-calda-cremosa-versao-especial-15/"
       ]
+    },
+    {
+      "timestamp": "2026-10-03 23:46:02",
+      "count": 2,
+      "errors": 0,
+      "new_total": 816,
+      "queue_remaining": 1484,
+      "urls": [
+        "https://querorango.com/receitas/frango/coxas-de-frango-com-batatas-glaceadas-no-mel-versao-especial-15/",
+        "https://querorango.com/receitas/massas/lasanha-de-frango-com-requeijao-cremoso-versao-especial-15/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-10-03 21:09:20",
+  "last_run": "2026-10-03 23:46:02",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
