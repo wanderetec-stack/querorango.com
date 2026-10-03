@@ -1,5 +1,5 @@
 {
-  "current_total": 810,
+  "current_total": 812,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -1669,9 +1669,20 @@
         "https://querorango.com/receitas/saudavel/sopa-de-abobrinha-com-ervas-finas-versao-especial-15/",
         "https://querorango.com/receitas/economicas/ovos-mexidos-cremosos-com-farinha-de-milho-versao-especial-15/"
       ]
+    },
+    {
+      "timestamp": "2026-10-03 17:13:07",
+      "count": 2,
+      "errors": 0,
+      "new_total": 812,
+      "queue_remaining": 1488,
+      "urls": [
+        "https://querorango.com/receitas/bolos/bolo-de-cafe-com-calda-cremosa-de-chocolate-versao-especial-15/",
+        "https://querorango.com/receitas/sobremesas/cocada-cremosa-de-colher-com-leite-condensado-versao-especial-15/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-10-03 12:28:24",
+  "last_run": "2026-10-03 17:13:07",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
