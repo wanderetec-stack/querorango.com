@@ -1,5 +1,5 @@
 {
-  "current_total": 834,
+  "current_total": 836,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -1801,9 +1801,20 @@
         "https://querorango.com/receitas/sobremesas/doce-de-abobora-com-coco-em-pedacos-versao-especial-16/",
         "https://querorango.com/receitas/paes/paozinho-de-mandioca-macio-para-o-lanche-versao-especial-16/"
       ]
+    },
+    {
+      "timestamp": "2026-10-06 10:08:06",
+      "count": 2,
+      "errors": 0,
+      "new_total": 836,
+      "queue_remaining": 1464,
+      "urls": [
+        "https://querorango.com/receitas/virais/mousse-nuvem-de-2-ingredientes-versao-especial-16/",
+        "https://querorango.com/receitas/frango/frango-a-cacciatore-com-tomates-e-azeitonas-versao-especial-16/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-10-06 02:55:12",
+  "last_run": "2026-10-06 10:08:06",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }

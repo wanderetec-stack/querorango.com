@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "virais",
-    "title": "Mousse Nuvem de 2 Ingredientes Versão Especial 16",
-    "slug": "mousse-nuvem-de-2-ingredientes-versao-especial-16",
-    "main_ingredient": "chocolate meio amargo derretido",
-    "secondary_ingredient": "água com gelo batida em emulsão",
-    "cook_time": "10 min",
-    "prep_time": "10 min",
-    "image_url": "/assets/recipes/mousse-chocolate.jpg"
-  },
-  {
-    "category_slug": "frango",
-    "title": "Frango à Cacciatore com Tomates e Azeitonas Versão Especial 16",
-    "slug": "frango-a-cacciatore-com-tomates-e-azeitonas-versao-especial-16",
-    "main_ingredient": "frango cortado à passarinho",
-    "secondary_ingredient": "molho de tomate rústico e azeitonas",
-    "cook_time": "40 min",
-    "prep_time": "15 min",
-    "image_url": "/assets/recipes/arroz-carreteiro.jpg"
-  },
-  {
     "category_slug": "massas",
     "title": "Gnocchi alla Sorrentina Gratinado com Muçarela Versão Especial 16",
     "slug": "gnocchi-alla-sorrentina-gratinado-com-mucarela-versao-especial-16",
