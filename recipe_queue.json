@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "massas",
-    "title": "Gnocchi alla Sorrentina Gratinado com Muçarela Versão Especial 16",
-    "slug": "gnocchi-alla-sorrentina-gratinado-com-mucarela-versao-especial-16",
-    "main_ingredient": "nhoque de batata macio",
-    "secondary_ingredient": "molho de tomate caseiro e manjericão",
-    "cook_time": "20 min",
-    "prep_time": "15 min",
-    "image_url": "/assets/recipes/canelone.jpg"
-  },
-  {
-    "category_slug": "carne-moida",
-    "title": "Panqueca de Espinafre com Recheio de Carne Versão Especial 16",
-    "slug": "panqueca-de-espinafre-com-recheio-de-carne-versao-especial-16",
-    "main_ingredient": "massa verde com espinafre",
-    "secondary_ingredient": "carne moída refogada com cebola",
-    "cook_time": "20 min",
-    "prep_time": "15 min",
-    "image_url": "/assets/recipes/pastel.jpg"
-  },
-  {
     "category_slug": "pressao",
     "title": "Sopa de Ervilha com Calabresa e Bacon Versão Especial 16",
     "slug": "sopa-de-ervilha-com-calabresa-e-bacon-versao-especial-16",
