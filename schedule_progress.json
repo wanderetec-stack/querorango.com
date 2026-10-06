@@ -1,5 +1,5 @@
 {
-  "current_total": 838,
+  "current_total": 840,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -1823,9 +1823,20 @@
         "https://querorango.com/receitas/massas/gnocchi-alla-sorrentina-gratinado-com-mucarela-versao-especial-16/",
         "https://querorango.com/receitas/carne-moida/panqueca-de-espinafre-com-recheio-de-carne-versao-especial-16/"
       ]
+    },
+    {
+      "timestamp": "2026-10-06 21:35:54",
+      "count": 2,
+      "errors": 0,
+      "new_total": 840,
+      "queue_remaining": 1460,
+      "urls": [
+        "https://querorango.com/receitas/pressao/sopa-de-ervilha-com-calabresa-e-bacon-versao-especial-16/",
+        "https://querorango.com/receitas/peixes/ceviche-misto-de-peixe-branco-e-camarao-versao-especial-16/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-10-06 16:45:25",
+  "last_run": "2026-10-06 21:35:54",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
