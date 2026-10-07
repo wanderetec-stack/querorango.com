@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "vegetarianas",
-    "title": "Quibe de Abóbora com Nozes e Hortelã Versão Especial 16",
-    "slug": "quibe-de-abobora-com-nozes-e-hortela-versao-especial-16",
-    "main_ingredient": "abóbora cabotiá cozida",
-    "secondary_ingredient": "trigo para quibe e nozes picadas",
-    "cook_time": "35 min",
-    "prep_time": "20 min",
-    "image_url": "/assets/recipes/escondidinho.jpg"
-  },
-  {
-    "category_slug": "cafe-da-manha",
-    "title": "Granola de Frigideira com Castanhas e Mel Versão Especial 16",
-    "slug": "granola-de-frigideira-com-castanhas-e-mel-versao-especial-16",
-    "main_ingredient": "aveia em flocos grossos",
-    "secondary_ingredient": "castanhas de caju, nozes e mel",
-    "cook_time": "10 min",
-    "prep_time": "5 min",
-    "image_url": "/assets/recipes/granola.jpg"
-  },
-  {
     "category_slug": "air-fryer",
     "title": "Espeto de Frango com Pimentão e Bacon Versão Especial 17",
     "slug": "espeto-de-frango-com-pimentao-e-bacon-versao-especial-17",
