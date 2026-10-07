@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "air-fryer",
-    "title": "Espeto de Frango com Pimentão e Bacon Versão Especial 17",
-    "slug": "espeto-de-frango-com-pimentao-e-bacon-versao-especial-17",
-    "main_ingredient": "cubos de frango",
-    "secondary_ingredient": "bacon e pimentão",
-    "cook_time": "20 min",
-    "prep_time": "15 min",
-    "image_url": "/assets/recipes/legumes-assados.jpg"
-  },
-  {
-    "category_slug": "almoco",
-    "title": "Lasanha Quatro Queijos com Bechamel Suave Versão Especial 17",
-    "slug": "lasanha-quatro-queijos-com-bechamel-suave-versao-especial-17",
-    "main_ingredient": "massa de lasanha",
-    "secondary_ingredient": "gorgonzola, muçarela e parmesão",
-    "cook_time": "45 min",
-    "prep_time": "20 min",
-    "image_url": "/assets/recipes/costela.jpg"
-  },
-  {
     "category_slug": "rapidas",
     "title": "Wrap de Frango com Creme de Ricota Versão Especial 17",
     "slug": "wrap-de-frango-com-creme-de-ricota-versao-especial-17",
