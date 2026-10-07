@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "regional",
-    "title": "Arroz com Suã Mineiro de Panela de Ferro Versão Especial 16",
-    "slug": "arroz-com-sua-mineiro-de-panela-de-ferro-versao-especial-16",
-    "main_ingredient": "espinhaço de porco carnudo",
-    "secondary_ingredient": "arroz soltinho e bastante alho",
-    "cook_time": "50 min",
-    "prep_time": "20 min",
-    "image_url": "/assets/recipes/tacaca.jpg"
-  },
-  {
-    "category_slug": "lanches",
-    "title": "Esfiha Folhada de Frango com Catupiry Versão Especial 16",
-    "slug": "esfiha-folhada-de-frango-com-catupiry-versao-especial-16",
-    "main_ingredient": "massa folhada amanteigada",
-    "secondary_ingredient": "frango temperado com requeijão",
-    "cook_time": "25 min",
-    "prep_time": "20 min",
-    "image_url": "/assets/recipes/enroladinho-salsicha.jpg"
-  },
-  {
     "category_slug": "sopas",
     "title": "Sopa de Milho Cremosa com Bacon Crocante Versão Especial 16",
     "slug": "sopa-de-milho-cremosa-com-bacon-crocante-versao-especial-16",

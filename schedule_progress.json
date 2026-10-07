@@ -1,5 +1,5 @@
 {
-  "current_total": 840,
+  "current_total": 842,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -1834,9 +1834,20 @@
         "https://querorango.com/receitas/pressao/sopa-de-ervilha-com-calabresa-e-bacon-versao-especial-16/",
         "https://querorango.com/receitas/peixes/ceviche-misto-de-peixe-branco-e-camarao-versao-especial-16/"
       ]
+    },
+    {
+      "timestamp": "2026-10-07 01:28:37",
+      "count": 2,
+      "errors": 0,
+      "new_total": 842,
+      "queue_remaining": 1458,
+      "urls": [
+        "https://querorango.com/receitas/regional/arroz-com-sua-mineiro-de-panela-de-ferro-versao-especial-16/",
+        "https://querorango.com/receitas/lanches/esfiha-folhada-de-frango-com-catupiry-versao-especial-16/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-10-06 21:35:54",
+  "last_run": "2026-10-07 01:28:37",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
