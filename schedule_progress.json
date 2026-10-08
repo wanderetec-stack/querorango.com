@@ -1,5 +1,5 @@
 {
-  "current_total": 850,
+  "current_total": 852,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -1889,9 +1889,20 @@
         "https://querorango.com/receitas/rapidas/wrap-de-frango-com-creme-de-ricota-versao-especial-17/",
         "https://querorango.com/receitas/marmitas/feijao-carioca-com-louro-e-alho-frito-versao-especial-17/"
       ]
+    },
+    {
+      "timestamp": "2026-10-08 08:51:49",
+      "count": 2,
+      "errors": 0,
+      "new_total": 852,
+      "queue_remaining": 1448,
+      "urls": [
+        "https://querorango.com/receitas/saudavel/muffins-de-claras-com-tomatinhos-e-manjericao-versao-especial-17/",
+        "https://querorango.com/receitas/economicas/torta-de-legumes-de-liquidificador-facil-versao-especial-17/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-10-08 01:51:44",
+  "last_run": "2026-10-08 08:51:49",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
