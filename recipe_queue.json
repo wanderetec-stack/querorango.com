@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "lanches",
-    "title": "Croquete de Mandioca com Carne Moída Versão Especial 17",
-    "slug": "croquete-de-mandioca-com-carne-moida-versao-especial-17",
-    "main_ingredient": "purê de mandioca rústico",
-    "secondary_ingredient": "recheio de carne moída com azeitonas",
-    "cook_time": "20 min",
-    "prep_time": "20 min",
-    "image_url": "/assets/recipes/croquete.jpg"
-  },
-  {
-    "category_slug": "sopas",
-    "title": "Minestrone Tradicional Italiano com Macarrão Versão Especial 17",
-    "slug": "minestrone-tradicional-italiano-com-macarrao-versao-especial-17",
-    "main_ingredient": "legumes variados em cubos",
-    "secondary_ingredient": "feijão branco e massa caracol",
-    "cook_time": "35 min",
-    "prep_time": "15 min",
-    "image_url": "/assets/recipes/sopa-cebola.jpg"
-  },
-  {
     "category_slug": "sem-gluten",
     "title": "Muffin Salgado Sem Glúten com Espinafre Versão Especial 17",
     "slug": "muffin-salgado-sem-gluten-com-espinafre-versao-especial-17",
