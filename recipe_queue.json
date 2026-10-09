@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "carne-moida",
-    "title": "Pastelão Assado de Carne Moída com Azeitonas Versão Especial 17",
-    "slug": "pastelao-assado-de-carne-moida-com-azeitonas-versao-especial-17",
-    "main_ingredient": "massa fofa de empadão",
-    "secondary_ingredient": "carne moída sequinha com ovos cozidos",
-    "cook_time": "40 min",
-    "prep_time": "20 min",
-    "image_url": "/assets/recipes/chili.jpg"
-  },
-  {
-    "category_slug": "pressao",
-    "title": "Frango Caipira Inteiro com Açafrão Versão Especial 17",
-    "slug": "frango-caipira-inteiro-com-acafrao-versao-especial-17",
-    "main_ingredient": "frango cortado pelas juntas",
-    "secondary_ingredient": "açafrão da terra, louro e cheiro-verde",
-    "cook_time": "40 min",
-    "prep_time": "15 min",
-    "image_url": "https://images.unsplash.com/photo-1544025162-d76694265947?w=600&q=80"
-  },
-  {
     "category_slug": "peixes",
     "title": "Arroz de Marisco com Açafrão e Coentro Versão Especial 17",
     "slug": "arroz-de-marisco-com-acafrao-e-coentro-versao-especial-17",
