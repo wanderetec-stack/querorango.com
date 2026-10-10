@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "marmitas",
-    "title": "Filé de Tilápia com Purê de Ervilhas Versão Especial 18",
-    "slug": "file-de-tilapia-com-pure-de-ervilhas-versao-especial-18",
-    "main_ingredient": "filés de tilápia grelhados",
-    "secondary_ingredient": "ervilhas frescas batidas",
-    "cook_time": "20 min",
-    "prep_time": "12 min",
-    "image_url": "/assets/recipes/strogonoff.jpg"
-  },
-  {
-    "category_slug": "saudavel",
-    "title": "Bowl de Frutas Vermelhas com Sementes de Girassol Versão Especial 18",
-    "slug": "bowl-de-frutas-vermelhas-com-sementes-de-girassol-versao-especial-18",
-    "main_ingredient": "mix de frutas frescas",
-    "secondary_ingredient": "iogurte desnatado e sementes",
-    "cook_time": "5 min",
-    "prep_time": "5 min",
-    "image_url": "/assets/recipes/legumes-assados.jpg"
-  },
-  {
     "category_slug": "economicas",
     "title": "Batata Doce Assada com Manteiga e Sal Versão Especial 18",
     "slug": "batata-doce-assada-com-manteiga-e-sal-versao-especial-18",
