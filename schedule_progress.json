@@ -1,5 +1,5 @@
 {
-  "current_total": 866,
+  "current_total": 868,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -1977,9 +1977,20 @@
         "https://querorango.com/receitas/sem-gluten/muffin-salgado-sem-gluten-com-espinafre-versao-especial-17/",
         "https://querorango.com/receitas/vegetarianas/risoto-de-cogumelos-shimeji-com-alho-poro-versao-especial-17/"
       ]
+    },
+    {
+      "timestamp": "2026-10-10 06:59:33",
+      "count": 2,
+      "errors": 0,
+      "new_total": 868,
+      "queue_remaining": 1432,
+      "urls": [
+        "https://querorango.com/receitas/cafe-da-manha/cestinha-de-ovos-com-bacon-no-forno-versao-especial-17/",
+        "https://querorango.com/receitas/air-fryer/queijo-coalho-grelhado-com-melaco-versao-especial-18/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-10-10 00:44:16",
+  "last_run": "2026-10-10 06:59:33",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
