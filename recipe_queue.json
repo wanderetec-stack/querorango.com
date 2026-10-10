@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "almoco",
-    "title": "Vaca Atolada com Costela Bovina e Aipim Versão Especial 18",
-    "slug": "vaca-atolada-com-costela-bovina-e-aipim-versao-especial-18",
-    "main_ingredient": "costela bovina",
-    "secondary_ingredient": "aipim macio e cheiro-verde",
-    "cook_time": "60 min",
-    "prep_time": "20 min",
-    "image_url": "/assets/recipes/almondegas.jpg"
-  },
-  {
-    "category_slug": "rapidas",
-    "title": "Tostex Especial com Queijo Meia Cura Versão Especial 18",
-    "slug": "tostex-especial-com-queijo-meia-cura-versao-especial-18",
-    "main_ingredient": "pão de forma rústico",
-    "secondary_ingredient": "queijo minas meia cura na chapa",
-    "cook_time": "7 min",
-    "prep_time": "3 min",
-    "image_url": "/assets/recipes/wrap-atum.jpg"
-  },
-  {
     "category_slug": "marmitas",
     "title": "Filé de Tilápia com Purê de Ervilhas Versão Especial 18",
     "slug": "file-de-tilapia-com-pure-de-ervilhas-versao-especial-18",
