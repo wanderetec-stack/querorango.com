@@ -1,5 +1,5 @@
 {
-  "current_total": 902,
+  "current_total": 904,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -2175,9 +2175,20 @@
         "https://querorango.com/receitas/carne-moida/esfiha-fechada-de-carne-moida-com-limao-versao-especial-19/",
         "https://querorango.com/receitas/pressao/arroz-integral-com-graos-em-10-minutos-versao-especial-19/"
       ]
+    },
+    {
+      "timestamp": "2026-10-14 17:03:55",
+      "count": 2,
+      "errors": 0,
+      "new_total": 904,
+      "queue_remaining": 1396,
+      "urls": [
+        "https://querorango.com/receitas/peixes/moqueca-capixaba-autentica-em-panela-de-barro-versao-especial-19/",
+        "https://querorango.com/receitas/regional/cuscuz-de-milho-com-leite-de-coco-e-manteiga-versao-especial-19/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-10-14 11:45:00",
+  "last_run": "2026-10-14 17:03:55",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
