@@ -1,5 +1,5 @@
 {
-  "current_total": 896,
+  "current_total": 898,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -2142,9 +2142,20 @@
         "https://querorango.com/receitas/bolos/bolo-simples-de-caneca-no-micro-ondas-versao-especial-19/",
         "https://querorango.com/receitas/sobremesas/creme-de-papaia-com-licor-de-cassis-versao-especial-19/"
       ]
+    },
+    {
+      "timestamp": "2026-10-14 01:10:07",
+      "count": 2,
+      "errors": 0,
+      "new_total": 898,
+      "queue_remaining": 1402,
+      "urls": [
+        "https://querorango.com/receitas/paes/rosca-de-canela-com-cobertura-acucarada-versao-especial-19/",
+        "https://querorango.com/receitas/virais/batata-doce-brulee-com-casquinha-de-caramelo-versao-especial-19/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-10-13 21:11:32",
+  "last_run": "2026-10-14 01:10:07",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
