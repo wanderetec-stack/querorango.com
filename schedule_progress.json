@@ -1,5 +1,5 @@
 {
-  "current_total": 920,
+  "current_total": 922,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -2274,9 +2274,20 @@
         "https://querorango.com/receitas/virais/fondue-de-coxinha-com-queijo-cremoso-na-cumbuca-versao-especial-20/",
         "https://querorango.com/receitas/frango/frango-com-polenta-mole-e-caldo-encorpado-versao-especial-20/"
       ]
+    },
+    {
+      "timestamp": "2026-10-16 07:04:37",
+      "count": 2,
+      "errors": 0,
+      "new_total": 922,
+      "queue_remaining": 1378,
+      "urls": [
+        "https://querorango.com/receitas/massas/macarrao-de-forno-cremoso-com-presunto-e-queijo-versao-especial-20/",
+        "https://querorango.com/receitas/carne-moida/kafta-no-espeto-com-hortela-e-siria-versao-especial-20/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-10-16 01:14:49",
+  "last_run": "2026-10-16 07:04:37",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
