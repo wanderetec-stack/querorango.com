@@ -1,5 +1,5 @@
 {
-  "current_total": 926,
+  "current_total": 928,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -2307,9 +2307,20 @@
         "https://querorango.com/receitas/regional/pirao-de-peixe-com-farinha-de-mandioca-fina-versao-especial-20/",
         "https://querorango.com/receitas/lanches/dadinho-de-polenta-com-queijo-parmesao-versao-especial-20/"
       ]
+    },
+    {
+      "timestamp": "2026-10-16 20:59:54",
+      "count": 2,
+      "errors": 0,
+      "new_total": 928,
+      "queue_remaining": 1372,
+      "urls": [
+        "https://querorango.com/receitas/sopas/sopa-de-lentilha-siria-com-limao-e-cominho-versao-especial-20/",
+        "https://querorango.com/receitas/sem-gluten/crepe-frances-sem-gluten-com-geleia-natural-versao-especial-20/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-10-16 17:21:35",
+  "last_run": "2026-10-16 20:59:54",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
