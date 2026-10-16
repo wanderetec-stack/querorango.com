@@ -1,5 +1,5 @@
 {
-  "current_total": 924,
+  "current_total": 926,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -2296,9 +2296,20 @@
         "https://querorango.com/receitas/pressao/carne-seca-dessalgada-com-abobora-versao-especial-20/",
         "https://querorango.com/receitas/peixes/iscas-de-merluza-crocantes-com-maionese-verde-versao-especial-20/"
       ]
+    },
+    {
+      "timestamp": "2026-10-16 17:21:35",
+      "count": 2,
+      "errors": 0,
+      "new_total": 926,
+      "queue_remaining": 1374,
+      "urls": [
+        "https://querorango.com/receitas/regional/pirao-de-peixe-com-farinha-de-mandioca-fina-versao-especial-20/",
+        "https://querorango.com/receitas/lanches/dadinho-de-polenta-com-queijo-parmesao-versao-especial-20/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-10-16 12:19:17",
+  "last_run": "2026-10-16 17:21:35",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
