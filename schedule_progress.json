@@ -1,5 +1,5 @@
 {
-  "current_total": 932,
+  "current_total": 934,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -2340,9 +2340,20 @@
         "https://querorango.com/receitas/air-fryer/coxinhas-da-asa-douradas-com-alho-e-ervas-versao-especial-21/",
         "https://querorango.com/receitas/almoco/file-mignon-suino-com-geleia-de-pimenta-versao-especial-21/"
       ]
+    },
+    {
+      "timestamp": "2026-10-17 09:15:01",
+      "count": 2,
+      "errors": 0,
+      "new_total": 934,
+      "queue_remaining": 1366,
+      "urls": [
+        "https://querorango.com/receitas/rapidas/macarrao-alho-e-oleo-com-tomates-confitados-versao-especial-21/",
+        "https://querorango.com/receitas/marmitas/iscas-de-carne-aceboladas-com-pimentao-versao-especial-21/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-10-17 04:16:06",
+  "last_run": "2026-10-17 09:15:01",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
