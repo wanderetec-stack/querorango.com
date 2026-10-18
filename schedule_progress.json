@@ -1,5 +1,5 @@
 {
-  "current_total": 948,
+  "current_total": 950,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -2428,9 +2428,20 @@
         "https://querorango.com/receitas/lanches/x-salada-especial-com-hamburguer-artesanal-versao-especial-21/",
         "https://querorango.com/receitas/sopas/sopa-eslava-de-carne-com-batatas-e-paprica-versao-especial-21/"
       ]
+    },
+    {
+      "timestamp": "2026-10-18 14:31:54",
+      "count": 2,
+      "errors": 0,
+      "new_total": 950,
+      "queue_remaining": 1350,
+      "urls": [
+        "https://querorango.com/receitas/sem-gluten/pao-de-forma-sem-gluten-com-farinha-de-arroz-versao-especial-21/",
+        "https://querorango.com/receitas/vegetarianas/curry-de-grao-de-bico-com-leite-de-coco-versao-especial-21/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-10-18 10:56:33",
+  "last_run": "2026-10-18 14:31:54",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
