@@ -1,5 +1,5 @@
 {
-  "current_total": 944,
+  "current_total": 946,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -2406,9 +2406,20 @@
         "https://querorango.com/receitas/carne-moida/polpetone-recheado-com-queijo-gratinado-versao-especial-21/",
         "https://querorango.com/receitas/pressao/musculo-com-mandioca-e-molho-ferrugem-versao-especial-21/"
       ]
+    },
+    {
+      "timestamp": "2026-10-18 05:48:08",
+      "count": 2,
+      "errors": 0,
+      "new_total": 946,
+      "queue_remaining": 1354,
+      "urls": [
+        "https://querorango.com/receitas/peixes/postas-de-robalo-grelhadas-com-ervas-versao-especial-21/",
+        "https://querorango.com/receitas/regional/vatapa-baiano-com-camarao-seco-e-castanhas-versao-especial-21/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-10-18 00:56:32",
+  "last_run": "2026-10-18 05:48:08",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
