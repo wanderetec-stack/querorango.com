@@ -1,5 +1,5 @@
 {
-  "current_total": 958,
+  "current_total": 960,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -2483,9 +2483,20 @@
         "https://querorango.com/receitas/economicas/arroz-cremoso-de-sobras-com-requeijao-e-milho-versao-especial-22/",
         "https://querorango.com/receitas/bolos/bolo-de-maca-com-nozes-e-canela-versao-especial-22/"
       ]
+    },
+    {
+      "timestamp": "2026-10-19 06:09:11",
+      "count": 2,
+      "errors": 0,
+      "new_total": 960,
+      "queue_remaining": 1340,
+      "urls": [
+        "https://querorango.com/receitas/sobremesas/chico-balanceado-com-banana-caramelizada-versao-especial-22/",
+        "https://querorango.com/receitas/paes/pao-de-cebola-fofinho-de-liquidificador-versao-especial-22/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-10-19 01:08:40",
+  "last_run": "2026-10-19 06:09:11",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
