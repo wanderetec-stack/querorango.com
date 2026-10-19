@@ -1,5 +1,5 @@
 {
-  "current_total": 962,
+  "current_total": 964,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -2505,9 +2505,20 @@
         "https://querorango.com/receitas/virais/pipoca-gourmet-com-ninho-e-chocolate-branco-versao-especial-22/",
         "https://querorango.com/receitas/frango/frango-com-quiabo-caipira-de-panela-versao-especial-22/"
       ]
+    },
+    {
+      "timestamp": "2026-10-19 19:15:51",
+      "count": 2,
+      "errors": 0,
+      "new_total": 964,
+      "queue_remaining": 1336,
+      "urls": [
+        "https://querorango.com/receitas/massas/ravioli-de-abobora-com-manteiga-e-salvia-versao-especial-22/",
+        "https://querorango.com/receitas/carne-moida/picadillo-cubano-com-azeitonas-e-passas-versao-especial-22/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-10-19 13:04:07",
+  "last_run": "2026-10-19 19:15:51",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
