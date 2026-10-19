@@ -1,5 +1,5 @@
 {
-  "current_total": 956,
+  "current_total": 958,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -2472,9 +2472,20 @@
         "https://querorango.com/receitas/marmitas/frango-com-quiabo-e-molho-rustico-versao-especial-22/",
         "https://querorango.com/receitas/saudavel/salada-morna-de-quinoa-com-aspargos-grelhados-versao-especial-22/"
       ]
+    },
+    {
+      "timestamp": "2026-10-19 01:08:40",
+      "count": 2,
+      "errors": 0,
+      "new_total": 958,
+      "queue_remaining": 1342,
+      "urls": [
+        "https://querorango.com/receitas/economicas/arroz-cremoso-de-sobras-com-requeijao-e-milho-versao-especial-22/",
+        "https://querorango.com/receitas/bolos/bolo-de-maca-com-nozes-e-canela-versao-especial-22/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-10-18 23:03:50",
+  "last_run": "2026-10-19 01:08:40",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
