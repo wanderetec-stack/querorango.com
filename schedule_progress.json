@@ -1,5 +1,5 @@
 {
-  "current_total": 974,
+  "current_total": 976,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -2571,9 +2571,20 @@
         "https://querorango.com/receitas/air-fryer/chips-de-batata-doce-com-alecrim-versao-especial-23/",
         "https://querorango.com/receitas/almoco/polvo-grelhado-com-batatas-ao-murro-versao-especial-23/"
       ]
+    },
+    {
+      "timestamp": "2026-10-20 23:08:44",
+      "count": 2,
+      "errors": 0,
+      "new_total": 976,
+      "queue_remaining": 1324,
+      "urls": [
+        "https://querorango.com/receitas/rapidas/sanduiche-natural-de-frango-com-cenoura-versao-especial-23/",
+        "https://querorango.com/receitas/marmitas/arroz-de-couve-com-lentilha-e-alho-dourado-versao-especial-23/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-10-20 19:10:34",
+  "last_run": "2026-10-20 23:08:44",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
