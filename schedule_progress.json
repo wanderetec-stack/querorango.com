@@ -1,5 +1,5 @@
 {
-  "current_total": 978,
+  "current_total": 980,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -2593,9 +2593,20 @@
         "https://querorango.com/receitas/saudavel/hamburguer-de-salmao-com-gergelim-preto-versao-especial-23/",
         "https://querorango.com/receitas/economicas/bolinho-de-batata-frito-com-ervas-versao-especial-23/"
       ]
+    },
+    {
+      "timestamp": "2026-10-21 07:30:04",
+      "count": 2,
+      "errors": 0,
+      "new_total": 980,
+      "queue_remaining": 1320,
+      "urls": [
+        "https://querorango.com/receitas/bolos/bolo-mesclado-de-chocolate-com-baunilha-versao-especial-23/",
+        "https://querorango.com/receitas/sobremesas/mousse-de-limao-rapida-com-raspas-versao-especial-23/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-10-21 01:32:30",
+  "last_run": "2026-10-21 07:30:04",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
