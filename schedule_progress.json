@@ -1,5 +1,5 @@
 {
-  "current_total": 994,
+  "current_total": 996,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -2681,9 +2681,20 @@
         "https://querorango.com/receitas/cafe-da-manha/panqueca-alta-com-manteiga-e-mirtilos-versao-especial-23/",
         "https://querorango.com/receitas/air-fryer/almondegas-recheadas-com-queijo-prato-versao-especial-24/"
       ]
+    },
+    {
+      "timestamp": "2026-10-22 22:15:52",
+      "count": 2,
+      "errors": 0,
+      "new_total": 996,
+      "queue_remaining": 1304,
+      "urls": [
+        "https://querorango.com/receitas/almoco/escondidinho-de-mandioca-com-carne-de-sol-versao-especial-24/",
+        "https://querorango.com/receitas/rapidas/quesadilla-de-queijo-com-milho-e-oregano-versao-especial-24/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-10-22 18:28:56",
+  "last_run": "2026-10-22 22:15:52",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
