@@ -1,5 +1,5 @@
 {
-  "current_total": 992,
+  "current_total": 994,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -2670,9 +2670,20 @@
         "https://querorango.com/receitas/sem-gluten/torta-de-liquidificador-sem-gluten-de-legumes-versao-especial-23/",
         "https://querorango.com/receitas/vegetarianas/moqueca-de-banana-da-terra-com-pimentoes-versao-especial-23/"
       ]
+    },
+    {
+      "timestamp": "2026-10-22 18:28:56",
+      "count": 2,
+      "errors": 0,
+      "new_total": 994,
+      "queue_remaining": 1306,
+      "urls": [
+        "https://querorango.com/receitas/cafe-da-manha/panqueca-alta-com-manteiga-e-mirtilos-versao-especial-23/",
+        "https://querorango.com/receitas/air-fryer/almondegas-recheadas-com-queijo-prato-versao-especial-24/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-10-22 13:43:40",
+  "last_run": "2026-10-22 18:28:56",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
