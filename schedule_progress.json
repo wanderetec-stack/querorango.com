@@ -1,5 +1,5 @@
 {
-  "current_total": 1002,
+  "current_total": 1004,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -2725,9 +2725,20 @@
         "https://querorango.com/receitas/sobremesas/torta-gelada-de-bolacha-com-brigadeiro-branco-versao-especial-24/",
         "https://querorango.com/receitas/paes/brioche-amanteigado-frances-douradinho-versao-especial-24/"
       ]
+    },
+    {
+      "timestamp": "2026-10-23 18:15:51",
+      "count": 2,
+      "errors": 0,
+      "new_total": 1004,
+      "queue_remaining": 1296,
+      "urls": [
+        "https://querorango.com/receitas/virais/pao-de-alho-vulcao-com-quatro-queijos-versao-especial-24/",
+        "https://querorango.com/receitas/frango/frango-ao-curry-com-leite-de-coco-e-maca-versao-especial-24/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-10-23 13:20:32",
+  "last_run": "2026-10-23 18:15:51",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
