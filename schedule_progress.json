@@ -1,5 +1,5 @@
 {
-  "current_total": 1014,
+  "current_total": 1016,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -2791,9 +2791,20 @@
         "https://querorango.com/receitas/vegetarianas/lasanha-de-abobrinha-com-molho-sugo-e-ricota-versao-especial-24/",
         "https://querorango.com/receitas/cafe-da-manha/torrada-francesa-brioche-com-canela-e-baunilha-versao-especial-24/"
       ]
+    },
+    {
+      "timestamp": "2026-10-24 18:04:30",
+      "count": 2,
+      "errors": 0,
+      "new_total": 1016,
+      "queue_remaining": 1284,
+      "urls": [
+        "https://querorango.com/receitas/air-fryer/banana-assada-com-canela-e-mel-versao-especial-25/",
+        "https://querorango.com/receitas/almoco/arroz-de-pato-tradicional-portugues-versao-especial-25/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-10-24 14:27:40",
+  "last_run": "2026-10-24 18:04:30",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
