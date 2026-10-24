@@ -1,5 +1,5 @@
 {
-  "current_total": 1008,
+  "current_total": 1010,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -2758,9 +2758,20 @@
         "https://querorango.com/receitas/pressao/dobradinha-com-feijao-branco-e-paio-versao-especial-24/",
         "https://querorango.com/receitas/peixes/salmao-assado-com-crosta-de-ervas-e-parmesao-versao-especial-24/"
       ]
+    },
+    {
+      "timestamp": "2026-10-24 05:43:55",
+      "count": 2,
+      "errors": 0,
+      "new_total": 1010,
+      "queue_remaining": 1290,
+      "urls": [
+        "https://querorango.com/receitas/regional/galinhada-goiana-com-piqui-e-guariroba-versao-especial-24/",
+        "https://querorango.com/receitas/lanches/bolinho-de-arroz-com-queijo-minas-derretido-versao-especial-24/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-10-24 00:34:40",
+  "last_run": "2026-10-24 05:43:55",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
