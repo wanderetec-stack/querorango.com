@@ -1,5 +1,5 @@
 {
-  "current_total": 1030,
+  "current_total": 1032,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -2879,9 +2879,20 @@
         "https://querorango.com/receitas/peixes/torta-de-bacalhau-cremosa-com-alho-poro-versao-especial-25/",
         "https://querorango.com/receitas/regional/feijao-tropeiro-paulista-com-linguica-versao-especial-25/"
       ]
+    },
+    {
+      "timestamp": "2026-10-25 21:41:52",
+      "count": 2,
+      "errors": 0,
+      "new_total": 1032,
+      "queue_remaining": 1268,
+      "urls": [
+        "https://querorango.com/receitas/lanches/sanduiche-de-carne-louca-para-festas-versao-especial-25/",
+        "https://querorango.com/receitas/sopas/sopa-de-feijao-branco-com-espinafre-e-cenoura-versao-especial-25/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-10-25 18:57:47",
+  "last_run": "2026-10-25 21:41:52",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
