@@ -1,5 +1,5 @@
 {
-  "current_total": 1038,
+  "current_total": 1040,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -2923,9 +2923,20 @@
         "https://querorango.com/receitas/almoco/sobrecoxa-assada-ao-molho-de-laranja-versao-especial-26/",
         "https://querorango.com/receitas/rapidas/cuscuz-de-frigideira-com-ovo-e-manteiga-versao-especial-26/"
       ]
+    },
+    {
+      "timestamp": "2026-10-26 19:12:52",
+      "count": 2,
+      "errors": 0,
+      "new_total": 1040,
+      "queue_remaining": 1260,
+      "urls": [
+        "https://querorango.com/receitas/marmitas/picadinho-de-carne-com-batata-e-cenoura-versao-especial-26/",
+        "https://querorango.com/receitas/saudavel/file-de-frango-com-crosta-de-gergelim-versao-especial-26/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-10-26 12:49:48",
+  "last_run": "2026-10-26 19:12:52",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
