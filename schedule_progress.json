@@ -1,5 +1,5 @@
 {
-  "current_total": 1040,
+  "current_total": 1042,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -2934,9 +2934,20 @@
         "https://querorango.com/receitas/marmitas/picadinho-de-carne-com-batata-e-cenoura-versao-especial-26/",
         "https://querorango.com/receitas/saudavel/file-de-frango-com-crosta-de-gergelim-versao-especial-26/"
       ]
+    },
+    {
+      "timestamp": "2026-10-26 23:48:21",
+      "count": 2,
+      "errors": 0,
+      "new_total": 1042,
+      "queue_remaining": 1258,
+      "urls": [
+        "https://querorango.com/receitas/economicas/sopa-economica-de-legumes-com-pao-torrado-versao-especial-26/",
+        "https://querorango.com/receitas/bolos/bolo-de-maracuja-com-sementes-na-calda-versao-especial-26/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-10-26 19:12:52",
+  "last_run": "2026-10-26 23:48:21",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
