@@ -1,5 +1,5 @@
 {
-  "current_total": 1034,
+  "current_total": 1036,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -2901,9 +2901,20 @@
         "https://querorango.com/receitas/sem-gluten/cookies-de-amendoas-com-gotas-de-chocolate-versao-especial-25/",
         "https://querorango.com/receitas/vegetarianas/almondegas-de-berinjela-com-molho-rustico-versao-especial-25/"
       ]
+    },
+    {
+      "timestamp": "2026-10-26 06:04:03",
+      "count": 2,
+      "errors": 0,
+      "new_total": 1036,
+      "queue_remaining": 1264,
+      "urls": [
+        "https://querorango.com/receitas/cafe-da-manha/avocado-toast-com-ovo-cozido-e-pimenta-rosa-versao-especial-25/",
+        "https://querorango.com/receitas/air-fryer/linguica-toscana-suculenta-com-cebola-versao-especial-26/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-10-26 00:13:42",
+  "last_run": "2026-10-26 06:04:03",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
