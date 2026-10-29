@@ -1,5 +1,5 @@
 {
-  "current_total": 1058,
+  "current_total": 1060,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -3033,9 +3033,20 @@
         "https://querorango.com/receitas/air-fryer/espeto-de-frango-com-pimentao-e-bacon-versao-especial-27/",
         "https://querorango.com/receitas/almoco/lasanha-quatro-queijos-com-bechamel-suave-versao-especial-27/"
       ]
+    },
+    {
+      "timestamp": "2026-10-29 00:49:55",
+      "count": 2,
+      "errors": 0,
+      "new_total": 1060,
+      "queue_remaining": 1240,
+      "urls": [
+        "https://querorango.com/receitas/rapidas/wrap-de-frango-com-creme-de-ricota-versao-especial-27/",
+        "https://querorango.com/receitas/marmitas/feijao-carioca-com-louro-e-alho-frito-versao-especial-27/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-10-28 20:59:20",
+  "last_run": "2026-10-29 00:49:55",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
