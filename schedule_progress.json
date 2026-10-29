@@ -1,5 +1,5 @@
 {
-  "current_total": 1062,
+  "current_total": 1064,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -3055,9 +3055,20 @@
         "https://querorango.com/receitas/saudavel/muffins-de-claras-com-tomatinhos-e-manjericao-versao-especial-27/",
         "https://querorango.com/receitas/economicas/torta-de-legumes-de-liquidificador-facil-versao-especial-27/"
       ]
+    },
+    {
+      "timestamp": "2026-10-29 14:10:44",
+      "count": 2,
+      "errors": 0,
+      "new_total": 1064,
+      "queue_remaining": 1236,
+      "urls": [
+        "https://querorango.com/receitas/bolos/bolo-marmore-com-gotas-de-chocolate-versao-especial-27/",
+        "https://querorango.com/receitas/sobremesas/gelatina-cremosa-de-morango-com-nata-versao-especial-27/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-10-29 06:59:09",
+  "last_run": "2026-10-29 14:10:44",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
