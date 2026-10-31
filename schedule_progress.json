@@ -1,5 +1,5 @@
 {
-  "current_total": 1078,
+  "current_total": 1080,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -3143,9 +3143,20 @@
         "https://querorango.com/receitas/cafe-da-manha/cestinha-de-ovos-com-bacon-no-forno-versao-especial-27/",
         "https://querorango.com/receitas/air-fryer/queijo-coalho-grelhado-com-melaco-versao-especial-28/"
       ]
+    },
+    {
+      "timestamp": "2026-10-31 12:14:51",
+      "count": 2,
+      "errors": 0,
+      "new_total": 1080,
+      "queue_remaining": 1220,
+      "urls": [
+        "https://querorango.com/receitas/almoco/vaca-atolada-com-costela-bovina-e-aipim-versao-especial-28/",
+        "https://querorango.com/receitas/rapidas/tostex-especial-com-queijo-meia-cura-versao-especial-28/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-10-31 05:27:42",
+  "last_run": "2026-10-31 12:14:51",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
