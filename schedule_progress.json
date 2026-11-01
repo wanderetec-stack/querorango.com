@@ -1,5 +1,5 @@
 {
-  "current_total": 1088,
+  "current_total": 1090,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -3198,9 +3198,20 @@
         "https://querorango.com/receitas/virais/croissant-prensado-caramelizado-crocante-versao-especial-28/",
         "https://querorango.com/receitas/frango/rolinho-de-frango-com-bacon-e-queijo-versao-especial-28/"
       ]
+    },
+    {
+      "timestamp": "2026-11-01 15:00:00",
+      "count": 2,
+      "errors": 0,
+      "new_total": 1090,
+      "queue_remaining": 1210,
+      "urls": [
+        "https://querorango.com/receitas/massas/capeletti-em-brodo-aromatico-de-ervas-versao-especial-28/",
+        "https://querorango.com/receitas/carne-moida/croquete-holandes-de-carne-moida-suave-versao-especial-28/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-11-01 07:26:50",
+  "last_run": "2026-11-01 15:00:00",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
