@@ -1,5 +1,5 @@
 {
-  "current_total": 1096,
+  "current_total": 1098,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -3242,9 +3242,20 @@
         "https://querorango.com/receitas/sopas/caldo-de-mocoto-revigorante-com-pimenta-versao-especial-28/",
         "https://querorango.com/receitas/sem-gluten/brownie-funcional-de-batata-doce-com-cacau-versao-especial-28/"
       ]
+    },
+    {
+      "timestamp": "2026-11-02 15:38:37",
+      "count": 2,
+      "errors": 0,
+      "new_total": 1098,
+      "queue_remaining": 1202,
+      "urls": [
+        "https://querorango.com/receitas/vegetarianas/escondidinho-de-mandioca-com-shimeji-versao-especial-28/",
+        "https://querorango.com/receitas/cafe-da-manha/iogurte-natural-com-frutas-e-mel-silvestre-versao-especial-28/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-11-02 05:53:06",
+  "last_run": "2026-11-02 15:38:37",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
