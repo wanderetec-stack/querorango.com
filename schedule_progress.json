@@ -1,5 +1,5 @@
 {
-  "current_total": 1104,
+  "current_total": 1106,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -3286,9 +3286,20 @@
         "https://querorango.com/receitas/saudavel/wrap-low-carb-de-alface-com-frango-desfiado-versao-especial-29/",
         "https://querorango.com/receitas/economicas/cuscuz-temperado-com-cebola-e-manteiga-de-garrafa-versao-especial-29/"
       ]
+    },
+    {
+      "timestamp": "2026-11-03 20:56:26",
+      "count": 2,
+      "errors": 0,
+      "new_total": 1106,
+      "queue_remaining": 1194,
+      "urls": [
+        "https://querorango.com/receitas/bolos/bolo-simples-de-caneca-no-micro-ondas-versao-especial-29/",
+        "https://querorango.com/receitas/sobremesas/creme-de-papaia-com-licor-de-cassis-versao-especial-29/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-11-03 15:01:34",
+  "last_run": "2026-11-03 20:56:26",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
