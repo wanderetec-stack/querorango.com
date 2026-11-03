@@ -1,5 +1,5 @@
 {
-  "current_total": 1100,
+  "current_total": 1102,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -3264,9 +3264,20 @@
         "https://querorango.com/receitas/air-fryer/abobrinha-gratinada-com-crosta-de-parmesao-versao-especial-29/",
         "https://querorango.com/receitas/almoco/moqueca-mista-de-peixe-e-camarao-versao-especial-29/"
       ]
+    },
+    {
+      "timestamp": "2026-11-03 06:37:43",
+      "count": 2,
+      "errors": 0,
+      "new_total": 1102,
+      "queue_remaining": 1198,
+      "urls": [
+        "https://querorango.com/receitas/rapidas/salada-de-feijao-fradinho-com-vinagrete-versao-especial-29/",
+        "https://querorango.com/receitas/marmitas/salada-de-batata-com-molho-verde-de-iogurte-versao-especial-29/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-11-02 23:27:11",
+  "last_run": "2026-11-03 06:37:43",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
