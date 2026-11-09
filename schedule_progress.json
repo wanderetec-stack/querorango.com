@@ -1,5 +1,5 @@
 {
-  "current_total": 1148,
+  "current_total": 1150,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -3528,9 +3528,20 @@
         "https://querorango.com/receitas/bolos/bolo-toalha-felpuda-molhadinho-de-coco-versao-especial-31/",
         "https://querorango.com/receitas/sobremesas/manjar-branco-de-coco-com-calda-de-ameixa-versao-especial-31/"
       ]
+    },
+    {
+      "timestamp": "2026-11-09 16:10:25",
+      "count": 2,
+      "errors": 0,
+      "new_total": 1150,
+      "queue_remaining": 1150,
+      "urls": [
+        "https://querorango.com/receitas/paes/pao-australiano-escuro-com-mel-e-cacau-versao-especial-31/",
+        "https://querorango.com/receitas/virais/batata-frita-tornado-em-espiral-com-queijo-versao-especial-31/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-11-09 06:10:23",
+  "last_run": "2026-11-09 16:10:25",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
