@@ -1,5 +1,5 @@
 {
-  "current_total": 1150,
+  "current_total": 1152,
   "goal": 2000,
   "daily_batch_size": 10,
   "published_batches": [
@@ -3539,9 +3539,20 @@
         "https://querorango.com/receitas/paes/pao-australiano-escuro-com-mel-e-cacau-versao-especial-31/",
         "https://querorango.com/receitas/virais/batata-frita-tornado-em-espiral-com-queijo-versao-especial-31/"
       ]
+    },
+    {
+      "timestamp": "2026-11-10 00:39:32",
+      "count": 2,
+      "errors": 0,
+      "new_total": 1152,
+      "queue_remaining": 1148,
+      "urls": [
+        "https://querorango.com/receitas/frango/frango-tikka-masala-com-molho-cremoso-versao-especial-31/",
+        "https://querorango.com/receitas/massas/talharim-ao-pesto-genoves-com-castanhas-versao-especial-31/"
+      ]
     }
   ],
   "last_index_published": 10,
-  "last_run": "2026-11-09 16:10:25",
+  "last_run": "2026-11-10 00:39:32",
   "last_boteco_batch": "2026-09-05 22:23:41"
 }
