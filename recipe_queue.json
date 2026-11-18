@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "cafe-da-manha",
-    "title": "Ovos Benedict com Molho Holandês Caseiro Caseiro Clássico",
-    "slug": "ovos-benedict-com-molho-holandes-caseiro-caseiro-classico",
-    "main_ingredient": "ovos pochê com gema mole",
-    "secondary_ingredient": "fatias de brioche tostadas e molho",
-    "cook_time": "15 min",
-    "prep_time": "12 min",
-    "image_url": "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=600&q=80"
-  },
-  {
-    "category_slug": "air-fryer",
-    "title": "Mandioca Frita Crocante por Fora e Macia Tradicional da Vovó",
-    "slug": "mandioca-frita-crocante-por-fora-e-macia-tradicional-da-vovo",
-    "main_ingredient": "mandioca cozida",
-    "secondary_ingredient": "manteiga e sal marinho",
-    "cook_time": "20 min",
-    "prep_time": "10 min",
-    "image_url": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=600&q=80"
-  },
-  {
     "category_slug": "almoco",
     "title": "Picadinho Carioca com Banana da Terra e Ovo Tradicional da Vovó",
     "slug": "picadinho-carioca-com-banana-da-terra-e-ovo-tradicional-da-vovo",
