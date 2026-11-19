@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "almoco",
-    "title": "Picadinho Carioca com Banana da Terra e Ovo Tradicional da Vovó",
-    "slug": "picadinho-carioca-com-banana-da-terra-e-ovo-tradicional-da-vovo",
-    "main_ingredient": "carne bovina em cubinhos",
-    "secondary_ingredient": "banana da terra frita",
-    "cook_time": "35 min",
-    "prep_time": "20 min",
-    "image_url": "/assets/recipes/parmegiana.jpg"
-  },
-  {
-    "category_slug": "rapidas",
-    "title": "Frittata Rápida de Espinafre com Ricota Tradicional da Vovó",
-    "slug": "frittata-rapida-de-espinafre-com-ricota-tradicional-da-vovo",
-    "main_ingredient": "ovos batidos",
-    "secondary_ingredient": "folhas de espinafre e ricota",
-    "cook_time": "10 min",
-    "prep_time": "5 min",
-    "image_url": "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=600&q=80"
-  },
-  {
     "category_slug": "marmitas",
     "title": "Frango com Quiabo e Molho Rústico Tradicional da Vovó",
     "slug": "frango-com-quiabo-e-molho-rustico-tradicional-da-vovo",
