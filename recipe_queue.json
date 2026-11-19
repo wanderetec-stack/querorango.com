@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "marmitas",
-    "title": "Frango com Quiabo e Molho Rústico Tradicional da Vovó",
-    "slug": "frango-com-quiabo-e-molho-rustico-tradicional-da-vovo",
-    "main_ingredient": "cubos de peito de frango",
-    "secondary_ingredient": "quiabo fatiado sem baba",
-    "cook_time": "30 min",
-    "prep_time": "15 min",
-    "image_url": "/assets/recipes/rocambole-carne.jpg"
-  },
-  {
-    "category_slug": "saudavel",
-    "title": "Salada Morna de Quinoa com Aspargos Grelhados Tradicional da Vovó",
-    "slug": "salada-morna-de-quinoa-com-aspargos-grelhados-tradicional-da-vovo",
-    "main_ingredient": "quinoa cozida al dente",
-    "secondary_ingredient": "aspargos frescos e azeite",
-    "cook_time": "15 min",
-    "prep_time": "10 min",
-    "image_url": "/assets/recipes/panqueca-americana.jpg"
-  },
-  {
     "category_slug": "economicas",
     "title": "Arroz Cremoso de Sobras com Requeijão e Milho Tradicional da Vovó",
     "slug": "arroz-cremoso-de-sobras-com-requeijao-e-milho-tradicional-da-vovo",
