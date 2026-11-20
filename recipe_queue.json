@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "virais",
-    "title": "Pipoca Gourmet com Ninho e Chocolate Branco Tradicional da Vovó",
-    "slug": "pipoca-gourmet-com-ninho-e-chocolate-branco-tradicional-da-vovo",
-    "main_ingredient": "milho de pipoca estourado",
-    "secondary_ingredient": "chocolate branco derretido e ninho",
-    "cook_time": "15 min",
-    "prep_time": "10 min",
-    "image_url": "https://images.unsplash.com/photo-1537640538966-79f369143f8f?w=600&q=80"
-  },
-  {
-    "category_slug": "frango",
-    "title": "Frango com Quiabo Caipira de Panela Tradicional da Vovó",
-    "slug": "frango-com-quiabo-caipira-de-panela-tradicional-da-vovo",
-    "main_ingredient": "frango em pedaços dourados",
-    "secondary_ingredient": "quiabo fresco sem baba e alho",
-    "cook_time": "40 min",
-    "prep_time": "20 min",
-    "image_url": "/assets/recipes/parmegiana.jpg"
-  },
-  {
     "category_slug": "massas",
     "title": "Ravioli de Abóbora com Manteiga e Sálvia Tradicional da Vovó",
     "slug": "ravioli-de-abobora-com-manteiga-e-salvia-tradicional-da-vovo",
