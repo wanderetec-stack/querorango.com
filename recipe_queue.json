@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "sopas",
-    "title": "Caldo de Abóbora com Gengibre e Frango Tradicional da Vovó",
-    "slug": "caldo-de-abobora-com-gengibre-e-frango-tradicional-da-vovo",
-    "main_ingredient": "abóbora moranga aveludada",
-    "secondary_ingredient": "peito de frango desfiado e gengibre",
-    "cook_time": "30 min",
-    "prep_time": "12 min",
-    "image_url": "https://images.unsplash.com/photo-1547592180-85f173990554?w=600&q=80"
-  },
-  {
-    "category_slug": "sem-gluten",
-    "title": "Bolo de Fubá Sem Glúten Cremoso com Erva-Doce Tradicional da Vovó",
-    "slug": "bolo-de-fuba-sem-gluten-cremoso-com-erva-doce-tradicional-da-vovo",
-    "main_ingredient": "fubá mimoso puro",
-    "secondary_ingredient": "leite vegetal de coco e erva-doce",
-    "cook_time": "40 min",
-    "prep_time": "15 min",
-    "image_url": "/assets/recipes/pao-integral.jpg"
-  },
-  {
     "category_slug": "vegetarianas",
     "title": "Hambúrguer de Lentilha com Ervas Frescas Tradicional da Vovó",
     "slug": "hamburguer-de-lentilha-com-ervas-frescas-tradicional-da-vovo",
