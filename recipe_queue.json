@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "regional",
-    "title": "Caruru Tradicional com Quiabo e Dendê Tradicional da Vovó",
-    "slug": "caruru-tradicional-com-quiabo-e-dende-tradicional-da-vovo",
-    "main_ingredient": "quiabos picadinhos finos",
-    "secondary_ingredient": "camarões secos, castanhas e dendê",
-    "cook_time": "30 min",
-    "prep_time": "20 min",
-    "image_url": "/assets/recipes/feijao-tropeiro.jpg"
-  },
-  {
-    "category_slug": "lanches",
-    "title": "Coxinha de Carne Seca com Requeijão Tradicional da Vovó",
-    "slug": "coxinha-de-carne-seca-com-requeijao-tradicional-da-vovo",
-    "main_ingredient": "massa de mandioca dourada",
-    "secondary_ingredient": "carne seca desfiada com catupiry",
-    "cook_time": "20 min",
-    "prep_time": "25 min",
-    "image_url": "/assets/recipes/pastel.jpg"
-  },
-  {
     "category_slug": "sopas",
     "title": "Caldo de Abóbora com Gengibre e Frango Tradicional da Vovó",
     "slug": "caldo-de-abobora-com-gengibre-e-frango-tradicional-da-vovo",
