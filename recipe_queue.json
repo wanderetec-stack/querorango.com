@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "saudavel",
-    "title": "Hambúrguer de Salmão com Gergelim Preto Especial com Toque do Chef",
-    "slug": "hamburguer-de-salmao-com-gergelim-preto-especial-com-toque-do-chef",
-    "main_ingredient": "salmão fresco picado",
-    "secondary_ingredient": "gergelim e cebolinha verde",
-    "cook_time": "12 min",
-    "prep_time": "12 min",
-    "image_url": "https://images.unsplash.com/photo-1568051243851-f9b136146e97?w=600&q=80"
-  },
-  {
-    "category_slug": "economicas",
-    "title": "Bolinho de Batata Frito com Ervas Especial com Toque do Chef",
-    "slug": "bolinho-de-batata-frito-com-ervas-especial-com-toque-do-chef",
-    "main_ingredient": "purê de batatas sobrado",
-    "secondary_ingredient": "farinha e salsinha picada",
-    "cook_time": "15 min",
-    "prep_time": "10 min",
-    "image_url": "https://images.unsplash.com/photo-1619740455993-9e612b1af08a?w=600&q=80"
-  },
-  {
     "category_slug": "bolos",
     "title": "Bolo Mesclado de Chocolate com Baunilha Especial com Toque do Chef",
     "slug": "bolo-mesclado-de-chocolate-com-baunilha-especial-com-toque-do-chef",
