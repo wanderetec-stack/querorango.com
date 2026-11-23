@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "bolos",
-    "title": "Bolo Mesclado de Chocolate com Baunilha Especial com Toque do Chef",
-    "slug": "bolo-mesclado-de-chocolate-com-baunilha-especial-com-toque-do-chef",
-    "main_ingredient": "massa amanteigada dupla",
-    "secondary_ingredient": "cacau em pó e essência de baunilha",
-    "cook_time": "40 min",
-    "prep_time": "15 min",
-    "image_url": "/assets/recipes/bolo-laranja.jpg"
-  },
-  {
-    "category_slug": "sobremesas",
-    "title": "Mousse de Limão Rápida com Raspas Especial com Toque do Chef",
-    "slug": "mousse-de-limao-rapida-com-raspas-especial-com-toque-do-chef",
-    "main_ingredient": "leite condensado e limão",
-    "secondary_ingredient": "raspas finas de limão taiti",
-    "cook_time": "10 min",
-    "prep_time": "10 min",
-    "image_url": "/assets/recipes/mousse-maracuja.jpg"
-  },
-  {
     "category_slug": "paes",
     "title": "Pão de Centeio Rústico com Sementes de Linhaça Especial com Toque do Chef",
     "slug": "pao-de-centeio-rustico-com-sementes-de-linhaca-especial-com-toque-do-chef",
