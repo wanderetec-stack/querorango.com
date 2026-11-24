@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "peixes",
-    "title": "Camarão Internacional com Arroz Cremoso e Palha Especial com Toque do Chef",
-    "slug": "camarao-internacional-com-arroz-cremoso-e-palha-especial-com-toque-do-chef",
-    "main_ingredient": "camarões médios limpos",
-    "secondary_ingredient": "presunto, ervilhas e queijo muçarela",
-    "cook_time": "25 min",
-    "prep_time": "15 min",
-    "image_url": "/assets/recipes/peixe-assado.jpg"
-  },
-  {
-    "category_slug": "regional",
-    "title": "Maniçoba Paraense com Carnes Nobres Especial com Toque do Chef",
-    "slug": "manicoba-paraense-com-carnes-nobres-especial-com-toque-do-chef",
-    "main_ingredient": "folhas de maniva cozidas",
-    "secondary_ingredient": "lombo, paio, toucinho e costela",
-    "cook_time": "90 min",
-    "prep_time": "30 min",
-    "image_url": "/assets/recipes/cuscuz.jpg"
-  },
-  {
     "category_slug": "lanches",
     "title": "Pastel de Queijo com Orégano e Tomate Especial com Toque do Chef",
     "slug": "pastel-de-queijo-com-oregano-e-tomate-especial-com-toque-do-chef",
