@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "cafe-da-manha",
-    "title": "Panqueca Alta com Manteiga e Mirtilos Especial com Toque do Chef",
-    "slug": "panqueca-alta-com-manteiga-e-mirtilos-especial-com-toque-do-chef",
-    "main_ingredient": "massa fofa americana",
-    "secondary_ingredient": "manteiga fresca derretida e mirtilos",
-    "cook_time": "15 min",
-    "prep_time": "8 min",
-    "image_url": "/assets/recipes/panqueca-americana.jpg"
-  },
-  {
-    "category_slug": "air-fryer",
-    "title": "Almôndegas Recheadas com Queijo Prato Fácil e Prático para o Dia a Dia",
-    "slug": "almondegas-recheadas-com-queijo-prato-facil-e-pratico-para-o-dia-a-dia",
-    "main_ingredient": "carne moída",
-    "secondary_ingredient": "cubinhos de queijo prato",
-    "cook_time": "18 min",
-    "prep_time": "15 min",
-    "image_url": "/assets/recipes/pao-de-queijo.jpg"
-  },
-  {
     "category_slug": "almoco",
     "title": "Escondidinho de Mandioca com Carne de Sol Fácil e Prático para o Dia a Dia",
     "slug": "escondidinho-de-mandioca-com-carne-de-sol-facil-e-pratico-para-o-dia-a-dia",
