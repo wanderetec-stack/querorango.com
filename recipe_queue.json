@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "marmitas",
-    "title": "Purê de Abóbora Cabotiá com Gengibre Fácil e Prático para o Dia a Dia",
-    "slug": "pure-de-abobora-cabotia-com-gengibre-facil-e-pratico-para-o-dia-a-dia",
-    "main_ingredient": "abóbora cabotiá cozida",
-    "secondary_ingredient": "gengibre ralado e azeite",
-    "cook_time": "20 min",
-    "prep_time": "10 min",
-    "image_url": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=600&q=80"
-  },
-  {
-    "category_slug": "saudavel",
-    "title": "Smoothie de Morango com Leite de Amêndoas Fácil e Prático para o Dia a Dia",
-    "slug": "smoothie-de-morango-com-leite-de-amendoas-facil-e-pratico-para-o-dia-a-dia",
-    "main_ingredient": "morangos congelados",
-    "secondary_ingredient": "leite vegetal de amêndoas",
-    "cook_time": "5 min",
-    "prep_time": "5 min",
-    "image_url": "/assets/recipes/hamburguer.jpg"
-  },
-  {
     "category_slug": "economicas",
     "title": "Macarrão com Molho de Salsicha e Pimentão Fácil e Prático para o Dia a Dia",
     "slug": "macarrao-com-molho-de-salsicha-e-pimentao-facil-e-pratico-para-o-dia-a-dia",
