@@ -1,25 +1,5 @@
 [
   {
-    "category_slug": "sobremesas",
-    "title": "Torta Gelada de Bolacha com Brigadeiro Branco Fácil e Prático para o Dia a Dia",
-    "slug": "torta-gelada-de-bolacha-com-brigadeiro-branco-facil-e-pratico-para-o-dia-a-dia",
-    "main_ingredient": "biscoito maisena",
-    "secondary_ingredient": "brigadeiro branco e ganache",
-    "cook_time": "20 min",
-    "prep_time": "20 min",
-    "image_url": "/assets/recipes/mousse-chocolate.jpg"
-  },
-  {
-    "category_slug": "paes",
-    "title": "Brioche Amanteigado Francês Douradinho Fácil e Prático para o Dia a Dia",
-    "slug": "brioche-amanteigado-frances-douradinho-facil-e-pratico-para-o-dia-a-dia",
-    "main_ingredient": "massa rica com ovos",
-    "secondary_ingredient": "manteiga gelada em ponto de pomada",
-    "cook_time": "30 min",
-    "prep_time": "30 min",
-    "image_url": "/assets/recipes/pao-alho.jpg"
-  },
-  {
     "category_slug": "virais",
     "title": "Pão de Alho Vulcão com Quatro Queijos Fácil e Prático para o Dia a Dia",
     "slug": "pao-de-alho-vulcao-com-quatro-queijos-facil-e-pratico-para-o-dia-a-dia",
